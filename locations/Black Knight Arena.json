@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Black Knight Arena",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Mist",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mist Black Knight Arena",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Black Knight Arena",
+                        "x": 339,
+                        "y": 813,
+                        "size": 40,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "White Castletown",
+                        "x": 1164,
+                        "y": 4824,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Lindamea",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Black Knights Ring",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Black Knight Arena",
+                        "x": 343,
+                        "y": 1081,
+                        "size": 40,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "White Castletown",
+                        "x": 1144,
+                        "y": 5128,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]
