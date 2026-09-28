@@ -29,7 +29,7 @@
                         "map": "ULT",
                         "x": 1421,
                         "y": 3058,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -55,7 +55,7 @@
                         "map": "ULT",
                         "x": 912,
                         "y": 2218,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -81,7 +81,7 @@
                         "map": "ULT",
                         "x": 1090,
                         "y": 3336,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -107,7 +107,7 @@
                         "map": "ULT",
                         "x": 1493,
                         "y": 3174,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -133,7 +133,7 @@
                         "map": "ULT",
                         "x": 1267,
                         "y": 581,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -159,7 +159,7 @@
                         "map": "ULT",
                         "x": 716,
                         "y": 466,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -185,7 +185,7 @@
                         "map": "ULT",
                         "x": 759,
                         "y": 1231,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -211,7 +211,7 @@
                         "map": "ULT",
                         "x": 470,
                         "y": 436,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -237,7 +237,7 @@
                         "map": "ULT",
                         "x": 1325,
                         "y": 2582,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -263,7 +263,7 @@
                         "map": "ULT",
                         "x": 1483,
                         "y": 617,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -289,7 +289,7 @@
                         "map": "ULT",
                         "x": 471,
                         "y": 209,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]

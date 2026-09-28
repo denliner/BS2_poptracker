@@ -29,7 +29,7 @@
                         "map": "Windless Valley",
                         "x": 1962,
                         "y": 2447,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -55,7 +55,7 @@
                         "map": "Windless Valley",
                         "x": 1548,
                         "y": 2468,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]

@@ -29,7 +29,7 @@
                         "map": "OWU",
                         "x": 2580,
                         "y": 2068,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -55,7 +55,7 @@
                         "map": "OWU",
                         "x": 166,
                         "y": 2155,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -81,7 +81,7 @@
                         "map": "OWU",
                         "x": 811,
                         "y": 1040,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -125,7 +125,7 @@
                         "map": "OWU",
                         "x": 178,
                         "y": 1543,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -151,7 +151,7 @@
                         "map": "OWU",
                         "x": 2061,
                         "y": 3344,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -177,7 +177,7 @@
                         "map": "OWU",
                         "x": 2190,
                         "y": 2042,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -203,7 +203,7 @@
                         "map": "OWU",
                         "x": 851,
                         "y": 831,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -229,7 +229,7 @@
                         "map": "OWU",
                         "x": 1637,
                         "y": 3234,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -255,7 +255,7 @@
                         "map": "OWU",
                         "x": 847,
                         "y": 987,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]

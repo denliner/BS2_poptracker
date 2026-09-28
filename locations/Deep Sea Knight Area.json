@@ -35,7 +35,7 @@
                         "map": "Deep Sea Knight Area",
                         "x": 521,
                         "y": 256,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -79,7 +79,7 @@
                         "map": "Deep Sea Knight Area",
                         "x": 400,
                         "y": 2615,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -105,7 +105,7 @@
                         "map": "Deep Sea Knight Area",
                         "x": 363,
                         "y": 2913,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -131,7 +131,7 @@
                         "map": "Deep Sea Knight Area",
                         "x": 408,
                         "y": 2885,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]

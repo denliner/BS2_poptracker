@@ -29,7 +29,7 @@
                         "map": "Madness Mountain",
                         "x": 3434,
                         "y": 1105,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -55,7 +55,7 @@
                         "map": "Madness Mountain",
                         "x": 3535,
                         "y": 1925,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -81,7 +81,7 @@
                         "map": "Madness Mountain",
                         "x": 563,
                         "y": 1526,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]

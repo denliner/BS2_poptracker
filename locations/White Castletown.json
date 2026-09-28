@@ -29,7 +29,7 @@
                         "map": "White Castletown",
                         "x": 2250,
                         "y": 1397,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -81,7 +81,7 @@
                         "map": "White Castletown",
                         "x": 2382,
                         "y": 1314,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -107,7 +107,7 @@
                         "map": "White Castletown",
                         "x": 40,
                         "y": 2903,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -139,7 +139,7 @@
                         "map": "White Castletown",
                         "x": 361,
                         "y": 683,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -165,7 +165,7 @@
                         "map": "White Castletown",
                         "x": 82,
                         "y": 2675,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -191,14 +191,14 @@
                         "map": "White Castletown",
                         "x": 2351,
                         "y": 1121,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     },
                     {
                         "map": "Deserted Road",
                         "x": 5834,
                         "y": 143,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -224,14 +224,14 @@
                         "map": "White Castletown",
                         "x": 2430,
                         "y": 1121,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     },
                     {
                         "map": "Deserted Road",
                         "x": 6030,
                         "y": 2747,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]

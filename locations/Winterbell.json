@@ -29,7 +29,7 @@
                         "map": "Winterbell",
                         "x": 593,
                         "y": 1449,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -55,7 +55,7 @@
                         "map": "Winterbell",
                         "x": 206,
                         "y": 1490,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -81,7 +81,7 @@
                         "map": "Winterbell",
                         "x": 55,
                         "y": 1080,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]

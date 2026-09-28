@@ -93,6 +93,15 @@
                 }
             },
             {
+                "title": "Deep Sea Knight Area",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Deep Sea Knight Area"
+                    ]
+                }
+            },
+            {
                 "title": "Endless Tea Party",
                 "content": {
                     "type": "map",
@@ -309,6 +318,15 @@
                 }
             },
             {
+                "title": "Erebus",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Erebus"
+                    ]
+                }
+            },
+            {
                 "title": "Slaughterhouse",
                 "content": {
                     "type": "map",
@@ -327,11 +345,29 @@
                 }
             },
             {
-                "title": "White Castletown",
+                "title": "Deserted Road",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "White Castletown"
+                        "Deserted Road"
+                    ]
+                }
+            },
+            {
+                "title": "Snow Field",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Snow Field"
+                    ]
+                }
+            },
+            {
+                "title": "Madness Mountain",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Madness Mountain"
                     ]
                 }
             },
@@ -344,6 +380,16 @@
                     ]
                 }
             },
+            {
+                "title": "White Castletown",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "White Castletown"
+                    ]
+                }
+            },
+
             {
                 "title": "Winterbell",
                 "content": {
@@ -710,11 +756,11 @@
                 }
             },
             {
-                "title": "Snow Road",
+                "title": "Snow Field",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Snow Road"
+                        "Snow Field"
                     ]
                 }
             },

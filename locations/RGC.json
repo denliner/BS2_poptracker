@@ -29,7 +29,7 @@
                         "map": "RGC",
                         "x": 3063,
                         "y": 948,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -55,7 +55,7 @@
                         "map": "RGC",
                         "x": 1880,
                         "y": 1623,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -93,7 +93,7 @@
                         "map": "RGC",
                         "x": 1749,
                         "y": 1983,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -119,7 +119,7 @@
                         "map": "RGC",
                         "x": 2293,
                         "y": 292,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -145,7 +145,7 @@
                         "map": "RGC",
                         "x": 2343,
                         "y": 295,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -171,7 +171,7 @@
                         "map": "RGC",
                         "x": 83,
                         "y": 2549,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -197,7 +197,7 @@
                         "map": "RGC",
                         "x": 2229,
                         "y": 290,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -223,7 +223,7 @@
                         "map": "RGC",
                         "x": 2778,
                         "y": 1227,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -255,7 +255,7 @@
                         "map": "RGC",
                         "x": 1152,
                         "y": 2697,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]

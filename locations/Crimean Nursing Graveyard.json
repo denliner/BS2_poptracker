@@ -29,7 +29,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 2301,
                         "y": 1451,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -55,7 +55,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 3690,
                         "y": 3799,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -81,7 +81,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 3961,
                         "y": 2477,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -107,7 +107,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 3371,
                         "y": 156,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -133,7 +133,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 2742,
                         "y": 581,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -159,7 +159,7 @@
                         "map": "Florence Arena",
                         "x": 489,
                         "y": 3276,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -185,7 +185,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 3960,
                         "y": 4493,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -211,7 +211,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 3202,
                         "y": 2389,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -237,7 +237,7 @@
                         "map": "Florence Arena",
                         "x": 480,
                         "y": 401,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -263,7 +263,7 @@
                         "map": "Florence Arena",
                         "x": 483,
                         "y": 3021,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -289,7 +289,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 2599,
                         "y": 3845,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -315,7 +315,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 3743,
                         "y": 2049,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -341,7 +341,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 273,
                         "y": 4836,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]
@@ -367,7 +367,7 @@
                         "map": "Crimean Nursing Graveyard",
                         "x": 3660,
                         "y": 3837,
-                        "size": 40,
+                        "size": 80,
                         "shape": "rect"
                     }
                 ]

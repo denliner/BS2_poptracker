@@ -29,7 +29,7 @@
                         "map": "PoF",
                         "x": 1777,
                         "y": 1747,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -55,7 +55,7 @@
                         "map": "PoF",
                         "x": 646,
                         "y": 1665,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
@@ -81,7 +81,7 @@
                         "map": "PoF",
                         "x": 1934,
                         "y": 711,
-                        "size": 40,
+                        "size": 60,
                         "shape": "rect"
                     }
                 ]
