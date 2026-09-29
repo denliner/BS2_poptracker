@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "ASH",
+                "name": "Station Hanover",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -49,7 +49,7 @@
                 ]
             },
             {
-                "name": "BFM",
+                "name": "Billingsgate Fish Market",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -149,7 +149,7 @@
                 ]
             },
             {
-                "name": "BoG",
+                "name": "Beach of Grief",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -197,7 +197,7 @@
                 ]
             },
             {
-                "name": "CC",
+                "name": "Crash Chamber",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -245,7 +245,7 @@
                 ]
             },
             {
-                "name": "CD",
+                "name": "Chaos Dungeon",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -269,7 +269,7 @@
                 ]
             },
             {
-                "name": "CR",
+                "name": "Carroll River",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -405,7 +405,7 @@
                 ]
             },
             {
-                "name": "DM",
+                "name": "Duchess Mansion",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -469,7 +469,7 @@
                 ]
             },
             {
-                "name": "DS",
+                "name": "Deep Sea",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -633,7 +633,7 @@
                 ]
             },
             {
-                "name": "FF",
+                "name": "Fuming Forest",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -725,7 +725,7 @@
                 ]
             },
             {
-                "name": "GotH",
+                "name": "Garden of Heart",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -765,7 +765,7 @@
                 ]
             },
             {
-                "name": "IF",
+                "name": "Infinite Food",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -877,7 +877,7 @@
                 ]
             },
             {
-                "name": "LC",
+                "name": "Liddell Cemetary",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -929,7 +929,7 @@
                 ]
             },
             {
-                "name": "LD",
+                "name": "Library Dream",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1125,7 +1125,7 @@
                 ]
             },
             {
-                "name": "LT",
+                "name": "Lutwidge Town",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1229,7 +1229,7 @@
                 ]
             },
             {
-                "name": "MV",
+                "name": "Mushroom Village",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1269,7 +1269,7 @@
                 ]
             },
             {
-                "name": "MW",
+                "name": "Mental Ward",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1381,7 +1381,7 @@
                 ]
             },
             {
-                "name": "NF",
+                "name": "Nameless Forest",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1441,7 +1441,7 @@
                 ]
             },
             {
-                "name": "ORS",
+                "name": "Oysters Rotted Sea",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1493,7 +1493,7 @@
                 ]
             },
             {
-                "name": "OWU",
+                "name": "Ox Ward University",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1561,7 +1561,7 @@
                 ]
             },
             {
-                "name": "PoBT",
+                "name": "Pond of Bloody Tears",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1653,7 +1653,7 @@
                 ]
             },
             {
-                "name": "PoF",
+                "name": "Park of Fog",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1685,7 +1685,7 @@
                 ]
             },
             {
-                "name": "QL",
+                "name": "Queensland",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1749,7 +1749,7 @@
                 ]
             },
             {
-                "name": "RCF",
+                "name": "Red castle Frissel",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1841,7 +1841,7 @@
                 ]
             },
             {
-                "name": "RGC",
+                "name": "Ripon Cathedral",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1909,7 +1909,7 @@
                 ]
             },
             {
-                "name": "RH",
+                "name": "Rabbit Hole",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1949,7 +1949,7 @@
                 ]
             },
             {
-                "name": "SCT",
+                "name": "Sick Clock Tower",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -2005,7 +2005,7 @@
                 ]
             },
             {
-                "name": "SF",
+                "name": "Spore Forest",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -2065,7 +2065,7 @@
                 ]
             },
             {
-                "name": "SG",
+                "name": "Ship Graveyard",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -2101,7 +2101,7 @@
                 ]
             },
             {
-                "name": "SH",
+                "name": "Slaughterhouse",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -2205,7 +2205,7 @@
                 ]
             },
             {
-                "name": "ULT",
+                "name": "Upper Lutwidge Town",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
