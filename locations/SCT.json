@@ -5,7 +5,9 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "mistbillingsgatefishmarket,[mistfumingforest],mistslaughterhouse,edithsring,mistoxwarduniversity",
+            "mistbillingsgatefishmarket,[cheshirecatring],mistslaughterhouse,edithsring,mistoxwarduniversity",
+            "mistupperlutwidgetown,edithsring,mistoxwarduniversity"
         ],
         "children": [
             {
@@ -14,7 +16,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistsickclocktower"
                 ],
                 "sections": [
                     {
@@ -40,7 +42,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistsickclocktower,mistjubjubnest"
                 ],
                 "sections": [
                     {
@@ -66,7 +68,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistsickclocktower"
                 ],
                 "sections": [
                     {
@@ -92,7 +94,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistsickclocktower,mistjubjubnest"
                 ],
                 "sections": [
                     {
@@ -124,7 +126,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistsickclocktower"
                 ],
                 "sections": [
                     {
@@ -150,7 +152,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistsickclocktower"
                 ],
                 "sections": [
                     {
@@ -176,7 +178,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistsickclocktower"
                 ],
                 "sections": [
                     {

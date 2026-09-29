@@ -19,163 +19,163 @@
                 "sections": [
                     {
                         "name": "Butchers Chainsaw (exchange for Soul of the Butcher)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthebutcher"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Deep Sea Knights Anchor (exchange for Soul of the Deep Sea Knight)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthedeepseaknight"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "God Fishs Ring (exchange for Soul of the Gods Odd Fish)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthegodsoddfish"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Guardian Angel (exchange for Soul of the Wet Nurses)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthewetnurses"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Holy Gunblade (exchange for Soul of Florence)",
-                        "access_rules": [],
+                        "access_rules": ["soulofflorence"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Knight of Clubs Ring (exchange for Soul of the Knight of Clubs)",
-                        "access_rules": [],
+                        "access_rules": ["souloftheknightofclubs"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Knight of Hearts Ring (exchange for Soul of the Knight of Hearts)",
-                        "access_rules": [],
+                        "access_rules": ["souloftheknightofhearts"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Knight of Spades Ring (exchange for Soul of the Knight of Spades)",
-                        "access_rules": [],
+                        "access_rules": ["souloftheknightofspades"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Leidens Twin Axes (exchange for Soul of the White Lion)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthewhitelion"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Mad Bow Jubjub (exchange for Soul of the Jubjub)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthejubjub"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Manslayers Shotgun (exchange for Soul of Jack)",
-                        "access_rules": [],
+                        "access_rules": ["soulofjack"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Porcupine Shield (exchange for Soul of Distraction)",
-                        "access_rules": [],
+                        "access_rules": ["soulofdistraction"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Ring of Heaven (exchange for Soul of the Bright Star)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthebrightstar"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Ring of Steel Protection (exchange for Soul of the Gray Eagle)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthegrayeagle"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Rotten Scythe Jabberwock (exchange for Soul of the Jabberwock)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthejabberwock"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Sorcery [Ghostfire] (exchange for Soul of the Bellcaller)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthebellcaller"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Sorcery [Heavy Soul Discharge] (exchange for Soul of the Slave Empress)",
-                        "access_rules": [],
+                        "access_rules": ["souloftheslaveempress"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Sorcery [Kings Order] (exchange for Soul of the Slave Emperor)",
-                        "access_rules": [],
+                        "access_rules": ["souloftheslaveemperor"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Sorcery [Omnibless] (exchange for Soul of the Dean)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthedean"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Sorcery [Omnicurse] (exchange for Soul of Queen of Torture Tools)",
-                        "access_rules": [],
+                        "access_rules": ["soulofqueenoftorturetools"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Sorcery [Rampage] (exchange for Soul of Conceit)",
-                        "access_rules": [],
+                        "access_rules": ["soulofconceit"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Sorcery [Stone Flesh] (exchange for Soul of the Old Knight)",
-                        "access_rules": [],
+                        "access_rules": ["souloftheoldknight"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Spell Stoneplate Ring (exchange for Soul of the Pregnant Cake)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthepregnantcake"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Unis Rapier (exchange for Soul of the White Unicorn)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthewhiteunicorn"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Violent Sword Bandersnatch (exchange for Soul of the Bandersnatch)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthebandersnatch"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Vorpal Blade (exchange for Soul of the Head-Hunting Beast)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthehead-huntingbeast"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Windless Wrap (exchange for Soul of the Winterbells Wind)",
-                        "access_rules": [],
+                        "access_rules": ["soulofthewinterbellswind"],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -222,7 +222,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistlibrarydream"
                 ],
                 "sections": [
                     {
@@ -280,7 +280,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    ""
                 ],
                 "sections": [
                     {
