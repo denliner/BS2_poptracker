@@ -32,9 +32,9 @@
         "codes": "ringofthewall"
     },
     {
-        "name": "mistmentalward",
+        "name": "Mist Mental Ward",
         "type": "toggle",
-        "img": "images/items/mistmentalward.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistmentalward"
@@ -96,9 +96,9 @@
         "codes": "armorofonimusha"
     },
     {
-        "name": "mistsporeforest",
+        "name": "Mist Spore Forest",
         "type": "toggle",
-        "img": "images/items/mistsporeforest.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistsporeforest"
@@ -192,9 +192,9 @@
         "codes": "butchersring"
     },
     {
-        "name": "mistinfinitefood",
+        "name": "Mist Infinite Food",
         "type": "toggle",
-        "img": "images/items/mistinfinitefood.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistinfinitefood"
@@ -216,9 +216,9 @@
         "codes": "fairytale[thefoxandthegrapes]"
     },
     {
-        "name": "mistcrimeannursinggraveyard",
+        "name": "Mist Crimean Nursing Graveyard",
         "type": "toggle",
-        "img": "images/items/mistcrimeannursinggraveyard.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistcrimeannursinggraveyard"
@@ -312,9 +312,9 @@
         "codes": "flamestoneplatering"
     },
     {
-        "name": "mistcrashchamber",
+        "name": "Mist Crash Chamber",
         "type": "toggle",
-        "img": "images/items/mistcrashchamber.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistcrashchamber"
@@ -368,9 +368,9 @@
         "codes": "sorcery[soulstream]"
     },
     {
-        "name": "mistliddellcemetary",
+        "name": "Mist Liddell Cemetary",
         "type": "toggle",
-        "img": "images/items/mistliddellcemetary.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistliddellcemetary"
@@ -434,7 +434,7 @@
     {
         "name": "progression9",
         "type": "toggle",
-        "img": "images/items/progression9.png",
+        "img": "images/items/progress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression9"
@@ -504,9 +504,9 @@
         "codes": "magicianhat"
     },
     {
-        "name": "mistblackknightarena",
+        "name": "Mist Black Knight Arena",
         "type": "toggle",
-        "img": "images/items/mistblackknightarena.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistblackknightarena"
@@ -528,9 +528,9 @@
         "codes": "sorcery[ruinousstorm]"
     },
     {
-        "name": "mistlibrarydream",
+        "name": "Mist Library Dream",
         "type": "toggle",
-        "img": "images/items/mistlibrarydream.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistlibrarydream"
@@ -560,9 +560,9 @@
         "codes": "bunnyheadpiece"
     },
     {
-        "name": "mistslaughterhouse",
+        "name": "Mist Slaughterhouse",
         "type": "toggle",
-        "img": "images/items/mistslaughterhouse.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistslaughterhouse"
@@ -736,9 +736,9 @@
         "codes": "ogrering"
     },
     {
-        "name": "mistupperlutwidgetown",
+        "name": "Mist Upper Lutwidge Town",
         "type": "toggle",
-        "img": "images/items/mistupperlutwidgetown.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistupperlutwidgetown"
@@ -866,7 +866,7 @@
     {
         "name": "progression2",
         "type": "toggle",
-        "img": "images/items/progression2.png",
+        "img": "images/items/progress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression2"
@@ -896,9 +896,9 @@
         "codes": "sorcery[grit]"
     },
     {
-        "name": "mistdodgsonbridge",
+        "name": "Mist Dodgson Bridge",
         "type": "toggle",
-        "img": "images/items/mistdodgsonbridge.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistdodgsonbridge"
@@ -1018,7 +1018,7 @@
     {
         "name": "covenant:mockturtle",
         "type": "toggle",
-        "img": "images/items/covenant:mockturtle.png",
+        "img": "images/items/covenant_mockturtle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:mockturtle"
@@ -1050,7 +1050,7 @@
     {
         "name": "covenant:walrus",
         "type": "toggle",
-        "img": "images/items/covenant:walrus.png",
+        "img": "images/items/covenant_walrus.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:walrus"
@@ -1080,9 +1080,9 @@
         "codes": "fairytalescrapthree"
     },
     {
-        "name": "mistmushroomvillage",
+        "name": "Mist Mushroom Village",
         "type": "toggle",
-        "img": "images/items/mistmushroomvillage.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistmushroomvillage"
@@ -1120,9 +1120,9 @@
         "codes": "soulofflorence"
     },
     {
-        "name": "mistpondofbloodytears",
+        "name": "Mist Pond of Bloody tears",
         "type": "toggle",
-        "img": "images/items/mistpondofbloodytears.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistpondofbloodytears"
@@ -1138,7 +1138,7 @@
     {
         "name": "progression5",
         "type": "toggle",
-        "img": "images/items/progression5.png",
+        "img": "images/items/progress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression5"
@@ -1154,7 +1154,7 @@
     {
         "name": "covenant:kuti",
         "type": "toggle",
-        "img": "images/items/covenant:kuti.png",
+        "img": "images/items/covenant_kuti.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:kuti"
@@ -1240,9 +1240,9 @@
         "codes": "ringofdraconicblessing"
     },
     {
-        "name": "mistflorencearena",
+        "name": "Mist Florence Arena",
         "type": "toggle",
-        "img": "images/items/mistflorencearena.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistflorencearena"
@@ -1296,9 +1296,9 @@
         "codes": "defeatedhein"
     },
     {
-        "name": "mistduchessmansion",
+        "name": "Mist Duchess Mansion",
         "type": "toggle",
-        "img": "images/items/mistduchessmansion.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistduchessmansion"
@@ -1312,9 +1312,9 @@
         "codes": "shieldoftheabyss"
     },
     {
-        "name": "mistdeepsea",
+        "name": "Mist Deep Sea",
         "type": "toggle",
-        "img": "images/items/mistdeepsea.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistdeepsea"
@@ -1424,9 +1424,9 @@
         "codes": "crossgreatshield"
     },
     {
-        "name": "mistjubjubsnest",
+        "name": "Mist JubJubs nest",
         "type": "toggle",
-        "img": "images/items/mistjubjubsnest.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistjubjubsnest"
@@ -1466,7 +1466,7 @@
     {
         "name": "progression3",
         "type": "toggle",
-        "img": "images/items/progression3.png",
+        "img": "images/items/progress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression3"
@@ -1538,7 +1538,7 @@
     {
         "name": "progression7",
         "type": "toggle",
-        "img": "images/items/progression7.png",
+        "img": "images/items/progress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression7"
@@ -1576,9 +1576,9 @@
         "codes": "blackvanguardsshield"
     },
     {
-        "name": "mistfumingforest",
+        "name": "Mist Fuming Forest",
         "type": "toggle",
-        "img": "images/items/mistfumingforest.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistfumingforest"
@@ -1626,7 +1626,7 @@
     {
         "name": "covenant:queenofhearts",
         "type": "toggle",
-        "img": "images/items/covenant:queenofhearts.png",
+        "img": "images/items/covenant_queenofhearts.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:queenofhearts"
@@ -1730,7 +1730,7 @@
     {
         "name": "covenant:bandersnatch",
         "type": "toggle",
-        "img": "images/items/covenant:bandersnatch.png",
+        "img": "images/items/covenant_bandersnatch.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:bandersnatch"
@@ -1776,9 +1776,9 @@
         "codes": "lawyersmask"
     },
     {
-        "name": "mistqueensland",
+        "name": "Mist Queensland",
         "type": "toggle",
-        "img": "images/items/mistqueensland.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistqueensland"
@@ -1906,7 +1906,7 @@
     {
         "name": "progression10",
         "type": "toggle",
-        "img": "images/items/progression10.png",
+        "img": "images/items/progress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression10"
@@ -1946,7 +1946,7 @@
     {
         "name": "covenant:bill",
         "type": "toggle",
-        "img": "images/items/covenant:bill.png",
+        "img": "images/items/covenant_bill.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:bill"
@@ -1954,7 +1954,7 @@
     {
         "name": "covenant:sho",
         "type": "toggle",
-        "img": "images/items/covenant:sho.png",
+        "img": "images/items/covenant_sho.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:sho"
@@ -1986,7 +1986,7 @@
     {
         "name": "covenant:dodo",
         "type": "toggle",
-        "img": "images/items/covenant:dodo.png",
+        "img": "images/items/covenant_dodo.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:dodo"
@@ -2018,7 +2018,7 @@
     {
         "name": "covenant:maidvictoria",
         "type": "toggle",
-        "img": "images/items/covenant:maidvictoria.png",
+        "img": "images/items/covenant_maidvictoria.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:maidvictoria"
@@ -2026,7 +2026,7 @@
     {
         "name": "progression4",
         "type": "toggle",
-        "img": "images/items/progression4.png",
+        "img": "images/items/progress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression4"
@@ -2042,7 +2042,7 @@
     {
         "name": "covenant:node",
         "type": "toggle",
-        "img": "images/items/covenant:node.png",
+        "img": "images/items/covenant_node.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:node"
@@ -2112,9 +2112,9 @@
         "codes": "andorsword"
     },
     {
-        "name": "mistbillingsgatefishmarket",
+        "name": "Mist Billingsgate Fish Market",
         "type": "toggle",
-        "img": "images/items/mistbillingsgatefishmarket.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistbillingsgatefishmarket"
@@ -2152,9 +2152,9 @@
         "codes": "halberd"
     },
     {
-        "name": "mistoxwarduniversity",
+        "name": "Mist Ox Ward University",
         "type": "toggle",
-        "img": "images/items/mistoxwarduniversity.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistoxwarduniversity"
@@ -2170,7 +2170,7 @@
     {
         "name": "covenant:bestgirlprickett",
         "type": "toggle",
-        "img": "images/items/covenant:bestgirlprickett.png",
+        "img": "images/items/covenant_bestgirlprickett.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:bestgirlprickett"
@@ -2208,9 +2208,9 @@
         "codes": "fairytale[peterpan]"
     },
     {
-        "name": "mistwindlessvalley",
+        "name": "Mist Windless Valley",
         "type": "toggle",
-        "img": "images/items/mistwindlessvalley.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistwindlessvalley"
@@ -2314,7 +2314,7 @@
     {
         "name": "covenant:tweedledee&tweedledum",
         "type": "toggle",
-        "img": "images/items/covenant:tweedledee&tweedledum.png",
+        "img": "images/items/covenant_tweedledee&tweedledum.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:tweedledee&tweedledum"
@@ -2322,7 +2322,7 @@
     {
         "name": "progression6",
         "type": "toggle",
-        "img": "images/items/progression6.png",
+        "img": "images/items/progress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression6"
@@ -2432,9 +2432,9 @@
         "codes": "fairytale[adventuresofsinbad]"
     },
     {
-        "name": "mistsickclocktower",
+        "name": "Mist Sick Clock Tower",
         "type": "toggle",
-        "img": "images/items/mistsickclocktower.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistsickclocktower"
@@ -2600,9 +2600,9 @@
         "codes": "rottenscythejabberwock"
     },
     {
-        "name": "mistredcastlefrissel",
+        "name": "Mist Red Castle Frissel",
         "type": "toggle",
-        "img": "images/items/mistredcastlefrissel.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistredcastlefrissel"
@@ -2634,15 +2634,15 @@
     {
         "name": "covenant:hatta",
         "type": "toggle",
-        "img": "images/items/covenant:hatta.png",
+        "img": "images/items/covenant_hatta.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:hatta"
     },
     {
-        "name": "mistwhitecastletown",
+        "name": "Mist White Castletown",
         "type": "toggle",
-        "img": "images/items/mistwhitecastletown.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistwhitecastletown"
@@ -2762,7 +2762,7 @@
     {
         "name": "covenant:shisha",
         "type": "toggle",
-        "img": "images/items/covenant:shisha.png",
+        "img": "images/items/covenant_shisha.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "covenant:shisha"
@@ -2784,9 +2784,9 @@
         "codes": "bankersring"
     },
     {
-        "name": "mistriverside",
+        "name": "Mist Riverside",
         "type": "toggle",
-        "img": "images/items/mistriverside.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistriverside"
@@ -2808,9 +2808,9 @@
         "codes": "knightssword+3"
     },
     {
-        "name": "mistjabberwockslair",
+        "name": "Mist Jabberwocks Lair",
         "type": "toggle",
-        "img": "images/items/mistjabberwockslair.png",
+        "img": "images/items/MIST.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mistjabberwockslair"
@@ -2826,7 +2826,7 @@
     {
         "name": "progression8",
         "type": "toggle",
-        "img": "images/items/progression8.png",
+        "img": "images/items/progress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression8"
@@ -2906,7 +2906,7 @@
     {
         "name": "progression1",
         "type": "toggle",
-        "img": "images/items/progression1.png",
+        "img": "images/items/progress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression1"
