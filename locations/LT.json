@@ -251,7 +251,7 @@
                 "sections": [
                     {
                         "name": "Hachigane",
-                        "access_rules": [],
+                        "access_rules": ["mistcrashchamber"],
                         "visibility_rules": [],
                         "item_count": 1
                     }

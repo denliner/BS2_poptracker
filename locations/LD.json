@@ -332,7 +332,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "progression10,leafsring,throughoxwardgate,mistsporeforest,mistliddellcemetary,doortopof,mistbillingsgatefishmarket,[mistfumingforest]",
+                    "progression10,leafsring,throughoxwardgate,mistsporeforest,mistliddellcemetary,doortopof,mistbillingsgatefishmarket,[cheshirecatring]"
                 ],
                 "sections": [
                     {
