@@ -448,9 +448,9 @@
         "codes": "mosquitoring"
     },
     {
-        "name": "edithsring",
+        "name": "Edith's Ring",
         "type": "toggle",
-        "img": "images/items/edithsring.png",
+        "img": "images/items/goldRing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "edithsring"
@@ -1816,9 +1816,9 @@
         "codes": "sorcery[ghostfire]"
     },
     {
-        "name": "leafsring",
+        "name": "Leaf's Ring",
         "type": "toggle",
-        "img": "images/items/leafsring.png",
+        "img": "images/items/goldRing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "leafsring"
@@ -1920,7 +1920,7 @@
         "codes": "fairytale[bluebeard]"
     },
     {
-        "name": "gatepass",
+        "name": "Gate Pass",
         "type": "toggle",
         "img": "images/items/gatepass.png",
         "initial_active_state": false,
@@ -2576,7 +2576,7 @@
         "codes": "phantomthiefsmantle"
     },
     {
-        "name": "trainticket",
+        "name": "Train Ticket",
         "type": "toggle",
         "img": "images/items/trainticket.png",
         "initial_active_state": false,
@@ -2704,9 +2704,9 @@
         "codes": "buckler"
     },
     {
-        "name": "cheshirecatsring",
+        "name": "Cheshire Cat's Ring",
         "type": "toggle",
-        "img": "images/items/cheshirecatsring.png",
+        "img": "images/items/goldRing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cheshirecatsring"
