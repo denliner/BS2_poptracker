@@ -1,6 +1,12 @@
 {
 	"versions": [
-		{
+		{ 
+			"package_version": "0.4.0",
+			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V0.4.0/BS2_poptracker-0.4.0.zip",
+			"sha256": "1beb44568d4de5d0c69cf1de9e93b80867c50bb8f4d241ef3828c400e12e15c5",
+			"changelog": ["Heavily reduce map image size (should heavily reduce RAM/CPU usage and loading time),Add the Duchess Manson exterior map"]
+		},
+		{ 
 			"package_version": "0.3.0",
 			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V0.3.0/BS2_poptracker-0.3.0.zip",
 			"sha256": "f931729b63904a2db7df311194bb6ef69656af5fdfe1aefe1d1cbb7813ec2976",
