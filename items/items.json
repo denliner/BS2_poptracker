@@ -1,16 +1,16 @@
 [
     {
-        "name": "winterwarriorshelm",
+        "name": "Winter Warrior's Helm",
         "type": "toggle",
-        "img": "images/items/winterwarriorshelm.png",
+        "img": "images/items/ArmorWinterWarrior'sHelm.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "winterwarriorshelm"
     },
     {
-        "name": "sloppy",
+        "name": "Sloppy",
         "type": "toggle",
-        "img": "images/items/sloppy.png",
+        "img": "images/items/water.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sloppy"
@@ -24,9 +24,9 @@
         "codes": "elevatortobfm"
     },
     {
-        "name": "ringofthewall",
+        "name": "Ring Of The Wall",
         "type": "toggle",
-        "img": "images/items/ringofthewall.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofthewall"
@@ -40,25 +40,25 @@
         "codes": "mistmentalward"
     },
     {
-        "name": "morgenstern",
+        "name": "Morgenstern",
         "type": "toggle",
-        "img": "images/items/morgenstern.png",
+        "img": "images/items/WeaponMorgenstern.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "morgenstern"
     },
     {
-        "name": "knightshelmet",
+        "name": "Knight's helmet",
         "type": "toggle",
-        "img": "images/items/knightshelmet.png",
+        "img": "images/items/ArmorKnight'sHelmet.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "knightshelmet"
     },
     {
-        "name": "celestialring",
+        "name": "Celestial Ring",
         "type": "toggle",
-        "img": "images/items/celestialring.png",
+        "img": "images/items/goldRing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "celestialring"
@@ -66,31 +66,31 @@
     {
         "name": "folktale[elizabethbathory]",
         "type": "toggle",
-        "img": "images/items/folktale[elizabethbathory].png",
+        "img": "images/items/folkTale_Alt.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "folktale[elizabethbathory]"
     },
     {
-        "name": "evileyering",
+        "name": "Evil Eye ring",
         "type": "toggle",
-        "img": "images/items/evileyering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "evileyering"
     },
     {
-        "name": "soulofthegodsoddfish",
+        "name": "Soul Of The God's Odd Fish",
         "type": "toggle",
-        "img": "images/items/soulofthegodsoddfish.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthegodsoddfish"
     },
     {
-        "name": "armorofonimusha",
+        "name": "Armor Of Onimusha",
         "type": "toggle",
-        "img": "images/items/armorofonimusha.png",
+        "img": "images/items/Armorarmorofonimusha.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "armorofonimusha"
@@ -104,9 +104,9 @@
         "codes": "mistsporeforest"
     },
     {
-        "name": "roundshield",
+        "name": "Round Shield",
         "type": "toggle",
-        "img": "images/items/roundshield.png",
+        "img": "images/items/ArmorRoundShield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "roundshield"
@@ -114,47 +114,47 @@
     {
         "name": "sorcery[requiem]",
         "type": "toggle",
-        "img": "images/items/sorcery[requiem].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[requiem]"
     },
     {
-        "name": "mockturtlesshell",
+        "name": "Mock Turtle's Shell",
         "type": "toggle",
-        "img": "images/items/mockturtlesshell.png",
+        "img": "images/items/Armormockturtle'sshell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mockturtlesshell"
     },
     {
-        "name": "knightsarmor",
+        "name": "Knight's Armor",
         "type": "toggle",
-        "img": "images/items/knightsarmor.png",
+        "img": "images/items/Armorknight'sarmor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "knightsarmor"
     },
     {
-        "name": "goldenringofavarice",
+        "name": "Golden Ring Of Avarice",
         "type": "toggle",
-        "img": "images/items/goldenringofavarice.png",
+        "img": "images/items/goldRing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "goldenringofavarice"
     },
     {
-        "name": "violentswordbandersnatch",
+        "name": "Violent Sword Bandersnatch",
         "type": "toggle",
-        "img": "images/items/violentswordbandersnatch.png",
+        "img": "images/items/Weaponviolentswordbandersnatch.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "violentswordbandersnatch"
     },
     {
-        "name": "soulofthewetnurses",
+        "name": "Soul Of The Wet Nurses",
         "type": "toggle",
-        "img": "images/items/soulofthewetnurses.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthewetnurses"
@@ -162,31 +162,31 @@
     {
         "name": "fairytale[poohbear]",
         "type": "toggle",
-        "img": "images/items/fairytale[poohbear].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[poohbear]"
     },
     {
-        "name": "sorcery[tearinggrudge]",
+        "name": "sorcery[Tearing Grudge]",
         "type": "toggle",
-        "img": "images/items/sorcery[tearinggrudge].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[tearinggrudge]"
     },
     {
-        "name": "madbowjubjub",
+        "name": "Mad Bow JubJub",
         "type": "toggle",
-        "img": "images/items/madbowjubjub.png",
+        "img": "images/items/Weaponmadbowjubjub.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "madbowjubjub"
     },
     {
-        "name": "butchersring",
+        "name": "Butcher's Ring",
         "type": "toggle",
-        "img": "images/items/butchersring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "butchersring"
@@ -200,9 +200,9 @@
         "codes": "mistinfinitefood"
     },
     {
-        "name": "four-leafcloverring",
+        "name": "Four-Leaf Clover Ring",
         "type": "toggle",
-        "img": "images/items/four-leafcloverring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "four-leafcloverring"
@@ -210,7 +210,7 @@
     {
         "name": "fairytale[thefoxandthegrapes]",
         "type": "toggle",
-        "img": "images/items/fairytale[thefoxandthegrapes].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[thefoxandthegrapes]"
@@ -224,89 +224,89 @@
         "codes": "mistcrimeannursinggraveyard"
     },
     {
-        "name": "demonscatalyst",
+        "name": "Demon's Catalyst",
         "type": "toggle",
-        "img": "images/items/demonscatalyst.png",
+        "img": "images/items/Weapondemon'scatalyst.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "demonscatalyst"
     },
     {
-        "name": "degasgreatshield",
+        "name": "Dega's Great Shield",
         "type": "toggle",
-        "img": "images/items/degasgreatshield.png",
+        "img": "images/items/Armordega'sgreatshield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "degasgreatshield"
     },
     {
-        "name": "ringofmystruggle",
+        "name": "Ring Of My Struggle",
         "type": "toggle",
-        "img": "images/items/ringofmystruggle.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofmystruggle"
     },
     {
-        "name": "ringofvanity",
+        "name": "Ring Of Vanity",
         "type": "toggle",
-        "img": "images/items/ringofvanity.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofvanity"
     },
     {
-        "name": "ringofwhitecrow",
+        "name": "Ring Of White Crow",
         "type": "toggle",
-        "img": "images/items/ringofwhitecrow.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofwhitecrow"
     },
     {
-        "name": "ironroundshield",
+        "name": "Iron Round Shield",
         "type": "toggle",
-        "img": "images/items/ironroundshield.png",
+        "img": "images/items/Armorironroundshield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ironroundshield"
     },
     {
-        "name": "almightyring",
+        "name": "Almighty Ring",
         "type": "toggle",
-        "img": "images/items/almightyring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "almightyring"
     },
     {
-        "name": "knightofheartsring",
+        "name": "Knight Of Heart's Ring",
         "type": "toggle",
-        "img": "images/items/knightofheartsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "knightofheartsring"
     },
     {
-        "name": "soulofthedeepseaknight",
+        "name": "Soul Of The Deep Sea Knight",
         "type": "toggle",
-        "img": "images/items/soulofthedeepseaknight.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthedeepseaknight"
     },
     {
-        "name": "soulofthewhitelion",
+        "name": "Soul Of The White Lion",
         "type": "toggle",
-        "img": "images/items/soulofthewhitelion.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthewhitelion"
     },
     {
-        "name": "flamestoneplatering",
+        "name": "Flame Stoneplate Ring",
         "type": "toggle",
-        "img": "images/items/flamestoneplatering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "flamestoneplatering"
@@ -322,47 +322,47 @@
     {
         "name": "fairytale[wolfand\u00d7\u00d7\u00d7younggoats]",
         "type": "toggle",
-        "img": "images/items/fairytale[wolfand\u00d7\u00d7\u00d7younggoats].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[wolfand\u00d7\u00d7\u00d7younggoats]"
     },
     {
-        "name": "sorceryring",
+        "name": "Sorcery Ring",
         "type": "toggle",
-        "img": "images/items/sorceryring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorceryring"
     },
     {
-        "name": "drakesword",
+        "name": "Drake Sword",
         "type": "toggle",
-        "img": "images/items/drakesword.png",
+        "img": "images/items/Weapondrakesword.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "drakesword"
     },
     {
-        "name": "sorcery[criticalstrike]",
+        "name": "sorcery[Critical Strike]",
         "type": "toggle",
-        "img": "images/items/sorcery[criticalstrike].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[criticalstrike]"
     },
     {
-        "name": "ringoffear",
+        "name": "Ring Of Fear",
         "type": "toggle",
-        "img": "images/items/ringoffear.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringoffear"
     },
     {
-        "name": "sorcery[soulstream]",
+        "name": "sorcery[Soul Stream]",
         "type": "toggle",
-        "img": "images/items/sorcery[soulstream].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[soulstream]"
@@ -378,55 +378,55 @@
     {
         "name": "sorcery[treponema]",
         "type": "toggle",
-        "img": "images/items/sorcery[treponema].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[treponema]"
     },
     {
-        "name": "wonderhat",
+        "name": "Wonder Hat",
         "type": "toggle",
-        "img": "images/items/wonderhat.png",
+        "img": "images/items/ArmorWonderHat.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "wonderhat"
     },
     {
-        "name": "aristocratsclothes",
+        "name": "Aristocrat's Clothes",
         "type": "toggle",
-        "img": "images/items/aristocratsclothes.png",
+        "img": "images/items/Armoraristocrat'sclothes.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "aristocratsclothes"
     },
     {
-        "name": "sorcery[hiddenbody]",
+        "name": "sorcery[Hidden Body]",
         "type": "toggle",
-        "img": "images/items/sorcery[hiddenbody].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[hiddenbody]"
     },
     {
-        "name": "armoroftheabyss",
+        "name": "Armor Of The Abyss",
         "type": "toggle",
-        "img": "images/items/armoroftheabyss.png",
+        "img": "images/items/Armorarmoroftheabyss.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "armoroftheabyss"
     },
     {
-        "name": "soulofthejubjub",
+        "name": "Soul Of The JubJub",
         "type": "toggle",
-        "img": "images/items/soulofthejubjub.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthejubjub"
     },
     {
-        "name": "butcherschainsaw",
+        "name": "Butcher's Chainsaw",
         "type": "toggle",
-        "img": "images/items/butcherschainsaw.png",
+        "img": "images/items/Weaponbutcher'schainsaw.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "butcherschainsaw"
@@ -440,9 +440,9 @@
         "codes": "progression9"
     },
     {
-        "name": "mosquitoring",
+        "name": "Mosquito Ring",
         "type": "toggle",
-        "img": "images/items/mosquitoring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mosquitoring"
@@ -458,23 +458,23 @@
     {
         "name": "sorcery[flame]",
         "type": "toggle",
-        "img": "images/items/sorcery[flame].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[flame]"
     },
     {
-        "name": "fairytale[thekingwithdonkeyears]",
+        "name": "fairytale[The King With Donkey Ears]",
         "type": "toggle",
-        "img": "images/items/fairytale[thekingwithdonkeyears].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[thekingwithdonkeyears]"
     },
     {
-        "name": "ringoftheedge",
+        "name": "Ring Of The Edge",
         "type": "toggle",
-        "img": "images/items/ringoftheedge.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringoftheedge"
@@ -482,23 +482,23 @@
     {
         "name": "fairytale[musiciansofbremen]",
         "type": "toggle",
-        "img": "images/items/fairytale[musiciansofbremen].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[musiciansofbremen]"
     },
     {
-        "name": "sorcery[powerwithin]",
+        "name": "sorcery[Power Within]",
         "type": "toggle",
-        "img": "images/items/sorcery[powerwithin].png",
+        "img": "images/items/powerW.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[powerwithin]"
     },
     {
-        "name": "magicianhat",
+        "name": "Magician Hat",
         "type": "toggle",
-        "img": "images/items/magicianhat.png",
+        "img": "images/items/ArmorMagicianHat.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "magicianhat"
@@ -512,17 +512,17 @@
         "codes": "mistblackknightarena"
     },
     {
-        "name": "snipersring",
+        "name": "Sniper's Ring",
         "type": "toggle",
-        "img": "images/items/snipersring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "snipersring"
     },
     {
-        "name": "sorcery[ruinousstorm]",
+        "name": "sorcery[Ruinous Storm]",
         "type": "toggle",
-        "img": "images/items/sorcery[ruinousstorm].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[ruinousstorm]"
@@ -536,25 +536,25 @@
         "codes": "mistlibrarydream"
     },
     {
-        "name": "beasthuntersaw",
+        "name": "Beasthunter Saw",
         "type": "toggle",
-        "img": "images/items/beasthuntersaw.png",
+        "img": "images/items/WeaponBeasthunterSaw.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "beasthuntersaw"
     },
     {
-        "name": "souloftheknightofspades",
+        "name": "Soul Of The Knight Of Spades",
         "type": "toggle",
-        "img": "images/items/souloftheknightofspades.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "souloftheknightofspades"
     },
     {
-        "name": "bunnyheadpiece",
+        "name": "Bunny Headpiece",
         "type": "toggle",
-        "img": "images/items/bunnyheadpiece.png",
+        "img": "images/items/Armorbunnyheadpiece.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bunnyheadpiece"
@@ -568,169 +568,169 @@
         "codes": "mistslaughterhouse"
     },
     {
-        "name": "deepseashield",
+        "name": "Deep Sea Shield",
         "type": "toggle",
-        "img": "images/items/deepseashield.png",
+        "img": "images/items/Armordeepseashield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "deepseashield"
     },
     {
-        "name": "sorcery[darksidemoon]",
+        "name": "sorcery[Dark Side Moon]",
         "type": "toggle",
-        "img": "images/items/sorcery[darksidemoon].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[darksidemoon]"
     },
     {
-        "name": "angelsraiment",
+        "name": "Angel's Raiment",
         "type": "toggle",
-        "img": "images/items/angelsraiment.png",
+        "img": "images/items/girlScent.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "angelsraiment"
     },
     {
-        "name": "soulofthedean",
+        "name": "Soul Of The Dean",
         "type": "toggle",
-        "img": "images/items/soulofthedean.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthedean"
     },
     {
-        "name": "deepseaknightsarmor",
+        "name": "Deep Sea Knight's Armor",
         "type": "toggle",
-        "img": "images/items/deepseaknightsarmor.png",
+        "img": "images/items/ArmorDeepSeaKnight'sArmor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "deepseaknightsarmor"
     },
     {
-        "name": "ringofthedeep",
+        "name": "Ring Of The Deep",
         "type": "toggle",
-        "img": "images/items/ringofthedeep.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofthedeep"
     },
     {
-        "name": "soulofthebellcaller",
+        "name": "Soul Of The Bellcaller",
         "type": "toggle",
-        "img": "images/items/soulofthebellcaller.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthebellcaller"
     },
     {
-        "name": "mysteryofnightsky",
+        "name": "Mystery Of Night Sky",
         "type": "toggle",
-        "img": "images/items/mysteryofnightsky.png",
+        "img": "images/items/Armormysteryofnightsky.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mysteryofnightsky"
     },
     {
-        "name": "poisonbitering",
+        "name": "Poison Bite Ring",
         "type": "toggle",
-        "img": "images/items/poisonbitering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "poisonbitering"
     },
     {
-        "name": "helmetofbabel",
+        "name": "Helmet Of Babel",
         "type": "toggle",
-        "img": "images/items/helmetofbabel.png",
+        "img": "images/items/ArmorHelmetofBabel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "helmetofbabel"
     },
     {
-        "name": "greatsword",
+        "name": "Great Sword",
         "type": "toggle",
-        "img": "images/items/greatsword.png",
+        "img": "images/items/Weapongreatsword.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "greatsword"
     },
     {
-        "name": "hachigane",
+        "name": "Hachigane",
         "type": "toggle",
-        "img": "images/items/hachigane.png",
+        "img": "images/items/Armorhachigane.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "hachigane"
     },
     {
-        "name": "mushroomshield",
+        "name": "Mushroom Shield",
         "type": "toggle",
-        "img": "images/items/mushroomshield.png",
+        "img": "images/items/Armormushroomshield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mushroomshield"
     },
     {
-        "name": "godfishsring",
+        "name": "God Fish's Ring",
         "type": "toggle",
-        "img": "images/items/godfishsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "godfishsring"
     },
     {
-        "name": "unisrapier",
+        "name": "Unis' Rapier",
         "type": "toggle",
-        "img": "images/items/unisrapier.png",
+        "img": "images/items/Weaponunis'rapier.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "unisrapier"
     },
     {
-        "name": "bloodbitering",
+        "name": "Blood Bite Ring",
         "type": "toggle",
-        "img": "images/items/bloodbitering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bloodbitering"
     },
     {
-        "name": "armorofthesun",
+        "name": "Armor Of The Sun",
         "type": "toggle",
-        "img": "images/items/armorofthesun.png",
+        "img": "images/items/Armorarmorofthesun.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "armorofthesun"
     },
     {
-        "name": "unicornsring",
+        "name": "Unicorn's Ring",
         "type": "toggle",
-        "img": "images/items/unicornsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "unicornsring"
     },
     {
-        "name": "miraclering",
+        "name": "Miracle Ring",
         "type": "toggle",
-        "img": "images/items/miraclering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "miraclering"
     },
     {
-        "name": "fairytale[thelittleprince]",
+        "name": "fairytale[The Little Prince]",
         "type": "toggle",
-        "img": "images/items/fairytale[thelittleprince].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[thelittleprince]"
     },
     {
-        "name": "ogrering",
+        "name": "Ogre Ring",
         "type": "toggle",
-        "img": "images/items/ogrering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ogrering"
@@ -744,105 +744,105 @@
         "codes": "mistupperlutwidgetown"
     },
     {
-        "name": "abhorrentcoat",
+        "name": "Abhorrent Coat",
         "type": "toggle",
-        "img": "images/items/abhorrentcoat.png",
+        "img": "images/items/Armorabhorrentcoat.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "abhorrentcoat"
     },
     {
-        "name": "fairytale[thecrabandthemonkey]",
+        "name": "fairytale[The Crab And The Monkey]",
         "type": "toggle",
-        "img": "images/items/fairytale[thecrabandthemonkey].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[thecrabandthemonkey]"
     },
     {
-        "name": "fakeangelswreath",
+        "name": "Fake Angel's Wreath",
         "type": "toggle",
-        "img": "images/items/fakeangelswreath.png",
+        "img": "images/items/ArmorFakeAngel'sWreath.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fakeangelswreath"
     },
     {
-        "name": "soulofdistraction",
+        "name": "Soul Of Distraction",
         "type": "toggle",
-        "img": "images/items/soulofdistraction.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofdistraction"
     },
     {
-        "name": "gearofmadness",
+        "name": "Gear Of Madness",
         "type": "toggle",
-        "img": "images/items/gearofmadness.png",
+        "img": "images/items/Gears.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "gearofmadness"
     },
     {
-        "name": "redshield",
+        "name": "Red Shield",
         "type": "toggle",
-        "img": "images/items/redshield.png",
+        "img": "images/items/Armorredshield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "redshield"
     },
     {
-        "name": "sorcery[divinebeaststhunder]",
+        "name": "sorcery[Divine Beast's Thunder]",
         "type": "toggle",
-        "img": "images/items/sorcery[divinebeaststhunder].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[divinebeaststhunder]"
     },
     {
-        "name": "clergycirclet",
+        "name": "Clergy Circlet",
         "type": "toggle",
-        "img": "images/items/clergycirclet.png",
+        "img": "images/items/ArmorClergyCirclet.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "clergycirclet"
     },
     {
-        "name": "soulofthebandersnatch",
+        "name": "Soul Of The Bandersnatch",
         "type": "toggle",
-        "img": "images/items/soulofthebandersnatch.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthebandersnatch"
     },
     {
-        "name": "miracle[soulshield]",
+        "name": "miracle[Soul Shield]",
         "type": "toggle",
-        "img": "images/items/miracle[soulshield].png",
+        "img": "images/items/miracle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "miracle[soulshield]"
     },
     {
-        "name": "grasscrestshield",
+        "name": "Grass Crest Shield",
         "type": "toggle",
-        "img": "images/items/grasscrestshield.png",
+        "img": "images/items/Armorgrasscrestshield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "grasscrestshield"
     },
     {
-        "name": "sorcery[kingsorder]",
+        "name": "sorcery[King's Order]",
         "type": "toggle",
-        "img": "images/items/sorcery[kingsorder].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[kingsorder]"
     },
     {
-        "name": "knightsring",
+        "name": "Knight's Ring",
         "type": "toggle",
-        "img": "images/items/knightsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "knightsring"
@@ -850,7 +850,7 @@
     {
         "name": "fairytale[pinocchio]",
         "type": "toggle",
-        "img": "images/items/fairytale[pinocchio].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[pinocchio]"
@@ -872,17 +872,17 @@
         "codes": "progression2"
     },
     {
-        "name": "soulofthebutcher",
+        "name": "Soul Of The Butcher",
         "type": "toggle",
-        "img": "images/items/soulofthebutcher.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthebutcher"
     },
     {
-        "name": "squishy",
+        "name": "Squishy",
         "type": "toggle",
-        "img": "images/items/squishy.png",
+        "img": "images/items/water.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "squishy"
@@ -890,7 +890,7 @@
     {
         "name": "sorcery[grit]",
         "type": "toggle",
-        "img": "images/items/sorcery[grit].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[grit]"
@@ -904,73 +904,73 @@
         "codes": "mistdodgsonbridge"
     },
     {
-        "name": "fairytale[ironhans]",
+        "name": "fairytale[Iron Hans]",
         "type": "toggle",
-        "img": "images/items/fairytale[ironhans].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[ironhans]"
     },
     {
-        "name": "silverringofavarice",
+        "name": "Silver Ring Of Avarice",
         "type": "toggle",
-        "img": "images/items/silverringofavarice.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "silverringofavarice"
     },
     {
-        "name": "club",
+        "name": "Club",
         "type": "toggle",
-        "img": "images/items/club.png",
+        "img": "images/items/Weaponclub.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "club"
     },
     {
-        "name": "two-facedbuckler",
+        "name": "Two-Faced Buckler",
         "type": "toggle",
-        "img": "images/items/two-facedbuckler.png",
+        "img": "images/items/ArmorTwo-FacedBuckler.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "two-facedbuckler"
     },
     {
-        "name": "blackknightsring",
+        "name": "Black Knight's Ring",
         "type": "toggle",
-        "img": "images/items/blackknightsring.png",
+        "img": "images/items/goldRing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blackknightsring"
     },
     {
-        "name": "manslayersshotgun",
+        "name": "Manslayer's Shotgun",
         "type": "toggle",
-        "img": "images/items/manslayersshotgun.png",
+        "img": "images/items/Armormanslayer'sshotgun.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "manslayersshotgun"
     },
     {
-        "name": "fairytalescraptwo",
+        "name": "Fairy tale scrap two",
         "type": "toggle",
-        "img": "images/items/fairytalescraptwo.png",
+        "img": "images/items/fairyTaleScrap.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytalescraptwo"
     },
     {
-        "name": "whittledring",
+        "name": "Whittled Ring",
         "type": "toggle",
-        "img": "images/items/whittledring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "whittledring"
     },
     {
-        "name": "match-sellersclothes",
+        "name": "Match-Seller's Clothes",
         "type": "toggle",
-        "img": "images/items/match-sellersclothes.png",
+        "img": "images/items/ArmorMatch-Seller'sClothes.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "match-sellersclothes"
@@ -978,45 +978,45 @@
     {
         "name": "miracle[cure]",
         "type": "toggle",
-        "img": "images/items/miracle[cure].png",
+        "img": "images/items/miracle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "miracle[cure]"
     },
     {
-        "name": "sorcery[stoneflesh]",
+        "name": "sorcery[Stone Flesh]",
         "type": "toggle",
-        "img": "images/items/sorcery[stoneflesh].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[stoneflesh]"
     },
     {
-        "name": "sorcery[acidrain]",
+        "name": "sorcery[Acid Rain]",
         "type": "toggle",
-        "img": "images/items/sorcery[acidrain].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[acidrain]"
     },
     {
-        "name": "sorcery[meteorshower]",
+        "name": "sorcery[Meteor Shower]",
         "type": "toggle",
-        "img": "images/items/sorcery[meteorshower].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[meteorshower]"
     },
     {
-        "name": "walrusring",
+        "name": "Walru's Ring",
         "type": "toggle",
-        "img": "images/items/walrusring.png",
+        "img": "images/items/goldRing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "walrusring"
     },
     {
-        "name": "covenant:mockturtle",
+        "name": "covenant:Mock Turtle",
         "type": "toggle",
         "img": "images/items/covenant_mockturtle.png",
         "initial_active_state": false,
@@ -1024,17 +1024,17 @@
         "codes": "covenant:mockturtle"
     },
     {
-        "name": "fairytale[blackrabbitofinaba]",
+        "name": "fairytale[Black Rabbit Of Inaba]",
         "type": "toggle",
-        "img": "images/items/fairytale[blackrabbitofinaba].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[blackrabbitofinaba]"
     },
     {
-        "name": "cloakofviolence",
+        "name": "Cloak Of Violence",
         "type": "toggle",
-        "img": "images/items/cloakofviolence.png",
+        "img": "images/items/Armorcloakofviolence.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cloakofviolence"
@@ -1056,25 +1056,25 @@
         "codes": "covenant:walrus"
     },
     {
-        "name": "soulofthegrayeagle",
+        "name": "Soul Of The Gray Eagle",
         "type": "toggle",
-        "img": "images/items/soulofthegrayeagle.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthegrayeagle"
     },
     {
-        "name": "folktale[jeannedarc]",
+        "name": "folktale[Jeanne d'Arc]",
         "type": "toggle",
-        "img": "images/items/folktale[jeannedarc].png",
+        "img": "images/items/folkTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "folktale[jeannedarc]"
     },
     {
-        "name": "fairytalescrapthree",
+        "name": "Fairy Tale Scrap Three",
         "type": "toggle",
-        "img": "images/items/fairytalescrapthree.png",
+        "img": "images/items/fairyTaleScrap.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytalescrapthree"
@@ -1088,39 +1088,39 @@
         "codes": "mistmushroomvillage"
     },
     {
-        "name": "platemail",
+        "name": "Plate Mail",
         "type": "toggle",
-        "img": "images/items/platemail.png",
+        "img": "images/items/Armorplatemail.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "platemail"
     },
     {
-        "name": "fairytale[thedogandtheshadow]",
+        "name": "fairytale[The Dog And The Shadow]",
         "type": "toggle",
-        "img": "images/items/fairytale[thedogandtheshadow].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[thedogandtheshadow]"
     },
     {
-        "name": "fairytale[knightinarmor]",
+        "name": "fairytale[Knight In Armor]",
         "type": "toggle",
-        "img": "images/items/fairytale[knightinarmor].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[knightinarmor]"
     },
     {
-        "name": "soulofflorence",
+        "name": "Soul Of Florence",
         "type": "toggle",
-        "img": "images/items/soulofflorence.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofflorence"
     },
     {
-        "name": "Mist Pond of Bloody tears",
+        "name": "Mist Pond of Bloody Tears",
         "type": "toggle",
         "img": "images/items/MIST.png",
         "initial_active_state": false,
@@ -1128,9 +1128,9 @@
         "codes": "mistpondofbloodytears"
     },
     {
-        "name": "winterwitchscoat",
+        "name": "Winter Witch's Coat",
         "type": "toggle",
-        "img": "images/items/winterwitchscoat.png",
+        "img": "images/items/ArmorWinterWitch'sCoat.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "winterwitchscoat"
@@ -1144,9 +1144,9 @@
         "codes": "progression5"
     },
     {
-        "name": "souloftheknightofclubs",
+        "name": "Soul Of The Knight Of Clubs",
         "type": "toggle",
-        "img": "images/items/souloftheknightofclubs.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "souloftheknightofclubs"
@@ -1160,15 +1160,15 @@
         "codes": "covenant:kuti"
     },
     {
-        "name": "yellowcloth",
+        "name": "Yellow Cloth",
         "type": "toggle",
-        "img": "images/items/yellowcloth.png",
+        "img": "images/items/Armoryellowcloth.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "yellowcloth"
     },
     {
-        "name": "drinkme",
+        "name": "Drink Me",
         "type": "toggle",
         "img": "images/items/drinkme.png",
         "initial_active_state": false,
@@ -1176,65 +1176,65 @@
         "codes": "drinkme"
     },
     {
-        "name": "brokensword",
+        "name": "Broken Sword",
         "type": "toggle",
-        "img": "images/items/brokensword.png",
+        "img": "images/items/Weaponbrokensword.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "brokensword"
     },
     {
-        "name": "godsangels",
+        "name": "God's Angels",
         "type": "toggle",
-        "img": "images/items/godsangels.png",
+        "img": "images/items/Weapongod'sangels.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "godsangels"
     },
     {
-        "name": "ringoflife",
+        "name": "Ring Of Life",
         "type": "toggle",
-        "img": "images/items/ringoflife.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringoflife"
     },
     {
-        "name": "helmetofonimusha",
+        "name": "Helmet Of Onimusha",
         "type": "toggle",
-        "img": "images/items/helmetofonimusha.png",
+        "img": "images/items/ArmorHelmetofOnimusha.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "helmetofonimusha"
     },
     {
-        "name": "claymore",
+        "name": "Claymore",
         "type": "toggle",
-        "img": "images/items/claymore.png",
+        "img": "images/items/Weaponclaymore.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "claymore"
     },
     {
-        "name": "shoeshinersring",
+        "name": "Shoeshiner's Ring",
         "type": "toggle",
-        "img": "images/items/shoeshinersring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "shoeshinersring"
     },
     {
-        "name": "soulofqueenoftorturetools",
+        "name": "Soul Of Queen Of Torture Tools",
         "type": "toggle",
-        "img": "images/items/soulofqueenoftorturetools.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofqueenoftorturetools"
     },
     {
-        "name": "ringofdraconicblessing",
+        "name": "Ring Of Draconic Blessing",
         "type": "toggle",
-        "img": "images/items/ringofdraconicblessing.png",
+        "img": "images/items/goldRing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofdraconicblessing"
@@ -1248,41 +1248,41 @@
         "codes": "mistflorencearena"
     },
     {
-        "name": "ringofheaven",
+        "name": "Ring Of Heaven",
         "type": "toggle",
-        "img": "images/items/ringofheaven.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofheaven"
     },
     {
-        "name": "ringoftheclownmurderer",
+        "name": "Ring Of The Clown Murderer",
         "type": "toggle",
-        "img": "images/items/ringoftheclownmurderer.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringoftheclownmurderer"
     },
     {
-        "name": "uchigatana",
+        "name": "Uchigatana",
         "type": "toggle",
-        "img": "images/items/uchigatana.png",
+        "img": "images/items/Weaponuchigatana.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "uchigatana"
     },
     {
-        "name": "armorofbabel",
+        "name": "Armor Of Babel",
         "type": "toggle",
-        "img": "images/items/armorofbabel.png",
+        "img": "images/items/Armorarmorofbabel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "armorofbabel"
     },
     {
-        "name": "knightssword",
+        "name": "Knight's Sword",
         "type": "toggle",
-        "img": "images/items/knightssword.png",
+        "img": "images/items/WeaponKnight'sSword.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "knightssword"
@@ -1304,9 +1304,9 @@
         "codes": "mistduchessmansion"
     },
     {
-        "name": "shieldoftheabyss",
+        "name": "Shield Of The Abyss",
         "type": "toggle",
-        "img": "images/items/shieldoftheabyss.png",
+        "img": "images/items/Armorshieldoftheabyss.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "shieldoftheabyss"
@@ -1320,17 +1320,17 @@
         "codes": "mistdeepsea"
     },
     {
-        "name": "sorcery[heavysouldischarge]",
+        "name": "sorcery[Heavy Soul Discharge]",
         "type": "toggle",
-        "img": "images/items/sorcery[heavysouldischarge].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[heavysouldischarge]"
     },
     {
-        "name": "cannon",
+        "name": "Cannon",
         "type": "toggle",
-        "img": "images/items/cannon.png",
+        "img": "images/items/Armorcannon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cannon"
@@ -1344,9 +1344,9 @@
         "codes": "enteredrabbithole"
     },
     {
-        "name": "championsring",
+        "name": "Champion's Ring",
         "type": "toggle",
-        "img": "images/items/championsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "championsring"
@@ -1354,71 +1354,71 @@
     {
         "name": "sorcery[rampage]",
         "type": "toggle",
-        "img": "images/items/sorcery[rampage].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[rampage]"
     },
     {
-        "name": "soulofthewhiteunicorn",
+        "name": "Soul Of The White Unicorn",
         "type": "toggle",
-        "img": "images/items/soulofthewhiteunicorn.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthewhiteunicorn"
     },
     {
-        "name": "fairytale[robinhood]",
+        "name": "fairytale[Robin Hood]",
         "type": "toggle",
-        "img": "images/items/fairytale[robinhood].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[robinhood]"
     },
     {
-        "name": "mirandasaxe",
+        "name": "Miranda's Axe",
         "type": "toggle",
-        "img": "images/items/mirandasaxe.png",
+        "img": "images/items/WeaponMiranda'sAxe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mirandasaxe"
     },
     {
-        "name": "holygunblade",
+        "name": "Holy Gunblade",
         "type": "toggle",
-        "img": "images/items/holygunblade.png",
+        "img": "images/items/Weaponholygunblade.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "holygunblade"
     },
     {
-        "name": "huntersbow",
+        "name": "Hunter's Bow",
         "type": "toggle",
-        "img": "images/items/huntersbow.png",
+        "img": "images/items/Weaponhunter'sbow.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "huntersbow"
     },
     {
-        "name": "soulofthewinterbellswind",
+        "name": "Soul Of The Winterbell's Wind",
         "type": "toggle",
-        "img": "images/items/soulofthewinterbellswind.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthewinterbellswind"
     },
     {
-        "name": "vikinghelm",
+        "name": "Viking Helm",
         "type": "toggle",
-        "img": "images/items/vikinghelm.png",
+        "img": "images/items/Armorvikinghelm.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "vikinghelm"
     },
     {
-        "name": "crossgreatshield",
+        "name": "Cross Great Shield",
         "type": "toggle",
-        "img": "images/items/crossgreatshield.png",
+        "img": "images/items/StateSlaughter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "crossgreatshield"
@@ -1432,33 +1432,33 @@
         "codes": "mistjubjubsnest"
     },
     {
-        "name": "soulofthehead-huntingbeast",
+        "name": "Soul Of The Head-Hunting Beast",
         "type": "toggle",
-        "img": "images/items/soulofthehead-huntingbeast.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthehead-huntingbeast"
     },
     {
-        "name": "fairytale[theuglyduckling]",
+        "name": "fairytale[The Ugly Duckling]",
         "type": "toggle",
-        "img": "images/items/fairytale[theuglyduckling].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[theuglyduckling]"
     },
     {
-        "name": "miracle[providence]",
+        "name": "miracle[Providence]",
         "type": "toggle",
-        "img": "images/items/miracle[providence].png",
+        "img": "images/items/miracle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "miracle[providence]"
     },
     {
-        "name": "trollring",
+        "name": "Troll Ring",
         "type": "toggle",
-        "img": "images/items/trollring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "trollring"
@@ -1472,41 +1472,41 @@
         "codes": "progression3"
     },
     {
-        "name": "unbreakablering",
+        "name": "Unbreakable Ring",
         "type": "toggle",
-        "img": "images/items/unbreakablering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "unbreakablering"
     },
     {
-        "name": "deepseaknightsanchor",
+        "name": "Deep Sea Knight's Anchor",
         "type": "toggle",
-        "img": "images/items/deepseaknightsanchor.png",
+        "img": "images/items/WeaponDeepSeaKnight'sAnchor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "deepseaknightsanchor"
     },
     {
-        "name": "porcupineshield",
+        "name": "Porcupine Shield",
         "type": "toggle",
-        "img": "images/items/porcupineshield.png",
+        "img": "images/items/ArmorPorcupineShield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "porcupineshield"
     },
     {
-        "name": "sorcery[ruinousarrowrain]",
+        "name": "sorcery[Ruinous Arrow Rain]",
         "type": "toggle",
-        "img": "images/items/sorcery[ruinousarrowrain].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[ruinousarrowrain]"
     },
     {
-        "name": "arbitersscythe",
+        "name": "Arbiter's Scythe",
         "type": "toggle",
-        "img": "images/items/arbitersscythe.png",
+        "img": "images/items/WeaponArbiter'sScythe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "arbitersscythe"
@@ -1514,23 +1514,23 @@
     {
         "name": "miracle[erase]",
         "type": "toggle",
-        "img": "images/items/miracle[erase].png",
+        "img": "images/items/miracle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "miracle[erase]"
     },
     {
-        "name": "ringoffragilelife",
+        "name": "Ring Of Fragile Life",
         "type": "toggle",
-        "img": "images/items/ringoffragilelife.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringoffragilelife"
     },
     {
-        "name": "huntersattire",
+        "name": "Hunter's Attire",
         "type": "toggle",
-        "img": "images/items/huntersattire.png",
+        "img": "images/items/ArmorHunter'sAttire.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "huntersattire"
@@ -1544,9 +1544,9 @@
         "codes": "progression7"
     },
     {
-        "name": "totosring",
+        "name": "Toto's Ring",
         "type": "toggle",
-        "img": "images/items/totosring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "totosring"
@@ -1554,7 +1554,7 @@
     {
         "name": "sorcery[omniblow]",
         "type": "toggle",
-        "img": "images/items/sorcery[omniblow].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[omniblow]"
@@ -1562,15 +1562,15 @@
     {
         "name": "fairytale[rascal]",
         "type": "toggle",
-        "img": "images/items/fairytale[rascal].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[rascal]"
     },
     {
-        "name": "blackvanguardsshield",
+        "name": "Black Vanguard's Shield",
         "type": "toggle",
-        "img": "images/items/blackvanguardsshield.png",
+        "img": "images/items/ArmorBlackVanguard'sShield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blackvanguardsshield"
@@ -1584,47 +1584,47 @@
         "codes": "mistfumingforest"
     },
     {
-        "name": "stormruler",
+        "name": "Storm Ruler",
         "type": "toggle",
-        "img": "images/items/stormruler.png",
+        "img": "images/items/Weaponstormruler.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "stormruler"
     },
     {
-        "name": "thiefsdagger",
+        "name": "Thief's Dagger",
         "type": "toggle",
-        "img": "images/items/thiefsdagger.png",
+        "img": "images/items/WeaponThief'sDagger.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "thiefsdagger"
     },
     {
-        "name": "miracle[summonwallofflesh]",
+        "name": "miracle[Summon Wall Of Flesh]",
         "type": "toggle",
-        "img": "images/items/miracle[summonwallofflesh].png",
+        "img": "images/items/miracle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "miracle[summonwallofflesh]"
     },
     {
-        "name": "prickettsring",
+        "name": "Prickett's Ring",
         "type": "toggle",
-        "img": "images/items/prickettsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "prickettsring"
     },
     {
-        "name": "windgodsring",
+        "name": "Wind God's Ring",
         "type": "toggle",
-        "img": "images/items/windgodsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "windgodsring"
     },
     {
-        "name": "covenant:queenofhearts",
+        "name": "covenant:Queen Of Hearts",
         "type": "toggle",
         "img": "images/items/covenant_queenofhearts.png",
         "initial_active_state": false,
@@ -1632,17 +1632,17 @@
         "codes": "covenant:queenofhearts"
     },
     {
-        "name": "resurrectionistsring",
+        "name": "Resurrectionist's Ring",
         "type": "toggle",
-        "img": "images/items/resurrectionistsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "resurrectionistsring"
     },
     {
-        "name": "soulofconceit",
+        "name": "Soul Of Conceit",
         "type": "toggle",
-        "img": "images/items/soulofconceit.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofconceit"
@@ -1650,79 +1650,79 @@
     {
         "name": "fairytale[mt.kachikachi]",
         "type": "toggle",
-        "img": "images/items/fairytale[mt.kachikachi].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[mt.kachikachi]"
     },
     {
-        "name": "soulofthegiantshome",
+        "name": "Soul Of The Giant's Home",
         "type": "toggle",
-        "img": "images/items/soulofthegiantshome.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthegiantshome"
     },
     {
-        "name": "churchrifle",
+        "name": "Church Rifle",
         "type": "toggle",
-        "img": "images/items/churchrifle.png",
+        "img": "images/items/Armorchurchrifle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "churchrifle"
     },
     {
-        "name": "fairytale[goosethatlaidgoldeneggs]",
+        "name": "fairytale[Goose That Laid Golden Eggs]",
         "type": "toggle",
-        "img": "images/items/fairytale[goosethatlaidgoldeneggs].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[goosethatlaidgoldeneggs]"
     },
     {
-        "name": "tinkerbellsring",
+        "name": "Tinkerbell's Ring",
         "type": "toggle",
-        "img": "images/items/tinkerbellsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tinkerbellsring"
     },
     {
-        "name": "partisan",
+        "name": "Partisan",
         "type": "toggle",
-        "img": "images/items/partisan.png",
+        "img": "images/items/Weaponpartisan.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "partisan"
     },
     {
-        "name": "souloftheoldknight",
+        "name": "Soul Of The Old Knight",
         "type": "toggle",
-        "img": "images/items/souloftheoldknight.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "souloftheoldknight"
     },
     {
-        "name": "skyknightscap",
+        "name": "Sky Knight's Cap",
         "type": "toggle",
-        "img": "images/items/skyknightscap.png",
+        "img": "images/items/ArmorSkyKnight'sCap.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "skyknightscap"
     },
     {
-        "name": "cloakofthefrenzyking",
+        "name": "Cloak Of The Frenzy King",
         "type": "toggle",
-        "img": "images/items/cloakofthefrenzyking.png",
+        "img": "images/items/ArmorCloakoftheFrenzyKing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cloakofthefrenzyking"
     },
     {
-        "name": "oldkingsring",
+        "name": "Old King's Ring",
         "type": "toggle",
-        "img": "images/items/oldkingsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "oldkingsring"
@@ -1736,41 +1736,41 @@
         "codes": "covenant:bandersnatch"
     },
     {
-        "name": "moonlightgreatsword",
+        "name": "Moonlight Great Sword",
         "type": "toggle",
-        "img": "images/items/moonlightgreatsword.png",
+        "img": "images/items/WeaponMoonlightGreatsword.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "moonlightgreatsword"
     },
     {
-        "name": "griffinshield",
+        "name": "Griffin Shield",
         "type": "toggle",
-        "img": "images/items/griffinshield.png",
+        "img": "images/items/ArmorGriffinShield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "griffinshield"
     },
     {
-        "name": "icestoneplatering",
+        "name": "Ice Stone Plate Ring",
         "type": "toggle",
-        "img": "images/items/icestoneplatering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "icestoneplatering"
     },
     {
-        "name": "fairytale[thelittlematchgirl]",
+        "name": "fairytale[The Little Match Girl]",
         "type": "toggle",
-        "img": "images/items/fairytale[thelittlematchgirl].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[thelittlematchgirl]"
     },
     {
-        "name": "lawyersmask",
+        "name": "Lawyer's Mask",
         "type": "toggle",
-        "img": "images/items/lawyersmask.png",
+        "img": "images/items/Armorlawyer'smask.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "lawyersmask"
@@ -1784,25 +1784,25 @@
         "codes": "mistqueensland"
     },
     {
-        "name": "warriorsroundshield",
+        "name": "Warrior's Round Shield",
         "type": "toggle",
-        "img": "images/items/warriorsroundshield.png",
+        "img": "images/items/ArmorWarrior'sRoundShield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "warriorsroundshield"
     },
     {
-        "name": "emptyring",
+        "name": "Empty Ring",
         "type": "toggle",
-        "img": "images/items/emptyring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "emptyring"
     },
     {
-        "name": "sailorsbandana",
+        "name": "Sailor's Bandana",
         "type": "toggle",
-        "img": "images/items/sailorsbandana.png",
+        "img": "images/items/ArmorSailor'sBandana.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sailorsbandana"
@@ -1810,7 +1810,7 @@
     {
         "name": "sorcery[ghostfire]",
         "type": "toggle",
-        "img": "images/items/sorcery[ghostfire].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[ghostfire]"
@@ -1824,41 +1824,41 @@
         "codes": "leafsring"
     },
     {
-        "name": "posersring",
+        "name": "Poser's Ring",
         "type": "toggle",
-        "img": "images/items/posersring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "posersring"
     },
     {
-        "name": "fairytalescrapone",
+        "name": "Fairy Tale  Scrap One",
         "type": "toggle",
-        "img": "images/items/fairytalescrapone.png",
+        "img": "images/items/fairyTaleScrap.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytalescrapone"
     },
     {
-        "name": "vipersclothing",
+        "name": "Viper's Clothing",
         "type": "toggle",
-        "img": "images/items/vipersclothing.png",
+        "img": "images/items/ArmorViper'sClothing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "vipersclothing"
     },
     {
-        "name": "soulofthejabberwock",
+        "name": "Soul Of The Jabberwock",
         "type": "toggle",
-        "img": "images/items/soulofthejabberwock.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthejabberwock"
     },
     {
-        "name": "exorcistsring",
+        "name": "Exorcist's Ring",
         "type": "toggle",
-        "img": "images/items/exorcistsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "exorcistsring"
@@ -1866,39 +1866,39 @@
     {
         "name": "sorcery[dispel]",
         "type": "toggle",
-        "img": "images/items/sorcery[dispel].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[dispel]"
     },
     {
-        "name": "londiniumring",
+        "name": "Londinium Ring",
         "type": "toggle",
-        "img": "images/items/londiniumring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "londiniumring"
     },
     {
-        "name": "polarbearsring",
+        "name": "Polar Bear's Ring",
         "type": "toggle",
-        "img": "images/items/polarbearsring.png",
+        "img": "images/items/goldRing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "polarbearsring"
     },
     {
-        "name": "darkstoneplatering",
+        "name": "Dark Stone Plate Ring",
         "type": "toggle",
-        "img": "images/items/darkstoneplatering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "darkstoneplatering"
     },
     {
-        "name": "pumpkinknightsring",
+        "name": "Pumpkin Knight's Ring",
         "type": "toggle",
-        "img": "images/items/pumpkinknightsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "pumpkinknightsring"
@@ -1914,7 +1914,7 @@
     {
         "name": "fairytale[bluebeard]",
         "type": "toggle",
-        "img": "images/items/fairytale[bluebeard].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[bluebeard]"
@@ -1928,17 +1928,17 @@
         "codes": "gatepass"
     },
     {
-        "name": "cloakofshadows",
+        "name": "Cloak Of Shadows",
         "type": "toggle",
-        "img": "images/items/cloakofshadows.png",
+        "img": "images/items/Armorcloakofshadows.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cloakofshadows"
     },
     {
-        "name": "igorsmask",
+        "name": "Igor's Mask",
         "type": "toggle",
-        "img": "images/items/igorsmask.png",
+        "img": "images/items/Armorigor'smask.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "igorsmask"
@@ -1960,25 +1960,25 @@
         "codes": "covenant:sho"
     },
     {
-        "name": "piratehandgun",
+        "name": "Pirate Handgun",
         "type": "toggle",
-        "img": "images/items/piratehandgun.png",
+        "img": "images/items/Armorpiratehandgun.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "piratehandgun"
     },
     {
-        "name": "thiefsmask",
+        "name": "Thief's Mask",
         "type": "toggle",
-        "img": "images/items/thiefsmask.png",
+        "img": "images/items/ArmorThief'sMask.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "thiefsmask"
     },
     {
-        "name": "sorcery[bloodycarthus]",
+        "name": "sorcery[Bloody Carthus]",
         "type": "toggle",
-        "img": "images/items/sorcery[bloodycarthus].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[bloodycarthus]"
@@ -1992,31 +1992,31 @@
         "codes": "covenant:dodo"
     },
     {
-        "name": "helmofmilton",
+        "name": "Helm Of Milton",
         "type": "toggle",
-        "img": "images/items/helmofmilton.png",
+        "img": "images/items/ArmorHelmofMilton.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "helmofmilton"
     },
     {
-        "name": "spellstoneplatering",
+        "name": "Spell Stone Plate Ring",
         "type": "toggle",
-        "img": "images/items/spellstoneplatering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "spellstoneplatering"
     },
     {
-        "name": "thunderstoneplatering",
+        "name": "Thunder Stone Plate Ring",
         "type": "toggle",
-        "img": "images/items/thunderstoneplatering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "thunderstoneplatering"
     },
     {
-        "name": "covenant:maidvictoria",
+        "name": "covenant:Maid Victoria",
         "type": "toggle",
         "img": "images/items/covenant_maidvictoria.png",
         "initial_active_state": false,
@@ -2032,9 +2032,9 @@
         "codes": "progression4"
     },
     {
-        "name": "blacksword",
+        "name": "Black Sword",
         "type": "toggle",
-        "img": "images/items/blacksword.png",
+        "img": "images/items/Weaponblacksword.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blacksword"
@@ -2048,65 +2048,65 @@
         "codes": "covenant:node"
     },
     {
-        "name": "ringofrebellion",
+        "name": "Ring Of Rebellion",
         "type": "toggle",
-        "img": "images/items/ringofrebellion.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofrebellion"
     },
     {
-        "name": "shellshield",
+        "name": "Shell Shield",
         "type": "toggle",
-        "img": "images/items/shellshield.png",
+        "img": "images/items/Armorshellshield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "shellshield"
     },
     {
-        "name": "sorcerersstaff",
+        "name": "Sorcerer's Staff",
         "type": "toggle",
-        "img": "images/items/sorcerersstaff.png",
+        "img": "images/items/Weaponsorcerer'sstaff.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcerersstaff"
     },
     {
-        "name": "windlesswrap",
+        "name": "Windless Wrap",
         "type": "toggle",
-        "img": "images/items/windlesswrap.png",
+        "img": "images/items/ArmorWindlessWrap.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "windlesswrap"
     },
     {
-        "name": "winterwarriorsplate",
+        "name": "Winter Warrior's Plate",
         "type": "toggle",
-        "img": "images/items/winterwarriorsplate.png",
+        "img": "images/items/ArmorWinterWarrior'sPlate.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "winterwarriorsplate"
     },
     {
-        "name": "puppetsring",
+        "name": "Puppet's Ring",
         "type": "toggle",
-        "img": "images/items/puppetsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "puppetsring"
     },
     {
-        "name": "knightofspadesring",
+        "name": "Knight Of Spade's Ring",
         "type": "toggle",
-        "img": "images/items/knightofspadesring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "knightofspadesring"
     },
     {
-        "name": "andorsword",
+        "name": "Andor Sword",
         "type": "toggle",
-        "img": "images/items/andorsword.png",
+        "img": "images/items/Weaponandorsword.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "andorsword"
@@ -2120,9 +2120,9 @@
         "codes": "mistbillingsgatefishmarket"
     },
     {
-        "name": "counterring",
+        "name": "Counter Ring",
         "type": "toggle",
-        "img": "images/items/counterring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "counterring"
@@ -2130,7 +2130,7 @@
     {
         "name": "fairytale[daddy-long-legs]",
         "type": "toggle",
-        "img": "images/items/fairytale[daddy-long-legs].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[daddy-long-legs]"
@@ -2144,9 +2144,9 @@
         "codes": "doortopof"
     },
     {
-        "name": "halberd",
+        "name": "Halberd",
         "type": "toggle",
-        "img": "images/items/halberd.png",
+        "img": "images/items/Weaponhalberd.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "halberd"
@@ -2160,15 +2160,15 @@
         "codes": "mistoxwarduniversity"
     },
     {
-        "name": "harlotsring",
+        "name": "Harlot's Ring",
         "type": "toggle",
-        "img": "images/items/harlotsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "harlotsring"
     },
     {
-        "name": "covenant:bestgirlprickett",
+        "name": "covenant:Best Girl Prickett",
         "type": "toggle",
         "img": "images/items/covenant_bestgirlprickett.png",
         "initial_active_state": false,
@@ -2176,33 +2176,33 @@
         "codes": "covenant:bestgirlprickett"
     },
     {
-        "name": "kiteshield",
+        "name": "Kite Shield",
         "type": "toggle",
-        "img": "images/items/kiteshield.png",
+        "img": "images/items/SkillHolyBanner.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "kiteshield"
     },
     {
-        "name": "sorcery[piercingicepillars]",
+        "name": "sorcery[Piercing Ice Pillars]",
         "type": "toggle",
-        "img": "images/items/sorcery[piercingicepillars].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[piercingicepillars]"
     },
     {
-        "name": "soulofjack",
+        "name": "Soul Of Jack",
         "type": "toggle",
-        "img": "images/items/soulofjack.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofjack"
     },
     {
-        "name": "fairytale[peterpan]",
+        "name": "fairytale[Peter Pan]",
         "type": "toggle",
-        "img": "images/items/fairytale[peterpan].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[peterpan]"
@@ -2216,65 +2216,65 @@
         "codes": "mistwindlessvalley"
     },
     {
-        "name": "adulteryring",
+        "name": "Adultery Ring",
         "type": "toggle",
-        "img": "images/items/adulteryring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "adulteryring"
     },
     {
-        "name": "clergyclothes",
+        "name": "Clergy Clothes",
         "type": "toggle",
-        "img": "images/items/clergyclothes.png",
+        "img": "images/items/Armorclergyclothes.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "clergyclothes"
     },
     {
-        "name": "ringofsteelprotection",
+        "name": "Ring Of Steel Protection",
         "type": "toggle",
-        "img": "images/items/ringofsteelprotection.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofsteelprotection"
     },
     {
-        "name": "applering",
+        "name": "Apple Ring",
         "type": "toggle",
-        "img": "images/items/applering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "applering"
     },
     {
-        "name": "magicianscoat",
+        "name": "Magician's Coat",
         "type": "toggle",
-        "img": "images/items/magicianscoat.png",
+        "img": "images/items/ArmorMagician'sCoat.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "magicianscoat"
     },
     {
-        "name": "warriorsarmor",
+        "name": "Warrior's Armor",
         "type": "toggle",
-        "img": "images/items/warriorsarmor.png",
+        "img": "images/items/Armorwarrior'sarmor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "warriorsarmor"
     },
     {
-        "name": "angelsring",
+        "name": "Angel's Ring",
         "type": "toggle",
-        "img": "images/items/angelsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "angelsring"
     },
     {
-        "name": "sorcery[greenpower]",
+        "name": "sorcery[Green Power]",
         "type": "toggle",
-        "img": "images/items/sorcery[greenpower].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[greenpower]"
@@ -2282,37 +2282,37 @@
     {
         "name": "sorcery[omnicurse]",
         "type": "toggle",
-        "img": "images/items/sorcery[omnicurse].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[omnicurse]"
     },
     {
-        "name": "tyrantring",
+        "name": "Tyrant Ring",
         "type": "toggle",
-        "img": "images/items/tyrantring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tyrantring"
     },
     {
-        "name": "knightsshield",
+        "name": "Knight's Shield",
         "type": "toggle",
-        "img": "images/items/knightsshield.png",
+        "img": "images/items/Armorknight'sshield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "knightsshield"
     },
     {
-        "name": "sorcery[heavysoularrow]",
+        "name": "sorcery[Heavy Soul Arrow]",
         "type": "toggle",
-        "img": "images/items/sorcery[heavysoularrow].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[heavysoularrow]"
     },
     {
-        "name": "covenant:tweedledee&tweedledum",
+        "name": "covenant:Tweedledee & Tweedledum",
         "type": "toggle",
         "img": "images/items/covenant_tweedledee&tweedledum.png",
         "initial_active_state": false,
@@ -2328,17 +2328,17 @@
         "codes": "progression6"
     },
     {
-        "name": "templarshield",
+        "name": "Templar Shield",
         "type": "toggle",
-        "img": "images/items/templarshield.png",
+        "img": "images/items/ArmorTemplarShield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "templarshield"
     },
     {
-        "name": "sorcery[divinelightning]",
+        "name": "sorcery[Divine Lightning]",
         "type": "toggle",
-        "img": "images/items/sorcery[divinelightning].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[divinelightning]"
@@ -2346,69 +2346,69 @@
     {
         "name": "sorcery[omnibless]",
         "type": "toggle",
-        "img": "images/items/sorcery[omnibless].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[omnibless]"
     },
     {
-        "name": "mirrorgreatshield",
+        "name": "Mirror Great Shield",
         "type": "toggle",
-        "img": "images/items/mirrorgreatshield.png",
+        "img": "images/items/ArmorMirrorGreatshield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mirrorgreatshield"
     },
     {
-        "name": "fairytale[boywhocriedwolf]",
+        "name": "fairytale[Boy Who Cried Wolf]",
         "type": "toggle",
-        "img": "images/items/fairytale[boywhocriedwolf].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[boywhocriedwolf]"
     },
     {
-        "name": "fairytale[thegiganticturnip]",
+        "name": "fairytale[The Gigantic Turnip]",
         "type": "toggle",
-        "img": "images/items/fairytale[thegiganticturnip].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[thegiganticturnip]"
     },
     {
-        "name": "fairytale[hanselandgretel]",
+        "name": "fairytale[Hansel And Gretel]",
         "type": "toggle",
-        "img": "images/items/fairytale[hanselandgretel].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[hanselandgretel]"
     },
     {
-        "name": "ringofsin",
+        "name": "Ring Of Sin",
         "type": "toggle",
-        "img": "images/items/ringofsin.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofsin"
     },
     {
-        "name": "ringoftheabyss",
+        "name": "Ring Of The Abyss",
         "type": "toggle",
-        "img": "images/items/ringoftheabyss.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringoftheabyss"
     },
     {
-        "name": "targetshield",
+        "name": "Target Shield",
         "type": "toggle",
-        "img": "images/items/targetshield.png",
+        "img": "images/items/SkillSoulShield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "targetshield"
     },
     {
-        "name": "endinggachieved",
+        "name": "Ending G Achieved",
         "type": "toggle",
         "img": "images/items/endinggachieved.png",
         "initial_active_state": false,
@@ -2416,17 +2416,17 @@
         "codes": "endinggachieved"
     },
     {
-        "name": "mace",
+        "name": "Mace",
         "type": "toggle",
-        "img": "images/items/mace.png",
+        "img": "images/items/Weaponmace.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mace"
     },
     {
-        "name": "fairytale[adventuresofsinbad]",
+        "name": "fairytale[Adventures Of Sinbad]",
         "type": "toggle",
-        "img": "images/items/fairytale[adventuresofsinbad].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[adventuresofsinbad]"
@@ -2440,41 +2440,41 @@
         "codes": "mistsickclocktower"
     },
     {
-        "name": "blackwellsletter",
+        "name": "Black Well's Letter",
         "type": "toggle",
-        "img": "images/items/blackwellsletter.png",
+        "img": "images/items/blackwell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blackwellsletter"
     },
     {
-        "name": "maidheaddress",
+        "name": "Maid Headdress",
         "type": "toggle",
-        "img": "images/items/maidheaddress.png",
+        "img": "images/items/Armormaidheaddress.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "maidheaddress"
     },
     {
-        "name": "leatherarmor",
+        "name": "Leather Armor",
         "type": "toggle",
-        "img": "images/items/leatherarmor.png",
+        "img": "images/items/Armorleatherarmor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "leatherarmor"
     },
     {
-        "name": "knightofclubsring",
+        "name": "Knight Of Club's Ring",
         "type": "toggle",
-        "img": "images/items/knightofclubsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "knightofclubsring"
     },
     {
-        "name": "sorcery[serpentsembrace]",
+        "name": "sorcery[Serpent's Embrace]",
         "type": "toggle",
-        "img": "images/items/sorcery[serpentsembrace].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[serpentsembrace]"
@@ -2482,55 +2482,55 @@
     {
         "name": "sorcery[phalanx]",
         "type": "toggle",
-        "img": "images/items/sorcery[phalanx].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[phalanx]"
     },
     {
-        "name": "ringofgoddess",
+        "name": "Ring Of Goddess",
         "type": "toggle",
-        "img": "images/items/ringofgoddess.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofgoddess"
     },
     {
-        "name": "duskcrownring",
+        "name": "Dusk Crown Ring",
         "type": "toggle",
-        "img": "images/items/duskcrownring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "duskcrownring"
     },
     {
-        "name": "armorofmilton",
+        "name": "Armor Of Milton",
         "type": "toggle",
-        "img": "images/items/armorofmilton.png",
+        "img": "images/items/ArmorArmorofMilton.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "armorofmilton"
     },
     {
-        "name": "deepseaknightshelm",
+        "name": "Deep Sea Knight's Helm",
         "type": "toggle",
-        "img": "images/items/deepseaknightshelm.png",
+        "img": "images/items/Armordeepseaknight'shelm.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "deepseaknightshelm"
     },
     {
-        "name": "ringoftheindomitable",
+        "name": "Ring Of The Indomitable",
         "type": "toggle",
-        "img": "images/items/ringoftheindomitable.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringoftheindomitable"
     },
     {
-        "name": "knuckles",
+        "name": "Knuckles",
         "type": "toggle",
-        "img": "images/items/knuckles.png",
+        "img": "images/items/Weaponknuckles.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "knuckles"
@@ -2544,33 +2544,33 @@
         "codes": "throughoxwardgate"
     },
     {
-        "name": "ringofironmaiden",
+        "name": "Ring Of Iron Maiden",
         "type": "toggle",
-        "img": "images/items/ringofironmaiden.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofironmaiden"
     },
     {
-        "name": "sorcery[manadrain]",
+        "name": "sorcery[Mana Drain]",
         "type": "toggle",
-        "img": "images/items/sorcery[manadrain].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[manadrain]"
     },
     {
-        "name": "folktale[saintofalexandria]",
+        "name": "folktale[Saint Of Alexandria]",
         "type": "toggle",
-        "img": "images/items/folktale[saintofalexandria].png",
+        "img": "images/items/folkTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "folktale[saintofalexandria]"
     },
     {
-        "name": "phantomthiefsmantle",
+        "name": "Phantom Thief's Mantle",
         "type": "toggle",
-        "img": "images/items/phantomthiefsmantle.png",
+        "img": "images/items/ArmorPhantomThief'sMantle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "phantomthiefsmantle"
@@ -2584,17 +2584,17 @@
         "codes": "trainticket"
     },
     {
-        "name": "barbersring",
+        "name": "Barber's Ring",
         "type": "toggle",
-        "img": "images/items/barbersring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "barbersring"
     },
     {
-        "name": "rottenscythejabberwock",
+        "name": "Rotten Scythe Jabberwock",
         "type": "toggle",
-        "img": "images/items/rottenscythejabberwock.png",
+        "img": "images/items/WeaponRottenScytheJabberwock.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "rottenscythejabberwock"
@@ -2608,25 +2608,25 @@
         "codes": "mistredcastlefrissel"
     },
     {
-        "name": "mockturtlesladle",
+        "name": "Mock Turtle's Ladle",
         "type": "toggle",
-        "img": "images/items/mockturtlesladle.png",
+        "img": "images/items/Weaponmockturtle'sladle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mockturtlesladle"
     },
     {
-        "name": "fairytale[wizardofoz]",
+        "name": "fairytale[Wizard Of Oz]",
         "type": "toggle",
-        "img": "images/items/fairytale[wizardofoz].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[wizardofoz]"
     },
     {
-        "name": "souloftheslaveemperor",
+        "name": "Soul Of The Slave Emperor",
         "type": "toggle",
-        "img": "images/items/souloftheslaveemperor.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "souloftheslaveemperor"
@@ -2648,57 +2648,57 @@
         "codes": "mistwhitecastletown"
     },
     {
-        "name": "sorcery[shadowybog]",
+        "name": "sorcery[Shadowy Bog]",
         "type": "toggle",
-        "img": "images/items/sorcery[shadowybog].png",
+        "img": "images/items/sorcery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sorcery[shadowybog]"
     },
     {
-        "name": "warhammer",
+        "name": "Warhammer",
         "type": "toggle",
-        "img": "images/items/warhammer.png",
+        "img": "images/items/Weaponwarhammer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "warhammer"
     },
     {
-        "name": "butchergreataxe",
+        "name": "Butcher Great Axe",
         "type": "toggle",
-        "img": "images/items/butchergreataxe.png",
+        "img": "images/items/Weaponbutchergreataxe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "butchergreataxe"
     },
     {
-        "name": "souloftheslaveempress",
+        "name": "Soul Of The Slave Empress",
         "type": "toggle",
-        "img": "images/items/souloftheslaveempress.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "souloftheslaveempress"
     },
     {
-        "name": "brickshield",
+        "name": "Brick Shield",
         "type": "toggle",
-        "img": "images/items/brickshield.png",
+        "img": "images/items/Armorbrickshield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "brickshield"
     },
     {
-        "name": "corpse-eatersring",
+        "name": "Corpse-Eater's Ring",
         "type": "toggle",
-        "img": "images/items/corpse-eatersring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "corpse-eatersring"
     },
     {
-        "name": "buckler",
+        "name": "Buckler",
         "type": "toggle",
-        "img": "images/items/buckler.png",
+        "img": "images/items/Armorbuckler.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "buckler"
@@ -2712,49 +2712,49 @@
         "codes": "cheshirecatsring"
     },
     {
-        "name": "souloftheknightofhearts",
+        "name": "Soul Of The Knight Of Hearts",
         "type": "toggle",
-        "img": "images/items/souloftheknightofhearts.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "souloftheknightofhearts"
     },
     {
-        "name": "bladeshield",
+        "name": "Blade Shield",
         "type": "toggle",
-        "img": "images/items/bladeshield.png",
+        "img": "images/items/Armorbladeshield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bladeshield"
     },
     {
-        "name": "cannibalsshield",
+        "name": "Cannibal's Shield",
         "type": "toggle",
-        "img": "images/items/cannibalsshield.png",
+        "img": "images/items/meat.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cannibalsshield"
     },
     {
-        "name": "soulofthebrightstar",
+        "name": "Soul Of The Bright Star",
         "type": "toggle",
-        "img": "images/items/soulofthebrightstar.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthebrightstar"
     },
     {
-        "name": "lionsring",
+        "name": "Lion's Ring",
         "type": "toggle",
-        "img": "images/items/lionsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "lionsring"
     },
     {
-        "name": "guardianangel",
+        "name": "Guardian Angel",
         "type": "toggle",
-        "img": "images/items/guardianangel.png",
+        "img": "images/items/Armorguardianangel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "guardianangel"
@@ -2768,17 +2768,17 @@
         "codes": "covenant:shisha"
     },
     {
-        "name": "ringoftheenduring",
+        "name": "Ring Of The Enduring",
         "type": "toggle",
-        "img": "images/items/ringoftheenduring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringoftheenduring"
     },
     {
-        "name": "bankersring",
+        "name": "Banker's Ring",
         "type": "toggle",
-        "img": "images/items/bankersring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bankersring"
@@ -2792,17 +2792,17 @@
         "codes": "mistriverside"
     },
     {
-        "name": "ringofthereaper",
+        "name": "Ring Of The Reaper",
         "type": "toggle",
-        "img": "images/items/ringofthereaper.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofthereaper"
     },
     {
-        "name": "knightssword+3",
+        "name": "Knight's Sword+3",
         "type": "toggle",
-        "img": "images/items/knightssword+3.png",
+        "img": "images/items/WeaponKnight'sSword.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "knightssword+3"
@@ -2816,9 +2816,9 @@
         "codes": "mistjabberwockslair"
     },
     {
-        "name": "ringofrecklesshero",
+        "name": "Ring Of Reckless Hero",
         "type": "toggle",
-        "img": "images/items/ringofrecklesshero.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringofrecklesshero"
@@ -2832,73 +2832,73 @@
         "codes": "progression8"
     },
     {
-        "name": "leidenstwinaxes",
+        "name": "Leiden's Twin Axes",
         "type": "toggle",
-        "img": "images/items/leidenstwinaxes.png",
+        "img": "images/items/WeaponLeiden'sTwinAxes.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "leidenstwinaxes"
     },
     {
-        "name": "blackbeardsring",
+        "name": "Blackbeard's Ring",
         "type": "toggle",
-        "img": "images/items/blackbeardsring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blackbeardsring"
     },
     {
-        "name": "soulofthepregnantcake",
+        "name": "Soul Of The Pregnant Cake",
         "type": "toggle",
-        "img": "images/items/soulofthepregnantcake.png",
+        "img": "images/items/soul.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "soulofthepregnantcake"
     },
     {
-        "name": "fairytale[dogofflanders]",
+        "name": "fairytale[Dog Of Flanders]",
         "type": "toggle",
-        "img": "images/items/fairytale[dogofflanders].png",
+        "img": "images/items/fairyTale.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fairytale[dogofflanders]"
     },
     {
-        "name": "vorpalblade",
+        "name": "Vorpal Blade",
         "type": "toggle",
-        "img": "images/items/vorpalblade.png",
+        "img": "images/items/Weaponvorpalblade.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "vorpalblade"
     },
     {
-        "name": "redtearstonering",
+        "name": "Red Tear Stone Ring",
         "type": "toggle",
-        "img": "images/items/redtearstonering.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "redtearstonering"
     },
     {
-        "name": "hansmachinegun",
+        "name": "Hans' Machine Gun",
         "type": "toggle",
-        "img": "images/items/hansmachinegun.png",
+        "img": "images/items/WeaponHans'MachineGun.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "hansmachinegun"
     },
     {
-        "name": "silverpistol",
+        "name": "Silver Pistol",
         "type": "toggle",
-        "img": "images/items/silverpistol.png",
+        "img": "images/items/Armorsilverpistol.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "silverpistol"
     },
     {
-        "name": "hornetring",
+        "name": "Hornet Ring",
         "type": "toggle",
-        "img": "images/items/hornetring.png",
+        "img": "images/items/ring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "hornetring"
@@ -2912,7 +2912,7 @@
         "codes": "progression1"
     },
     {
-        "name": "eatme",
+        "name": "Eat Me",
         "type": "toggle",
         "img": "images/items/eatme.png",
         "initial_active_state": false,
@@ -2920,17 +2920,17 @@
         "codes": "eatme"
     },
     {
-        "name": "bunkershield",
+        "name": "Bunker Shield",
         "type": "toggle",
-        "img": "images/items/bunkershield.png",
+        "img": "images/items/WeaponBunkerShield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "bunkershield"
     },
     {
-        "name": "holyknightsshield",
+        "name": "Holy Knight's Shield",
         "type": "toggle",
-        "img": "images/items/holyknightsshield.png",
+        "img": "images/items/ArmorHolyKnight'sShield.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "holyknightsshield"
