@@ -27,16 +27,16 @@
                 "map_locations": [
                     {
                         "map": "CD",
-                        "x": 1993,
-                        "y": 104,
+                        "x": 664,
+                        "y": 34,
                         "size": 6,
                         "shape": "rect"
                     },
                     {
                         "map": "LD",
-                        "x": 2332,
-                        "y": 712,
-                        "size": 40,
+                        "x": 777,
+                        "y": 237,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

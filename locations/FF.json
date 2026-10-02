@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 2770,
-                        "y": 2239,
-                        "size": 60,
+                        "x": 923,
+                        "y": 746,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 5014,
-                        "y": 1523,
-                        "size": 60,
+                        "x": 1671,
+                        "y": 507,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 1927,
-                        "y": 219,
-                        "size": 60,
+                        "x": 642,
+                        "y": 73,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -105,9 +105,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 5102,
-                        "y": 1387,
-                        "size": 60,
+                        "x": 1700,
+                        "y": 462,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -131,9 +131,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 6314,
-                        "y": 2002,
-                        "size": 60,
+                        "x": 2104,
+                        "y": 667,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -157,9 +157,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 2660,
-                        "y": 1866,
-                        "size": 60,
+                        "x": 886,
+                        "y": 622,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -183,9 +183,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 4623,
-                        "y": 2182,
-                        "size": 60,
+                        "x": 1540,
+                        "y": 727,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -209,9 +209,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 3851,
-                        "y": 2001,
-                        "size": 60,
+                        "x": 1283,
+                        "y": 667,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -241,9 +241,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 2230,
-                        "y": 1139,
-                        "size": 60,
+                        "x": 743,
+                        "y": 379,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -267,9 +267,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 5107,
-                        "y": 2074,
-                        "size": 60,
+                        "x": 1702,
+                        "y": 691,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -293,9 +293,9 @@
                 "map_locations": [
                     {
                         "map": "FF",
-                        "x": 4854,
-                        "y": 2069,
-                        "size": 60,
+                        "x": 1617,
+                        "y": 689,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

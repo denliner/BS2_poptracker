@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "White Castletown",
-                        "x": 2250,
-                        "y": 1397,
-                        "size": 80,
+                        "x": 749,
+                        "y": 465,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -53,8 +53,8 @@
                 "map_locations": [
                     {
                         "map": "White Castletown",
-                        "x": 1692,
-                        "y": 1665,
+                        "x": 563,
+                        "y": 554,
                         "size": 6,
                         "shape": "rect"
                     }
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "White Castletown",
-                        "x": 2382,
-                        "y": 1314,
-                        "size": 80,
+                        "x": 793,
+                        "y": 437,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -105,9 +105,9 @@
                 "map_locations": [
                     {
                         "map": "White Castletown",
-                        "x": 40,
-                        "y": 2903,
-                        "size": 80,
+                        "x": 13,
+                        "y": 967,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -137,9 +137,9 @@
                 "map_locations": [
                     {
                         "map": "White Castletown",
-                        "x": 361,
-                        "y": 683,
-                        "size": 80,
+                        "x": 120,
+                        "y": 227,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -163,9 +163,9 @@
                 "map_locations": [
                     {
                         "map": "White Castletown",
-                        "x": 82,
-                        "y": 2675,
-                        "size": 80,
+                        "x": 27,
+                        "y": 891,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -189,16 +189,16 @@
                 "map_locations": [
                     {
                         "map": "White Castletown",
-                        "x": 2351,
-                        "y": 1121,
-                        "size": 80,
+                        "x": 783,
+                        "y": 373,
+                        "size": 20,
                         "shape": "rect"
                     },
                     {
                         "map": "Deserted Road",
-                        "x": 5834,
-                        "y": 143,
-                        "size": 80,
+                        "x": 1944,
+                        "y": 47,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -222,16 +222,16 @@
                 "map_locations": [
                     {
                         "map": "White Castletown",
-                        "x": 2430,
-                        "y": 1121,
-                        "size": 80,
+                        "x": 809,
+                        "y": 373,
+                        "size": 20,
                         "shape": "rect"
                     },
                     {
                         "map": "Deserted Road",
-                        "x": 6030,
-                        "y": 2747,
-                        "size": 80,
+                        "x": 2009,
+                        "y": 915,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Deserted Road",
-                        "x": 5432,
-                        "y": 164,
-                        "size": 60,
+                        "x": 1810,
+                        "y": 54,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Deserted Road",
-                        "x": 6166,
-                        "y": 1186,
-                        "size": 60,
+                        "x": 2055,
+                        "y": 395,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "Deserted Road",
-                        "x": 6318,
-                        "y": 2536,
-                        "size": 60,
+                        "x": 2105,
+                        "y": 845,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

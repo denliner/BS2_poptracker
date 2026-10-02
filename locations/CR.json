@@ -29,9 +29,9 @@
                 "map_locations": [
                     {
                         "map": "CR",
-                        "x": 3409,
-                        "y": 3158,
-                        "size": 80,
+                        "x": 1134,
+                        "y": 1050,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -56,7 +56,7 @@
                     {
                         "map": "Jabberwocks Lair",
                         "x": 1228,
-                        "y": 3201,
+                        "y": 3212,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -81,9 +81,9 @@
                 "map_locations": [
                     {
                         "map": "CR",
-                        "x": 281,
-                        "y": 3575,
-                        "size": 80,
+                        "x": 93,
+                        "y": 1193,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -107,9 +107,9 @@
                 "map_locations": [
                     {
                         "map": "CR",
-                        "x": 2810,
-                        "y": 3503,
-                        "size": 80,
+                        "x": 932,
+                        "y": 1159,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -133,9 +133,9 @@
                 "map_locations": [
                     {
                         "map": "CR",
-                        "x": 1106,
-                        "y": 3129,
-                        "size": 80,
+                        "x": 367,
+                        "y": 1041,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -159,8 +159,8 @@
                 "map_locations": [
                     {
                         "map": "Jabberwocks Lair",
-                        "x": 1347,
-                        "y": 3147,
+                        "x": 1328,
+                        "y": 3143,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -185,9 +185,9 @@
                 "map_locations": [
                     {
                         "map": "CR",
-                        "x": 1126,
-                        "y": 3695,
-                        "size": 80,
+                        "x": 378,
+                        "y": 1234,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -211,9 +211,9 @@
                 "map_locations": [
                     {
                         "map": "CR",
-                        "x": 847,
-                        "y": 2740,
-                        "size": 80,
+                        "x": 281,
+                        "y": 915,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -229,7 +229,9 @@
                 "sections": [
                     {
                         "name": "Soul of Conceit",
-                        "access_rules": ["mistriverside"],
+                        "access_rules": [
+                            "mistriverside"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -237,8 +239,8 @@
                 "map_locations": [
                     {
                         "map": "Jabberwocks Lair",
-                        "x": 1350,
-                        "y": 2740,
+                        "x": 1354,
+                        "y": 2116,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -255,7 +257,9 @@
                 "sections": [
                     {
                         "name": "Soul of the Jabberwock",
-                        "access_rules": ["mistjabberwockslair"],
+                        "access_rules": [
+                            "mistjabberwockslair"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }

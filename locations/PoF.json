@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "PoF",
-                        "x": 1777,
-                        "y": 1747,
-                        "size": 60,
+                        "x": 888,
+                        "y": 873,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "PoF",
-                        "x": 646,
-                        "y": 1665,
-                        "size": 60,
+                        "x": 323,
+                        "y": 832,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "PoF",
-                        "x": 1934,
-                        "y": 711,
-                        "size": 60,
+                        "x": 967,
+                        "y": 355,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

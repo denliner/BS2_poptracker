@@ -1,7 +1,7 @@
 {
     "name": "black_souls2 Archipelago",
     "game_name": "black_souls2",
-    "package_version": "0.3.0",
+    "package_version": "0.4.0",
     "package_uid": "black_souls2_ap",
     "author": "builder_script",
     "variants": {
@@ -10,7 +10,6 @@
             "flags": [
                 "ap"
             ]
-        // }
         },
         "Only Items": {
             "display_name": "Full Items Tracker",

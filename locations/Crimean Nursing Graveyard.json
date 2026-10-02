@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 2301,
-                        "y": 1451,
-                        "size": 80,
+                        "x": 766,
+                        "y": 483,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 3690,
-                        "y": 3799,
-                        "size": 80,
+                        "x": 1229,
+                        "y": 1266,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 3961,
-                        "y": 2477,
-                        "size": 80,
+                        "x": 1320,
+                        "y": 825,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -105,9 +105,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 3371,
-                        "y": 156,
-                        "size": 80,
+                        "x": 1123,
+                        "y": 51,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -131,9 +131,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 2742,
-                        "y": 581,
-                        "size": 80,
+                        "x": 913,
+                        "y": 193,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -157,9 +157,9 @@
                 "map_locations": [
                     {
                         "map": "Florence Arena",
-                        "x": 489,
-                        "y": 3276,
-                        "size": 80,
+                        "x": 162,
+                        "y": 1091,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -183,9 +183,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 3960,
-                        "y": 4493,
-                        "size": 80,
+                        "x": 1319,
+                        "y": 1497,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -209,9 +209,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 3202,
-                        "y": 2389,
-                        "size": 80,
+                        "x": 1067,
+                        "y": 796,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -235,9 +235,9 @@
                 "map_locations": [
                     {
                         "map": "Florence Arena",
-                        "x": 480,
-                        "y": 401,
-                        "size": 80,
+                        "x": 159,
+                        "y": 133,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -261,9 +261,9 @@
                 "map_locations": [
                     {
                         "map": "Florence Arena",
-                        "x": 483,
-                        "y": 3021,
-                        "size": 80,
+                        "x": 160,
+                        "y": 1006,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -287,9 +287,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 2599,
-                        "y": 3845,
-                        "size": 80,
+                        "x": 866,
+                        "y": 1281,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -313,9 +313,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 3743,
-                        "y": 2049,
-                        "size": 80,
+                        "x": 1247,
+                        "y": 682,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -339,9 +339,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 273,
-                        "y": 4836,
-                        "size": 80,
+                        "x": 90,
+                        "y": 1611,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -365,9 +365,9 @@
                 "map_locations": [
                     {
                         "map": "Crimean Nursing Graveyard",
-                        "x": 3660,
-                        "y": 3837,
-                        "size": 80,
+                        "x": 1219,
+                        "y": 1278,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

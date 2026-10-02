@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Florence Arena",
-                        "x": 499,
-                        "y": 664,
-                        "size": 80,
+                        "x": 166,
+                        "y": 221,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

@@ -5,7 +5,8 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "mistpondofbloodytears,drinkme","mistpondofbloodytears,mistdodgsonbridge"
+            "mistpondofbloodytears,drinkme",
+            "mistpondofbloodytears,mistdodgsonbridge"
         ],
         "children": [
             {
@@ -27,9 +28,9 @@
                 "map_locations": [
                     {
                         "map": "QL",
-                        "x": 1926,
-                        "y": 768,
-                        "size": 80,
+                        "x": 642,
+                        "y": 256,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +54,9 @@
                 "map_locations": [
                     {
                         "map": "QL",
-                        "x": 2658,
-                        "y": 829,
-                        "size": 80,
+                        "x": 886,
+                        "y": 276,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +80,9 @@
                 "map_locations": [
                     {
                         "map": "QL",
-                        "x": 1686,
-                        "y": 2683,
-                        "size": 80,
+                        "x": 562,
+                        "y": 894,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -97,7 +98,9 @@
                 "sections": [
                     {
                         "name": "Leafs Ring",
-                        "access_rules": ["mistqueensland,covenant:bestgirlprickett"],
+                        "access_rules": [
+                            "mistqueensland,covenant:bestgirlprickett"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -105,9 +108,9 @@
                 "map_locations": [
                     {
                         "map": "QL",
-                        "x": 2779,
-                        "y": 1265,
-                        "size": 80,
+                        "x": 926,
+                        "y": 421,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -137,9 +140,9 @@
                 "map_locations": [
                     {
                         "map": "QL",
-                        "x": 2488,
-                        "y": 3778,
-                        "size": 80,
+                        "x": 829,
+                        "y": 1259,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -155,7 +158,9 @@
                 "sections": [
                     {
                         "name": "Mist Queensland",
-                        "access_rules": ["covenant:bestgirlprickett"],
+                        "access_rules": [
+                            "covenant:bestgirlprickett"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -163,9 +168,9 @@
                 "map_locations": [
                     {
                         "map": "QL",
-                        "x": 2707,
-                        "y": 811,
-                        "size": 80,
+                        "x": 902,
+                        "y": 270,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -189,8 +194,8 @@
                 "map_locations": [
                     {
                         "map": "QL",
-                        "x": 2495,
-                        "y": 559,
+                        "x": 831,
+                        "y": 186,
                         "size": 6,
                         "shape": "rect"
                     }
@@ -215,9 +220,9 @@
                 "map_locations": [
                     {
                         "map": "QL",
-                        "x": 2024,
-                        "y": 4668,
-                        "size": 80,
+                        "x": 674,
+                        "y": 1556,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -247,9 +252,9 @@
                 "map_locations": [
                     {
                         "map": "QL",
-                        "x": 2698,
-                        "y": 623,
-                        "size": 80,
+                        "x": 899,
+                        "y": 207,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

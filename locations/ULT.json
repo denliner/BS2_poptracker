@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 1421,
-                        "y": 3058,
-                        "size": 60,
+                        "x": 710,
+                        "y": 1529,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 912,
-                        "y": 2218,
-                        "size": 60,
+                        "x": 456,
+                        "y": 1109,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 1090,
-                        "y": 3336,
-                        "size": 60,
+                        "x": 545,
+                        "y": 1668,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -105,9 +105,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 1493,
-                        "y": 3174,
-                        "size": 60,
+                        "x": 746,
+                        "y": 1587,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -131,9 +131,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 1267,
-                        "y": 581,
-                        "size": 60,
+                        "x": 633,
+                        "y": 290,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -157,9 +157,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 716,
-                        "y": 466,
-                        "size": 60,
+                        "x": 358,
+                        "y": 233,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -183,9 +183,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 759,
-                        "y": 1231,
-                        "size": 60,
+                        "x": 379,
+                        "y": 615,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -209,9 +209,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 470,
-                        "y": 436,
-                        "size": 60,
+                        "x": 235,
+                        "y": 218,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -235,9 +235,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 1325,
-                        "y": 2582,
-                        "size": 60,
+                        "x": 662,
+                        "y": 1291,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -261,9 +261,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 1483,
-                        "y": 617,
-                        "size": 60,
+                        "x": 741,
+                        "y": 308,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -287,9 +287,9 @@
                 "map_locations": [
                     {
                         "map": "ULT",
-                        "x": 471,
-                        "y": 209,
-                        "size": 60,
+                        "x": 235,
+                        "y": 104,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

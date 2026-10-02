@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Windless Valley",
-                        "x": 1962,
-                        "y": 2447,
-                        "size": 60,
+                        "x": 654,
+                        "y": 815,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Windless Valley",
-                        "x": 1548,
-                        "y": 2468,
-                        "size": 60,
+                        "x": 516,
+                        "y": 822,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

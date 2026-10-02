@@ -27,16 +27,16 @@
                 "map_locations": [
                     {
                         "map": "RH",
-                        "x": 772,
-                        "y": 295,
+                        "x": 257,
+                        "y": 98,
                         "size": 6,
                         "shape": "rect"
                     },
                     {
                         "map": "CC",
-                        "x": 3266,
-                        "y": 2130,
-                        "size": 60,
+                        "x": 1088,
+                        "y": 710,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -60,16 +60,16 @@
                 "map_locations": [
                     {
                         "map": "RH",
-                        "x": 2082,
-                        "y": 1079,
+                        "x": 694,
+                        "y": 359,
                         "size": 6,
                         "shape": "rect"
                     },
                     {
                         "map": "CC",
-                        "x": 3115,
-                        "y": 2204,
-                        "size": 60,
+                        "x": 1038,
+                        "y": 734,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -80,8 +80,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "throughoxwardgate,mistriverside,mistjubjubnest,mistjabberwockslair,mistfumingforest,mistoxwarduniversity,mistsickclocktower"         
-                    
+                    "throughoxwardgate,mistriverside,mistjubjubnest,mistjabberwockslair,mistfumingforest,mistoxwarduniversity,mistsickclocktower"
                 ],
                 "sections": [
                     {
@@ -100,16 +99,16 @@
                 "map_locations": [
                     {
                         "map": "RH",
-                        "x": 47,
-                        "y": 825,
+                        "x": 15,
+                        "y": 275,
                         "size": 6,
                         "shape": "rect"
                     },
                     {
                         "map": "CC",
-                        "x": 4104,
-                        "y": 2075,
-                        "size": 60,
+                        "x": 1368,
+                        "y": 691,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -133,16 +132,16 @@
                 "map_locations": [
                     {
                         "map": "RH",
-                        "x": 307,
-                        "y": 541,
+                        "x": 102,
+                        "y": 180,
                         "size": 6,
                         "shape": "rect"
                     },
                     {
                         "map": "CC",
-                        "x": 3370,
-                        "y": 1180,
-                        "size": 60,
+                        "x": 1123,
+                        "y": 393,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

@@ -84,6 +84,15 @@
                 }
             },
             {
+                "title": "Duchess Mansion Exterior",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Duchess Exterior"
+                    ]
+                }
+            },
+            {
                 "title": "Deep Sea",
                 "content": {
                     "type": "map",

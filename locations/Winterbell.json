@@ -6,7 +6,6 @@
         "overlay_background": "#000000",
         "access_rules": [
             "endinggachieved,mistcrimeannursinggraveyard,mistflorencearena,mistwindlessvalley,mistwhitecastletown"
-
         ],
         "children": [
             {
@@ -28,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Winterbell",
-                        "x": 593,
-                        "y": 1449,
-                        "size": 80,
+                        "x": 197,
+                        "y": 483,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -54,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Winterbell",
-                        "x": 206,
-                        "y": 1490,
-                        "size": 80,
+                        "x": 68,
+                        "y": 496,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -80,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "Winterbell",
-                        "x": 55,
-                        "y": 1080,
-                        "size": 80,
+                        "x": 18,
+                        "y": 360,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

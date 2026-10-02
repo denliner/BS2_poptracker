@@ -29,9 +29,9 @@
                 "map_locations": [
                     {
                         "map": "SCT",
-                        "x": 2445,
-                        "y": 1038,
-                        "size": 80,
+                        "x": 815,
+                        "y": 346,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -55,9 +55,9 @@
                 "map_locations": [
                     {
                         "map": "SCT",
-                        "x": 2302,
-                        "y": 454,
-                        "size": 80,
+                        "x": 767,
+                        "y": 151,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -81,9 +81,9 @@
                 "map_locations": [
                     {
                         "map": "SCT",
-                        "x": 2570,
-                        "y": 2190,
-                        "size": 80,
+                        "x": 856,
+                        "y": 730,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -113,9 +113,9 @@
                 "map_locations": [
                     {
                         "map": "Jubjubs Nest",
-                        "x": 496,
-                        "y": 77,
-                        "size": 40,
+                        "x": 498,
+                        "y": 74,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -139,9 +139,9 @@
                 "map_locations": [
                     {
                         "map": "SCT",
-                        "x": 2514,
-                        "y": 1912,
-                        "size": 80,
+                        "x": 838,
+                        "y": 637,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -165,9 +165,9 @@
                 "map_locations": [
                     {
                         "map": "SCT",
-                        "x": 369,
-                        "y": 1595,
-                        "size": 80,
+                        "x": 123,
+                        "y": 531,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -191,9 +191,9 @@
                 "map_locations": [
                     {
                         "map": "SCT",
-                        "x": 2489,
-                        "y": 799,
-                        "size": 80,
+                        "x": 829,
+                        "y": 266,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -217,9 +217,9 @@
                 "map_locations": [
                     {
                         "map": "SCT",
-                        "x": 2517,
-                        "y": 2016,
-                        "size": 80,
+                        "x": 839,
+                        "y": 672,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

@@ -29,9 +29,9 @@
                 "map_locations": [
                     {
                         "map": "OWU",
-                        "x": 2580,
-                        "y": 2068,
-                        "size": 60,
+                        "x": 860,
+                        "y": 689,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -55,9 +55,9 @@
                 "map_locations": [
                     {
                         "map": "OWU",
-                        "x": 166,
-                        "y": 2155,
-                        "size": 60,
+                        "x": 55,
+                        "y": 718,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -81,9 +81,9 @@
                 "map_locations": [
                     {
                         "map": "OWU",
-                        "x": 811,
-                        "y": 1040,
-                        "size": 60,
+                        "x": 270,
+                        "y": 346,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -125,9 +125,9 @@
                 "map_locations": [
                     {
                         "map": "OWU",
-                        "x": 178,
-                        "y": 1543,
-                        "size": 60,
+                        "x": 59,
+                        "y": 514,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -151,9 +151,9 @@
                 "map_locations": [
                     {
                         "map": "OWU",
-                        "x": 2061,
-                        "y": 3344,
-                        "size": 60,
+                        "x": 687,
+                        "y": 1114,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -164,7 +164,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                   "edithsring"
+                    "edithsring"
                 ],
                 "sections": [
                     {
@@ -177,9 +177,9 @@
                 "map_locations": [
                     {
                         "map": "OWU",
-                        "x": 2190,
-                        "y": 2042,
-                        "size": 60,
+                        "x": 730,
+                        "y": 680,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -203,9 +203,9 @@
                 "map_locations": [
                     {
                         "map": "OWU",
-                        "x": 851,
-                        "y": 831,
-                        "size": 60,
+                        "x": 283,
+                        "y": 277,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -229,9 +229,9 @@
                 "map_locations": [
                     {
                         "map": "OWU",
-                        "x": 1637,
-                        "y": 3234,
-                        "size": 60,
+                        "x": 545,
+                        "y": 1078,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -247,7 +247,9 @@
                 "sections": [
                     {
                         "name": "Mist Ox Ward University",
-                        "access_rules": ["edithsring"],
+                        "access_rules": [
+                            "edithsring"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -255,9 +257,9 @@
                 "map_locations": [
                     {
                         "map": "OWU",
-                        "x": 847,
-                        "y": 987,
-                        "size": 60,
+                        "x": 282,
+                        "y": 329,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

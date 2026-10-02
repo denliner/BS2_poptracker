@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Madness Mountain",
-                        "x": 3434,
-                        "y": 1105,
-                        "size": 60,
+                        "x": 1144,
+                        "y": 368,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Madness Mountain",
-                        "x": 3535,
-                        "y": 1925,
-                        "size": 60,
+                        "x": 1178,
+                        "y": 641,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "Madness Mountain",
-                        "x": 563,
-                        "y": 1526,
-                        "size": 60,
+                        "x": 187,
+                        "y": 508,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

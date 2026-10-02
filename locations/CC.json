@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "CC",
-                        "x": 2081,
-                        "y": 3276,
-                        "size": 80,
+                        "x": 693,
+                        "y": 1092,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -51,7 +51,9 @@
                     },
                     {
                         "name": "Eat Me",
-                        "access_rules": ["drinkme"],
+                        "access_rules": [
+                            "drinkme"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -59,9 +61,9 @@
                 "map_locations": [
                     {
                         "map": "CC",
-                        "x": 1739,
-                        "y": 1947,
-                        "size": 80,
+                        "x": 579,
+                        "y": 649,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -77,7 +79,9 @@
                 "sections": [
                     {
                         "name": "Ring of Fragile Life",
-                        "access_rules": ["mistcrashchamber"],
+                        "access_rules": [
+                            "mistcrashchamber"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -85,9 +89,9 @@
                 "map_locations": [
                     {
                         "map": "CC",
-                        "x": 1245,
-                        "y": 622,
-                        "size": 80,
+                        "x": 415,
+                        "y": 207,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -111,9 +115,9 @@
                 "map_locations": [
                     {
                         "map": "CC",
-                        "x": 1092,
-                        "y": 775,
-                        "size": 80,
+                        "x": 364,
+                        "y": 258,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -137,9 +141,9 @@
                 "map_locations": [
                     {
                         "map": "CC",
-                        "x": 1255,
-                        "y": 3244,
-                        "size": 80,
+                        "x": 418,
+                        "y": 1081,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -163,9 +167,9 @@
                 "map_locations": [
                     {
                         "map": "CC",
-                        "x": 1095,
-                        "y": 959,
-                        "size": 80,
+                        "x": 365,
+                        "y": 319,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
