@@ -1,0 +1,229 @@
+[
+    {
+        "name": "SCT",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "mistbillingsgatefishmarket,[mistfumingforest],mistslaughterhouse,edithsring,mistoxwarduniversity",
+            "mistbillingsgatefishmarket,[cheshirecatring],mistslaughterhouse,edithsring,mistoxwarduniversity",
+            "mistupperlutwidgetown,edithsring,mistoxwarduniversity"
+        ],
+        "children": [
+            {
+                "name": "Chest Behind The Troll",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "mistsickclocktower"
+                ],
+                "sections": [
+                    {
+                        "name": "Armor of the Abyss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SCT",
+                        "x": 2445,
+                        "y": 1038,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Summon Peter Pan",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "mistsickclocktower,mistjubjubnest"
+                ],
+                "sections": [
+                    {
+                        "name": "Fairy Tale [Peter Pan]",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SCT",
+                        "x": 2302,
+                        "y": 454,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Summon The Little Prince",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "mistsickclocktower"
+                ],
+                "sections": [
+                    {
+                        "name": "Fairy Tale [The Little Prince]",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SCT",
+                        "x": 2570,
+                        "y": 2190,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "JubJub",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "mistsickclocktower,mistjubjubnest"
+                ],
+                "sections": [
+                    {
+                        "name": "Gear of Madness",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Soul of the Jubjub",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jubjubs Nest",
+                        "x": 496,
+                        "y": 77,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bright Star",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "mistsickclocktower"
+                ],
+                "sections": [
+                    {
+                        "name": "Soul of the Bright Star",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SCT",
+                        "x": 2514,
+                        "y": 1912,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fairy Corpse",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "mistsickclocktower"
+                ],
+                "sections": [
+                    {
+                        "name": "Tinkerbells Ring",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SCT",
+                        "x": 369,
+                        "y": 1595,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Push The Troll",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "mistsickclocktower"
+                ],
+                "sections": [
+                    {
+                        "name": "Troll Ring",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SCT",
+                        "x": 2489,
+                        "y": 799,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Mist",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mist Sick Clock Tower",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SCT",
+                        "x": 2517,
+                        "y": 2016,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

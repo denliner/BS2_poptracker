@@ -1,0 +1,2389 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Station Hanover",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Left Of The Bonfire - Adultery Ring",
+                        "ref": "ASH/Left Of The Bonfire/Adultery Ring"
+                    },
+                    {
+                        "name": "Hein - Arbiters Scythe",
+                        "ref": "ASH/Hein/Arbiters Scythe"
+                    },
+                    {
+                        "name": "Covenant - Maid Victoria",
+                        "ref": "ASH/Covenant/Maid Victoria"
+                    },
+                    {
+                        "name": "Hein - Defeated Hein",
+                        "ref": "ASH/Hein/Defeated Hein"
+                    },
+                    {
+                        "name": "On The Train - Mosquito Ring",
+                        "ref": "ASH/On The Train/Mosquito Ring"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 84,
+                        "y": 316,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Billingsgate Fish Market",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Summon - Cannon",
+                        "ref": "BFM/Summon/Cannon"
+                    },
+                    {
+                        "name": "Summon - Fairy Tale [Adventures of Sinbad]",
+                        "ref": "BFM/Summon/Fairy Tale [Adventures of Sinbad]"
+                    },
+                    {
+                        "name": "Hollow Soldier Christie - Empty Ring",
+                        "ref": "BFM/Hollow Soldier Christie/Empty Ring"
+                    },
+                    {
+                        "name": "Monkey - Fairy Tale [The Crab and The Monkey]",
+                        "ref": "BFM/Monkey/Fairy Tale [The Crab and The Monkey]"
+                    },
+                    {
+                        "name": "Corpse In Elevator Area - Knuckles",
+                        "ref": "BFM/Corpse In Elevator Area/Knuckles"
+                    },
+                    {
+                        "name": "Corpse In Elevator Area - Sorcery [Hidden Body]",
+                        "ref": "BFM/Corpse In Elevator Area/Sorcery [Hidden Body]"
+                    },
+                    {
+                        "name": "Right Corpse Before The Boss - Ring of White Crow",
+                        "ref": "BFM/Right Corpse Before The Boss/Ring of White Crow"
+                    },
+                    {
+                        "name": "Left Of The House Waterfall - Ring of the Deep",
+                        "ref": "BFM/Left Of The House Waterfall/Ring of the Deep"
+                    },
+                    {
+                        "name": "Shoeshiner - Shoeshiners Ring",
+                        "ref": "BFM/Shoeshiner/Shoeshiners Ring"
+                    },
+                    {
+                        "name": "Southmost Corpse - Sorcery [Dispel]",
+                        "ref": "BFM/Southmost Corpse/Sorcery [Dispel]"
+                    },
+                    {
+                        "name": "Bellcaller Bellman - Soul of the Bellcaller",
+                        "ref": "BFM/Bellcaller Bellman/Soul of the Bellcaller"
+                    },
+                    {
+                        "name": "Chest In Starting Area - Warriors Armor",
+                        "ref": "BFM/Chest In Starting Area/Warriors Armor"
+                    },
+                    {
+                        "name": "Mist - Mist Billingsgate Fish Market",
+                        "ref": "BFM/Mist/Mist Billingsgate Fish Market"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 239,
+                        "y": 241,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Black Knight Arena",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mist - Mist Black Knight Arena",
+                        "ref": "Black Knight Arena/Mist/Mist Black Knight Arena"
+                    },
+                    {
+                        "name": "Lindamea - Black Knights Ring",
+                        "ref": "Black Knight Arena/Lindamea/Black Knights Ring"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 432,
+                        "y": 241,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Beach of Grief",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Cannibal Sonny Bean - Cannibals Shield",
+                        "ref": "BoG/Cannibal Sonny Bean/Cannibals Shield"
+                    },
+                    {
+                        "name": "Covenant - Mock Turtle",
+                        "ref": "BoG/Covenant/Mock Turtle"
+                    },
+                    {
+                        "name": "Covenant - Mock Turtles Ladle",
+                        "ref": "BoG/Covenant/Mock Turtles Ladle"
+                    },
+                    {
+                        "name": "Covenant - Mock Turtles Shell",
+                        "ref": "BoG/Covenant/Mock Turtles Shell"
+                    },
+                    {
+                        "name": "Griffy - Griffin Shield",
+                        "ref": "BoG/Griffy/Griffin Shield"
+                    },
+                    {
+                        "name": "Mirandas - Mirandas Axe",
+                        "ref": "BoG/Mirandas/Mirandas Axe"
+                    },
+                    {
+                        "name": "Behind The Tree - Ring of White Crow",
+                        "ref": "BoG/Behind The Tree/Ring of White Crow"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 363,
+                        "y": 194,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Crash Chamber",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Corpse BS - Broken Sword",
+                        "ref": "CC/Corpse BS/Broken Sword"
+                    },
+                    {
+                        "name": "Me - Drink Me",
+                        "ref": "CC/Me/Drink Me"
+                    },
+                    {
+                        "name": "Me - Eat Me",
+                        "ref": "CC/Me/Eat Me"
+                    },
+                    {
+                        "name": "Vorpal Room Upper Right Corpse - Ring of Fragile Life",
+                        "ref": "CC/Vorpal Room Upper Right Corpse/Ring of Fragile Life"
+                    },
+                    {
+                        "name": "Head Hunting Beast - Soul of the Head-Hunting Beast",
+                        "ref": "CC/Head Hunting Beast/Soul of the Head-Hunting Beast"
+                    },
+                    {
+                        "name": "Door - Entered Rabbit Hole",
+                        "ref": "CC/Door/Entered Rabbit Hole"
+                    },
+                    {
+                        "name": "Mist - Mist Crash Chamber",
+                        "ref": "CC/Mist/Mist Crash Chamber"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 186,
+                        "y": 137,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Chaos Dungeon",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Beat Mabel - Mystery of Night Sky (Ashes Reignited)",
+                        "ref": "CD/Beat Mabel/Mystery of Night Sky (Ashes Reignited)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 436,
+                        "y": 33,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Carroll River",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dungeons Crack - Abhorrent Coat",
+                        "ref": "CR/Dungeons Crack/Abhorrent Coat"
+                    },
+                    {
+                        "name": "Summon - Fairy Tale [Dog of Flanders]",
+                        "ref": "CR/Summon/Fairy Tale [Dog of Flanders]"
+                    },
+                    {
+                        "name": "Chick - Fairy Tale [Goose That Laid Golden Eggs]",
+                        "ref": "CR/Chick/Fairy Tale [Goose That Laid Golden Eggs]"
+                    },
+                    {
+                        "name": "Greedy Dog - Fairy Tale [The Dog and The Shadow]",
+                        "ref": "CR/Greedy Dog/Fairy Tale [The Dog and The Shadow]"
+                    },
+                    {
+                        "name": "Northmost Drop On The Invade Island - Londinium Ring",
+                        "ref": "CR/Northmost Drop On The Invade Island/Londinium Ring"
+                    },
+                    {
+                        "name": "Mist - Mist Riverside",
+                        "ref": "CR/Mist/Mist Riverside"
+                    },
+                    {
+                        "name": "Wainwright the Sinful - Ring of Goddess",
+                        "ref": "CR/Wainwright the Sinful/Ring of Goddess"
+                    },
+                    {
+                        "name": "Leftmost Chest - Sorcery [Heavy Soul Arrow]",
+                        "ref": "CR/Leftmost Chest/Sorcery [Heavy Soul Arrow]"
+                    },
+                    {
+                        "name": "Beast of Conceit - Soul of Conceit",
+                        "ref": "CR/Beast of Conceit/Soul of Conceit"
+                    },
+                    {
+                        "name": "JabberWock - Soul of the Jabberwock",
+                        "ref": "CR/JabberWock/Soul of the Jabberwock"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 354,
+                        "y": 313,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Crimean Nursing Graveyard",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "4th Floor Corpse - Almighty Ring",
+                        "ref": "Crimean Nursing Graveyard/4th Floor Corpse/Almighty Ring"
+                    },
+                    {
+                        "name": "2nd Floor Left Green Locker - Corpse-Eaters Ring",
+                        "ref": "Crimean Nursing Graveyard/2nd Floor Left Green Locker/Corpse-Eaters Ring"
+                    },
+                    {
+                        "name": "3rd Floor Lingeriena - Fake Angels Wreath",
+                        "ref": "Crimean Nursing Graveyard/3rd Floor Lingeriena/Fake Angels Wreath"
+                    },
+                    {
+                        "name": "4th Floor Bug Room Corpse - Gods Angels",
+                        "ref": "Crimean Nursing Graveyard/4th Floor Bug Room Corpse/Gods Angels"
+                    },
+                    {
+                        "name": "4th Floor WoF Room - Miracle [Summon Wall of Flesh]",
+                        "ref": "Crimean Nursing Graveyard/4th Floor WoF Room/Miracle [Summon Wall of Flesh]"
+                    },
+                    {
+                        "name": "Mist - Mist Crimean Nursing Graveyard",
+                        "ref": "Crimean Nursing Graveyard/Mist/Mist Crimean Nursing Graveyard"
+                    },
+                    {
+                        "name": "2nd Floor Sofa - Sorcery [Acid Rain]",
+                        "ref": "Crimean Nursing Graveyard/2nd Floor Sofa/Sorcery [Acid Rain]"
+                    },
+                    {
+                        "name": "3rd Floor 2nd Floor Chest - Sorcery [Shadowy Bog]",
+                        "ref": "Crimean Nursing Graveyard/3rd Floor 2nd Floor Chest/Sorcery [Shadowy Bog]"
+                    },
+                    {
+                        "name": "Florence - Soul of Florence",
+                        "ref": "Crimean Nursing Graveyard/Florence/Soul of Florence"
+                    },
+                    {
+                        "name": "Nurse Call - Soul of the Wet Nurses",
+                        "ref": "Crimean Nursing Graveyard/Nurse Call/Soul of the Wet Nurses"
+                    },
+                    {
+                        "name": "Dr. Jekyll - Two-Faced Buckler",
+                        "ref": "Crimean Nursing Graveyard/Dr. Jekyll/Two-Faced Buckler"
+                    },
+                    {
+                        "name": "3rd Floor Broken Shelf - Unbreakable Ring",
+                        "ref": "Crimean Nursing Graveyard/3rd Floor Broken Shelf/Unbreakable Ring"
+                    },
+                    {
+                        "name": "Sackhead Girl - Whittled Ring",
+                        "ref": "Crimean Nursing Graveyard/Sackhead Girl/Whittled Ring"
+                    },
+                    {
+                        "name": "2nd Floor Yellow Pool - Yellow Cloth",
+                        "ref": "Crimean Nursing Graveyard/2nd Floor Yellow Pool/Yellow Cloth"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 466,
+                        "y": 45,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Duchess Mansion",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Right Of The Red Circle - Aristocrats Clothes",
+                        "ref": "DM/Right Of The Red Circle/Aristocrats Clothes"
+                    },
+                    {
+                        "name": "Second Floor Near The Cliff - Cloak of Violence",
+                        "ref": "DM/Second Floor Near The Cliff/Cloak of Violence"
+                    },
+                    {
+                        "name": "Knight Corpse - Knights Armor",
+                        "ref": "DM/Knight Corpse/Knights Armor"
+                    },
+                    {
+                        "name": "Knight Corpse - Knights Helmet",
+                        "ref": "DM/Knight Corpse/Knights Helmet"
+                    },
+                    {
+                        "name": "Knight Corpse - Knights Shield",
+                        "ref": "DM/Knight Corpse/Knights Shield"
+                    },
+                    {
+                        "name": "Knight Corpse - Knights Sword",
+                        "ref": "DM/Knight Corpse/Knights Sword"
+                    },
+                    {
+                        "name": "Ogre - Ogre Ring",
+                        "ref": "DM/Ogre/Ogre Ring"
+                    },
+                    {
+                        "name": "Monster Butler Archibald - Ring of Rebellion",
+                        "ref": "DM/Monster Butler Archibald/Ring of Rebellion"
+                    },
+                    {
+                        "name": "Covenant - Train Ticket",
+                        "ref": "DM/Covenant/Train Ticket"
+                    },
+                    {
+                        "name": "Mimic - Warhammer",
+                        "ref": "DM/Mimic/Warhammer"
+                    },
+                    {
+                        "name": "Mist - Mist Duchess Mansion",
+                        "ref": "DM/Mist/Mist Duchess Mansion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 19,
+                        "y": 79,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Deep Sea",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Near Blackbeard - Ring of Sin",
+                        "ref": "DS/Near Blackbeard/Ring of Sin"
+                    },
+                    {
+                        "name": "Inside North West Building - Sorcery [Power Within]",
+                        "ref": "DS/Inside North West Building/Sorcery [Power Within]"
+                    },
+                    {
+                        "name": "Blackbeard - Blackbeards Ring",
+                        "ref": "DS/Blackbeard/Blackbeards Ring"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 435,
+                        "y": 172,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Deep Sea Knight Area",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Covenant - Celestial Ring",
+                        "ref": "Deep Sea Knight Area/Covenant/Celestial Ring"
+                    },
+                    {
+                        "name": "Covenant - Kuti",
+                        "ref": "Deep Sea Knight Area/Covenant/Kuti"
+                    },
+                    {
+                        "name": "Deep Sea Knight - Deep Sea Knights Armor",
+                        "ref": "Deep Sea Knight Area/Deep Sea Knight/Deep Sea Knights Armor"
+                    },
+                    {
+                        "name": "Deep Sea Knight - Deep Sea Knights Helm",
+                        "ref": "Deep Sea Knight Area/Deep Sea Knight/Deep Sea Knights Helm"
+                    },
+                    {
+                        "name": "Deep Sea Knight - Deep Sea Shield",
+                        "ref": "Deep Sea Knight Area/Deep Sea Knight/Deep Sea Shield"
+                    },
+                    {
+                        "name": "Deep Sea Knight - Soul of the Deep Sea Knight",
+                        "ref": "Deep Sea Knight Area/Deep Sea Knight/Soul of the Deep Sea Knight"
+                    },
+                    {
+                        "name": "Summon Pinocchio - Fairy Tale [Pinocchio]",
+                        "ref": "Deep Sea Knight Area/Summon Pinocchio/Fairy Tale [Pinocchio]"
+                    },
+                    {
+                        "name": "Mist - Mist Deep Sea",
+                        "ref": "Deep Sea Knight Area/Mist/Mist Deep Sea"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 445,
+                        "y": 172,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Deserted Road",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest In Lion's Citadel - Lions Ring",
+                        "ref": "Deserted Road/Chest In Lion's Citadel/Lions Ring"
+                    },
+                    {
+                        "name": "Junction Area Chest - Sorcery [Piercing Ice Pillars]",
+                        "ref": "Deserted Road/Junction Area Chest/Sorcery [Piercing Ice Pillars]"
+                    },
+                    {
+                        "name": "Chest Near Cave Entrance - Unicorns Ring",
+                        "ref": "Deserted Road/Chest Near Cave Entrance/Unicorns Ring"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 413,
+                        "y": 316,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Endless Tea Party",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Covenant - Hatta",
+                        "ref": "Endless Tea Party/Covenant/Hatta"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 300,
+                        "y": 81,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Erebus",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Near Green Chest - Sailors Bandana",
+                        "ref": "Erebus/Near Green Chest/Sailors Bandana"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 412,
+                        "y": 169,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fuming Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest Near Bonfire - Armor of the Sun",
+                        "ref": "FF/Chest Near Bonfire/Armor of the Sun"
+                    },
+                    {
+                        "name": "White Corpse - Bankers Ring",
+                        "ref": "FF/White Corpse/Bankers Ring"
+                    },
+                    {
+                        "name": "Chest Behind Smelter Beast - Claymore",
+                        "ref": "FF/Chest Behind Smelter Beast/Claymore"
+                    },
+                    {
+                        "name": "Covenant - Bandersnatch",
+                        "ref": "FF/Covenant/Bandersnatch"
+                    },
+                    {
+                        "name": "Elevator - Elevator to BFM",
+                        "ref": "FF/Elevator/Elevator to BFM"
+                    },
+                    {
+                        "name": "Bull - Fairy Tale [Mt. Kachi Kachi]",
+                        "ref": "FF/Bull/Fairy Tale [Mt. Kachi Kachi]"
+                    },
+                    {
+                        "name": "Summon - Fairy Tale [Robin Hood]",
+                        "ref": "FF/Summon/Fairy Tale [Robin Hood]"
+                    },
+                    {
+                        "name": "Mushroom Near Bonfire - Flame Stoneplate Ring",
+                        "ref": "FF/Mushroom Near Bonfire/Flame Stoneplate Ring"
+                    },
+                    {
+                        "name": "Right Side Of Lavafall - Folk Tale [Jeanne dArc]",
+                        "ref": "FF/Right Side Of Lavafall/Folk Tale [Jeanne dArc]"
+                    },
+                    {
+                        "name": "Right Side Of Lavafall - Holy Knights Shield",
+                        "ref": "FF/Right Side Of Lavafall/Holy Knights Shield"
+                    },
+                    {
+                        "name": "Bandersnatch - Soul of the Bandersnatch",
+                        "ref": "FF/Bandersnatch/Soul of the Bandersnatch"
+                    },
+                    {
+                        "name": "Mist - Mist Fuming Forest",
+                        "ref": "FF/Mist/Mist Fuming Forest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 83,
+                        "y": 234,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Florence Arena",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mist - Mist Florence Arena",
+                        "ref": "Florence Arena/Mist/Mist Florence Arena"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 473,
+                        "y": 44,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Garden of Heart",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fox and The Grapes - Fairy Tale [The Fox and The Grapes]",
+                        "ref": "GotH/Fox and The Grapes/Fairy Tale [The Fox and The Grapes]"
+                    },
+                    {
+                        "name": "West Corpse - Phantom Thiefs Mantle",
+                        "ref": "GotH/West Corpse/Phantom Thiefs Mantle"
+                    },
+                    {
+                        "name": "Middle Chest - Posers Ring",
+                        "ref": "GotH/Middle Chest/Posers Ring"
+                    },
+                    {
+                        "name": "North East Corpse - Sorcery [Omniblow]",
+                        "ref": "GotH/North East Corpse/Sorcery [Omniblow]"
+                    },
+                    {
+                        "name": "Rightmost Chest - Target Shield",
+                        "ref": "GotH/Rightmost Chest/Target Shield"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 77,
+                        "y": 118,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Infinite Food",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Esophagus Chest - Black Sword",
+                        "ref": "IF/Esophagus Chest/Black Sword"
+                    },
+                    {
+                        "name": "Summon - Fairy Tale [Hansel and Gretel]",
+                        "ref": "IF/Summon/Fairy Tale [Hansel and Gretel]"
+                    },
+                    {
+                        "name": "Mimic In Boss Area - Grass Crest Shield",
+                        "ref": "IF/Mimic In Boss Area/Grass Crest Shield"
+                    },
+                    {
+                        "name": "Teacup Poisoner Graham - Poisonbite Ring",
+                        "ref": "IF/Teacup Poisoner Graham/Poisonbite Ring"
+                    },
+                    {
+                        "name": "Knight Pumpkin-O - Pumpkin Knights Ring",
+                        "ref": "IF/Knight Pumpkin-O/Pumpkin Knights Ring"
+                    },
+                    {
+                        "name": "Hollow Cook - Puppets Ring",
+                        "ref": "IF/Hollow Cook/Puppets Ring"
+                    },
+                    {
+                        "name": "Pumpkin House Chest - Ring of Draconic Blessing",
+                        "ref": "IF/Pumpkin House Chest/Ring of Draconic Blessing"
+                    },
+                    {
+                        "name": "Chest In Bonfire Area - Ring of the Wall",
+                        "ref": "IF/Chest In Bonfire Area/Ring of the Wall"
+                    },
+                    {
+                        "name": "Pregnant Cake - Soul of the Pregnant Cake",
+                        "ref": "IF/Pregnant Cake/Soul of the Pregnant Cake"
+                    },
+                    {
+                        "name": "Near Large Bed - Wonder Hat",
+                        "ref": "IF/Near Large Bed/Wonder Hat"
+                    },
+                    {
+                        "name": "Mist - Mist Infinite Food",
+                        "ref": "IF/Mist/Mist Infinite Food"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 32,
+                        "y": 79,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Jabberwocks Lair",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mist - Mist Jabberwocks Lair",
+                        "ref": "Jabberwocks Lair/Mist/Mist Jabberwocks Lair"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 351,
+                        "y": 327,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Jubjubs Nest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mist - Mist Jubjubs Nest",
+                        "ref": "Jubjubs Nest/Mist/Mist Jubjubs Nest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 304,
+                        "y": 31,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Liddell Cemetary",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Thiefs Corpse - Cloak of Shadows",
+                        "ref": "LC/Thiefs Corpse/Cloak of Shadows"
+                    },
+                    {
+                        "name": "Thiefs Corpse - Thiefs Dagger",
+                        "ref": "LC/Thiefs Corpse/Thiefs Dagger"
+                    },
+                    {
+                        "name": "Thiefs Corpse - Thiefs Mask",
+                        "ref": "LC/Thiefs Corpse/Thiefs Mask"
+                    },
+                    {
+                        "name": "Well - Fairy Tale [Wolf and \u00d7\u00d7\u00d7 Young Goats]",
+                        "ref": "LC/Well/Fairy Tale [Wolf and \u00d7\u00d7\u00d7 Young Goats]"
+                    },
+                    {
+                        "name": "Rightmost Corpse - Iron Round Shield",
+                        "ref": "LC/Rightmost Corpse/Iron Round Shield"
+                    },
+                    {
+                        "name": "Mist - Mist Liddell Cemetary",
+                        "ref": "LC/Mist/Mist Liddell Cemetary"
+                    },
+                    {
+                        "name": "Right Side Second Row Of Grave - Ring of Life",
+                        "ref": "LC/Right Side Second Row Of Grave/Ring of Life"
+                    },
+                    {
+                        "name": "Red Grave Without Cross - Vipers Clothing",
+                        "ref": "LC/Red Grave Without Cross/Vipers Clothing"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 92,
+                        "y": 163,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Library Dream",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Souls - Butchers Chainsaw (exchange for Soul of the Butcher)",
+                        "ref": "LD/Souls/Butchers Chainsaw (exchange for Soul of the Butcher)"
+                    },
+                    {
+                        "name": "Souls - Deep Sea Knights Anchor (exchange for Soul of the Deep Sea Knight)",
+                        "ref": "LD/Souls/Deep Sea Knights Anchor (exchange for Soul of the Deep Sea Knight)"
+                    },
+                    {
+                        "name": "Souls - God Fishs Ring (exchange for Soul of the Gods Odd Fish)",
+                        "ref": "LD/Souls/God Fishs Ring (exchange for Soul of the Gods Odd Fish)"
+                    },
+                    {
+                        "name": "Souls - Guardian Angel (exchange for Soul of the Wet Nurses)",
+                        "ref": "LD/Souls/Guardian Angel (exchange for Soul of the Wet Nurses)"
+                    },
+                    {
+                        "name": "Souls - Holy Gunblade (exchange for Soul of Florence)",
+                        "ref": "LD/Souls/Holy Gunblade (exchange for Soul of Florence)"
+                    },
+                    {
+                        "name": "Souls - Knight of Clubs Ring (exchange for Soul of the Knight of Clubs)",
+                        "ref": "LD/Souls/Knight of Clubs Ring (exchange for Soul of the Knight of Clubs)"
+                    },
+                    {
+                        "name": "Souls - Knight of Hearts Ring (exchange for Soul of the Knight of Hearts)",
+                        "ref": "LD/Souls/Knight of Hearts Ring (exchange for Soul of the Knight of Hearts)"
+                    },
+                    {
+                        "name": "Souls - Knight of Spades Ring (exchange for Soul of the Knight of Spades)",
+                        "ref": "LD/Souls/Knight of Spades Ring (exchange for Soul of the Knight of Spades)"
+                    },
+                    {
+                        "name": "Souls - Leidens Twin Axes (exchange for Soul of the White Lion)",
+                        "ref": "LD/Souls/Leidens Twin Axes (exchange for Soul of the White Lion)"
+                    },
+                    {
+                        "name": "Souls - Mad Bow Jubjub (exchange for Soul of the Jubjub)",
+                        "ref": "LD/Souls/Mad Bow Jubjub (exchange for Soul of the Jubjub)"
+                    },
+                    {
+                        "name": "Souls - Manslayers Shotgun (exchange for Soul of Jack)",
+                        "ref": "LD/Souls/Manslayers Shotgun (exchange for Soul of Jack)"
+                    },
+                    {
+                        "name": "Souls - Porcupine Shield (exchange for Soul of Distraction)",
+                        "ref": "LD/Souls/Porcupine Shield (exchange for Soul of Distraction)"
+                    },
+                    {
+                        "name": "Souls - Ring of Heaven (exchange for Soul of the Bright Star)",
+                        "ref": "LD/Souls/Ring of Heaven (exchange for Soul of the Bright Star)"
+                    },
+                    {
+                        "name": "Souls - Ring of Steel Protection (exchange for Soul of the Gray Eagle)",
+                        "ref": "LD/Souls/Ring of Steel Protection (exchange for Soul of the Gray Eagle)"
+                    },
+                    {
+                        "name": "Souls - Rotten Scythe Jabberwock (exchange for Soul of the Jabberwock)",
+                        "ref": "LD/Souls/Rotten Scythe Jabberwock (exchange for Soul of the Jabberwock)"
+                    },
+                    {
+                        "name": "Souls - Sorcery [Ghostfire] (exchange for Soul of the Bellcaller)",
+                        "ref": "LD/Souls/Sorcery [Ghostfire] (exchange for Soul of the Bellcaller)"
+                    },
+                    {
+                        "name": "Souls - Sorcery [Heavy Soul Discharge] (exchange for Soul of the Slave Empress)",
+                        "ref": "LD/Souls/Sorcery [Heavy Soul Discharge] (exchange for Soul of the Slave Empress)"
+                    },
+                    {
+                        "name": "Souls - Sorcery [Kings Order] (exchange for Soul of the Slave Emperor)",
+                        "ref": "LD/Souls/Sorcery [Kings Order] (exchange for Soul of the Slave Emperor)"
+                    },
+                    {
+                        "name": "Souls - Sorcery [Omnibless] (exchange for Soul of the Dean)",
+                        "ref": "LD/Souls/Sorcery [Omnibless] (exchange for Soul of the Dean)"
+                    },
+                    {
+                        "name": "Souls - Sorcery [Omnicurse] (exchange for Soul of Queen of Torture Tools)",
+                        "ref": "LD/Souls/Sorcery [Omnicurse] (exchange for Soul of Queen of Torture Tools)"
+                    },
+                    {
+                        "name": "Souls - Sorcery [Rampage] (exchange for Soul of Conceit)",
+                        "ref": "LD/Souls/Sorcery [Rampage] (exchange for Soul of Conceit)"
+                    },
+                    {
+                        "name": "Souls - Sorcery [Stone Flesh] (exchange for Soul of the Old Knight)",
+                        "ref": "LD/Souls/Sorcery [Stone Flesh] (exchange for Soul of the Old Knight)"
+                    },
+                    {
+                        "name": "Souls - Spell Stoneplate Ring (exchange for Soul of the Pregnant Cake)",
+                        "ref": "LD/Souls/Spell Stoneplate Ring (exchange for Soul of the Pregnant Cake)"
+                    },
+                    {
+                        "name": "Souls - Unis Rapier (exchange for Soul of the White Unicorn)",
+                        "ref": "LD/Souls/Unis Rapier (exchange for Soul of the White Unicorn)"
+                    },
+                    {
+                        "name": "Souls - Violent Sword Bandersnatch (exchange for Soul of the Bandersnatch)",
+                        "ref": "LD/Souls/Violent Sword Bandersnatch (exchange for Soul of the Bandersnatch)"
+                    },
+                    {
+                        "name": "Souls - Vorpal Blade (exchange for Soul of the Head-Hunting Beast)",
+                        "ref": "LD/Souls/Vorpal Blade (exchange for Soul of the Head-Hunting Beast)"
+                    },
+                    {
+                        "name": "Souls - Windless Wrap (exchange for Soul of the Winterbells Wind)",
+                        "ref": "LD/Souls/Windless Wrap (exchange for Soul of the Winterbells Wind)"
+                    },
+                    {
+                        "name": "Covenant - Node",
+                        "ref": "LD/Covenant/Node"
+                    },
+                    {
+                        "name": "Rascal - Fairy Tale [Rascal]",
+                        "ref": "LD/Rascal/Fairy Tale [Rascal]"
+                    },
+                    {
+                        "name": "Avarice - Golden Ring of Avarice",
+                        "ref": "LD/Avarice/Golden Ring of Avarice"
+                    },
+                    {
+                        "name": "Avarice - Silver Ring of Avarice",
+                        "ref": "LD/Avarice/Silver Ring of Avarice"
+                    },
+                    {
+                        "name": "Mist - Mist Library Dream",
+                        "ref": "LD/Mist/Mist Library Dream"
+                    },
+                    {
+                        "name": "Statue - Tyrant Ring",
+                        "ref": "LD/Statue/Tyrant Ring"
+                    },
+                    {
+                        "name": "End - Ending G Achieved",
+                        "ref": "LD/End/Ending G Achieved"
+                    },
+                    {
+                        "name": "LD - Progression 1",
+                        "ref": "LD/Progression 1"
+                    },
+                    {
+                        "name": "LD - Progression 10",
+                        "ref": "LD/Progression 10"
+                    },
+                    {
+                        "name": "LD - Progression 2",
+                        "ref": "LD/Progression 2"
+                    },
+                    {
+                        "name": "LD - Progression 3",
+                        "ref": "LD/Progression 3"
+                    },
+                    {
+                        "name": "LD - Progression 4",
+                        "ref": "LD/Progression 4"
+                    },
+                    {
+                        "name": "LD - Progression 5",
+                        "ref": "LD/Progression 5"
+                    },
+                    {
+                        "name": "LD - Progression 6",
+                        "ref": "LD/Progression 6"
+                    },
+                    {
+                        "name": "LD - Progression 7",
+                        "ref": "LD/Progression 7"
+                    },
+                    {
+                        "name": "LD - Progression 8",
+                        "ref": "LD/Progression 8"
+                    },
+                    {
+                        "name": "LD - Progression 9",
+                        "ref": "LD/Progression 9"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 417,
+                        "y": 48,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Lutwidge Town",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Amelia - Angels Ring",
+                        "ref": "LT/Amelia/Angels Ring"
+                    },
+                    {
+                        "name": "AfterBats - Beasthunter Saw",
+                        "ref": "LT/AfterBats/Beasthunter Saw"
+                    },
+                    {
+                        "name": "AfterBats - Hunters Attire",
+                        "ref": "LT/AfterBats/Hunters Attire"
+                    },
+                    {
+                        "name": "AfterBats - Silver Pistol",
+                        "ref": "LT/AfterBats/Silver Pistol"
+                    },
+                    {
+                        "name": "Door - Door to PoF",
+                        "ref": "LT/Door/Door to PoF"
+                    },
+                    {
+                        "name": "Near the 3 statue - Evil Eye Ring",
+                        "ref": "LT/Near the 3 statue/Evil Eye Ring"
+                    },
+                    {
+                        "name": "Skipjack - Fairy Tale Scrap Three",
+                        "ref": "LT/Skipjack/Fairy Tale Scrap Three"
+                    },
+                    {
+                        "name": "Charles Tavern - Fairy Tale Scrap Two",
+                        "ref": "LT/Charles Tavern/Fairy Tale Scrap Two"
+                    },
+                    {
+                        "name": "Charles Tavern - Ring of the Enduring",
+                        "ref": "LT/Charles Tavern/Ring of the Enduring"
+                    },
+                    {
+                        "name": "Elma - Fairy Tale [The Little Match Girl]",
+                        "ref": "LT/Elma/Fairy Tale [The Little Match Girl]"
+                    },
+                    {
+                        "name": "Elma - Match-Sellers Clothes",
+                        "ref": "LT/Elma/Match-Sellers Clothes"
+                    },
+                    {
+                        "name": "Summon - Fairy Tale [The Ugly Duckling]",
+                        "ref": "LT/Summon/Fairy Tale [The Ugly Duckling]"
+                    },
+                    {
+                        "name": "Corpse Hachigane - Hachigane",
+                        "ref": "LT/Corpse Hachigane/Hachigane"
+                    },
+                    {
+                        "name": "Bridge - Leather Armor",
+                        "ref": "LT/Bridge/Leather Armor"
+                    },
+                    {
+                        "name": "Mist - Mist Dodgson Bridge",
+                        "ref": "LT/Mist/Mist Dodgson Bridge"
+                    },
+                    {
+                        "name": "Frederick of Fear - Ring of Fear",
+                        "ref": "LT/Frederick of Fear/Ring of Fear"
+                    },
+                    {
+                        "name": "Fall From Bridge - Ring of Steel Protection",
+                        "ref": "LT/Fall From Bridge/Ring of Steel Protection"
+                    },
+                    {
+                        "name": "Near Invader - Round Shield",
+                        "ref": "LT/Near Invader/Round Shield"
+                    },
+                    {
+                        "name": "Clown Corpse - Sorcery [Flame]",
+                        "ref": "LT/Clown Corpse/Sorcery [Flame]"
+                    },
+                    {
+                        "name": "Chest Near Red Hood Scene - Sorcery [Tearing Grudge]",
+                        "ref": "LT/Chest Near Red Hood Scene/Sorcery [Tearing Grudge]"
+                    },
+                    {
+                        "name": "Beast of Distraction - Soul of Distraction",
+                        "ref": "LT/Beast of Distraction/Soul of Distraction"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 188,
+                        "y": 179,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Mushroom Village",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Weapon Shop - Halberd",
+                        "ref": "MV/Weapon Shop/Halberd"
+                    },
+                    {
+                        "name": "Near Bonfire - Hunters Bow",
+                        "ref": "MV/Near Bonfire/Hunters Bow"
+                    },
+                    {
+                        "name": "Red Hood Roommate House - Sorcery [Green Power]",
+                        "ref": "MV/Red Hood Roommate House/Sorcery [Green Power]"
+                    },
+                    {
+                        "name": "Giants Home - Soul of the Giants Home",
+                        "ref": "MV/Giants Home/Soul of the Giants Home"
+                    },
+                    {
+                        "name": "Mist - Mist Mushroom Village",
+                        "ref": "MV/Mist/Mist Mushroom Village"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 74,
+                        "y": 36,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Mental Ward",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Covenant - Tweedledee & Tweedledum",
+                        "ref": "MW/Covenant/Tweedledee & Tweedledum"
+                    },
+                    {
+                        "name": "Dark Doctor Harold - Dusk Crown Ring",
+                        "ref": "MW/Dark Doctor Harold/Dusk Crown Ring"
+                    },
+                    {
+                        "name": "Edith - Ediths Ring",
+                        "ref": "MW/Edith/Ediths Ring"
+                    },
+                    {
+                        "name": "Edith - Soul of the Gray Eagle",
+                        "ref": "MW/Edith/Soul of the Gray Eagle"
+                    },
+                    {
+                        "name": "Summon - Fairy Tale [Iron Hans]",
+                        "ref": "MW/Summon/Fairy Tale [Iron Hans]"
+                    },
+                    {
+                        "name": "Witchs House Ruins - Fairy Tale [Wizard of Oz]",
+                        "ref": "MW/Witchs House Ruins/Fairy Tale [Wizard of Oz]"
+                    },
+                    {
+                        "name": "Witchs House Ruins - Sorcerers Staff",
+                        "ref": "MW/Witchs House Ruins/Sorcerers Staff"
+                    },
+                    {
+                        "name": "Hans Area - Hans Machine Gun",
+                        "ref": "MW/Hans Area/Hans Machine Gun"
+                    },
+                    {
+                        "name": "Mist - Mist Mental Ward",
+                        "ref": "MW/Mist/Mist Mental Ward"
+                    },
+                    {
+                        "name": "Corpse Near The Bonfire - Plate Mail",
+                        "ref": "MW/Corpse Near The Bonfire/Plate Mail"
+                    },
+                    {
+                        "name": "Lower Middle Bed - Snipers Ring",
+                        "ref": "MW/Lower Middle Bed/Snipers Ring"
+                    },
+                    {
+                        "name": "Witch's House Ruins - Sorcery [Ruinous Storm]",
+                        "ref": "MW/Witch's House Ruins/Sorcery [Ruinous Storm]"
+                    },
+                    {
+                        "name": "Witch's House Ruins - Totos Ring",
+                        "ref": "MW/Witch's House Ruins/Totos Ring"
+                    },
+                    {
+                        "name": "Chest Above Bonfire - Spell Stoneplate Ring",
+                        "ref": "MW/Chest Above Bonfire/Spell Stoneplate Ring"
+                    },
+                    {
+                        "name": "White Lady Chest - Storm Ruler",
+                        "ref": "MW/White Lady Chest/Storm Ruler"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 137,
+                        "y": 171,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Madness Mountain",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ice Chest - Counter Ring",
+                        "ref": "Madness Mountain/Ice Chest/Counter Ring"
+                    },
+                    {
+                        "name": "White Chest - Sorcery [Ruinous Arrow Rain]",
+                        "ref": "Madness Mountain/White Chest/Sorcery [Ruinous Arrow Rain]"
+                    },
+                    {
+                        "name": "Covenant - Sho",
+                        "ref": "Madness Mountain/Covenant/Sho"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 442,
+                        "y": 296,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Nameless Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Starting Area - Angels Raiment",
+                        "ref": "NF/Starting Area/Angels Raiment"
+                    },
+                    {
+                        "name": "Leftmost Item - Brick Shield",
+                        "ref": "NF/Leftmost Item/Brick Shield"
+                    },
+                    {
+                        "name": "North West Of The Skeleton Cage - Dark Stoneplate Ring",
+                        "ref": "NF/North West Of The Skeleton Cage/Dark Stoneplate Ring"
+                    },
+                    {
+                        "name": "Drake Skull - Drake Sword",
+                        "ref": "NF/Drake Skull/Drake Sword"
+                    },
+                    {
+                        "name": "Gigantic Turnip - Fairy Tale [The Gigantic Turnip]",
+                        "ref": "NF/Gigantic Turnip/Fairy Tale [The Gigantic Turnip]"
+                    },
+                    {
+                        "name": "Near The Ladder With The Fogs  - Four-leaf Clover Ring",
+                        "ref": "NF/Near The Ladder With The Fogs /Four-leaf Clover Ring"
+                    },
+                    {
+                        "name": "Corpse After The Cliff - Igors Mask",
+                        "ref": "NF/Corpse After The Cliff/Igors Mask"
+                    },
+                    {
+                        "name": "Small Red Chest - Maid Headdress",
+                        "ref": "NF/Small Red Chest/Maid Headdress"
+                    },
+                    {
+                        "name": "Corpse Near Human Tree - Miracle [Soul Shield]",
+                        "ref": "NF/Corpse Near Human Tree/Miracle [Soul Shield]"
+                    },
+                    {
+                        "name": "Left Of The Cliff - Ring of the Abyss",
+                        "ref": "NF/Left Of The Cliff/Ring of the Abyss"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 119,
+                        "y": 344,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Oysters Rotted Sea",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest Behind Bar - Andor Sword",
+                        "ref": "ORS/Chest Behind Bar/Andor Sword"
+                    },
+                    {
+                        "name": "Captain Kidd - Pirate Handgun",
+                        "ref": "ORS/Captain Kidd/Pirate Handgun"
+                    },
+                    {
+                        "name": "Chest Before Wolris Location - Ring of the Reaper",
+                        "ref": "ORS/Chest Before Wolris Location/Ring of the Reaper"
+                    },
+                    {
+                        "name": "Oyster - Shell Shield",
+                        "ref": "ORS/Oyster/Shell Shield"
+                    },
+                    {
+                        "name": "Requiem Area - Sorcery [Requiem]",
+                        "ref": "ORS/Requiem Area/Sorcery [Requiem]"
+                    },
+                    {
+                        "name": "Giant Squid Area Near The Crack - Thunder Stoneplate Ring",
+                        "ref": "ORS/Giant Squid Area Near The Crack/Thunder Stoneplate Ring"
+                    },
+                    {
+                        "name": "Covenant - Walrus Ring",
+                        "ref": "ORS/Covenant/Walrus Ring"
+                    },
+                    {
+                        "name": "Covenant - Walrus",
+                        "ref": "ORS/Covenant/Walrus"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 374,
+                        "y": 159,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Ox Ward University",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest In The White Lady Area - Black Vanguards Shield",
+                        "ref": "OWU/Chest In The White Lady Area/Black Vanguards Shield"
+                    },
+                    {
+                        "name": "Chest In The Left Room - Demons Catalyst",
+                        "ref": "OWU/Chest In The Left Room/Demons Catalyst"
+                    },
+                    {
+                        "name": "Summon Catherine - Folk Tale [Saint of Alexandria]",
+                        "ref": "OWU/Summon Catherine/Folk Tale [Saint of Alexandria]"
+                    },
+                    {
+                        "name": "Statue Of Catherine - Miracle Ring",
+                        "ref": "OWU/Statue Of Catherine/Miracle Ring"
+                    },
+                    {
+                        "name": "Statue Of Catherine - Miracle [Cure]",
+                        "ref": "OWU/Statue Of Catherine/Miracle [Cure]"
+                    },
+                    {
+                        "name": "Statue Of Catherine - Miracle [Erase]",
+                        "ref": "OWU/Statue Of Catherine/Miracle [Erase]"
+                    },
+                    {
+                        "name": "Statue Of Catherine - Ring of Vanity",
+                        "ref": "OWU/Statue Of Catherine/Ring of Vanity"
+                    },
+                    {
+                        "name": "Cross Grave - Ring of Heaven",
+                        "ref": "OWU/Cross Grave/Ring of Heaven"
+                    },
+                    {
+                        "name": "Chest In The Right Room - Sorcery [Divine Beasts Thunder]",
+                        "ref": "OWU/Chest In The Right Room/Sorcery [Divine Beasts Thunder]"
+                    },
+                    {
+                        "name": "Dean - Soul of the Dean",
+                        "ref": "OWU/Dean/Soul of the Dean"
+                    },
+                    {
+                        "name": "Door - Through Oxward Gate",
+                        "ref": "OWU/Door/Through Oxward Gate"
+                    },
+                    {
+                        "name": "Mist - Mist Ox Ward University",
+                        "ref": "OWU/Mist/Mist Ox Ward University"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 215,
+                        "y": 78,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Pond of Bloody Tears",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Near The North East Waterfall - Blade Shield",
+                        "ref": "PoBT/Near The North East Waterfall/Blade Shield"
+                    },
+                    {
+                        "name": "Sadistic Mistress Brownrigg - Bloodbite Ring",
+                        "ref": "PoBT/Sadistic Mistress Brownrigg/Bloodbite Ring"
+                    },
+                    {
+                        "name": "At The Right of Dodo - Club",
+                        "ref": "PoBT/At The Right of Dodo/Club"
+                    },
+                    {
+                        "name": "At The Right of Dodo - Viking Helm",
+                        "ref": "PoBT/At The Right of Dodo/Viking Helm"
+                    },
+                    {
+                        "name": "At The Right of Dodo - Warriors Round Shield",
+                        "ref": "PoBT/At The Right of Dodo/Warriors Round Shield"
+                    },
+                    {
+                        "name": "Covenant - Dodo",
+                        "ref": "PoBT/Covenant/Dodo"
+                    },
+                    {
+                        "name": "Door - Door to Elizabeth",
+                        "ref": "PoBT/Door/Door to Elizabeth"
+                    },
+                    {
+                        "name": "Bluebeard - Fairy Tale [Bluebeard]",
+                        "ref": "PoBT/Bluebeard/Fairy Tale [Bluebeard]"
+                    },
+                    {
+                        "name": "Elizabeth After True Fight - Folk Tale [Elizabeth Bathory]",
+                        "ref": "PoBT/Elizabeth After True Fight/Folk Tale [Elizabeth Bathory]"
+                    },
+                    {
+                        "name": "Magicians Corpse - Magician Hat",
+                        "ref": "PoBT/Magicians Corpse/Magician Hat"
+                    },
+                    {
+                        "name": "Magicians Corpse - Magicians Coat",
+                        "ref": "PoBT/Magicians Corpse/Magicians Coat"
+                    },
+                    {
+                        "name": "Mist - Mist Pond of Bloody Tears",
+                        "ref": "PoBT/Mist/Mist Pond of Bloody Tears"
+                    },
+                    {
+                        "name": "Corpse Before Elizabeth - Red Tearstone Ring",
+                        "ref": "PoBT/Corpse Before Elizabeth/Red Tearstone Ring"
+                    },
+                    {
+                        "name": "Behind Bluebeard - Ring of Iron Maiden",
+                        "ref": "PoBT/Behind Bluebeard/Ring of Iron Maiden"
+                    },
+                    {
+                        "name": "Near Invader - Ring of the Edge",
+                        "ref": "PoBT/Near Invader/Ring of the Edge"
+                    },
+                    {
+                        "name": "North West Chest - Sorcery [Divine Lightning]",
+                        "ref": "PoBT/North West Chest/Sorcery [Divine Lightning]"
+                    },
+                    {
+                        "name": "Elizabeth - Sorcery [Meteor Shower]",
+                        "ref": "PoBT/Elizabeth/Sorcery [Meteor Shower]"
+                    },
+                    {
+                        "name": "Elizabeth - Soul of Queen of Torture Tools",
+                        "ref": "PoBT/Elizabeth/Soul of Queen of Torture Tools"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 33,
+                        "y": 140,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Park of Fog",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Corpse At The Right - Bunker Shield",
+                        "ref": "PoF/Corpse At The Right/Bunker Shield"
+                    },
+                    {
+                        "name": "Cheshire - Cheshire Cats Ring",
+                        "ref": "PoF/Cheshire/Cheshire Cats Ring"
+                    },
+                    {
+                        "name": "Near Scarecrow - Hornet Ring",
+                        "ref": "PoF/Near Scarecrow/Hornet Ring"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 207,
+                        "y": 132,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Queensland",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Covenant - Best Girl Prickett",
+                        "ref": "QL/Covenant/Best Girl Prickett"
+                    },
+                    {
+                        "name": "Summon - Fairy Tale [Daddy-Long-Legs]",
+                        "ref": "QL/Summon/Fairy Tale [Daddy-Long-Legs]"
+                    },
+                    {
+                        "name": "Pooh Bear - Fairy Tale [Pooh Bear]",
+                        "ref": "QL/Pooh Bear/Fairy Tale [Pooh Bear]"
+                    },
+                    {
+                        "name": "Punching Bag - Leafs Ring",
+                        "ref": "QL/Punching Bag/Leafs Ring"
+                    },
+                    {
+                        "name": "Entrance Right Chest - Mirror Greatshield",
+                        "ref": "QL/Entrance Right Chest/Mirror Greatshield"
+                    },
+                    {
+                        "name": "Entrance Right Chest - Shield of the Abyss",
+                        "ref": "QL/Entrance Right Chest/Shield of the Abyss"
+                    },
+                    {
+                        "name": "Mist - Mist Queensland",
+                        "ref": "QL/Mist/Mist Queensland"
+                    },
+                    {
+                        "name": "Convenant - Pricketts Ring",
+                        "ref": "QL/Convenant/Pricketts Ring"
+                    },
+                    {
+                        "name": "Clown Murderer - Ring of the Clown Murderer",
+                        "ref": "QL/Clown Murderer/Ring of the Clown Murderer"
+                    },
+                    {
+                        "name": "Slave Bosses - Soul of the Slave Emperor",
+                        "ref": "QL/Slave Bosses/Soul of the Slave Emperor"
+                    },
+                    {
+                        "name": "Slave Bosses - Soul of the Slave Empress",
+                        "ref": "QL/Slave Bosses/Soul of the Slave Empress"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 30,
+                        "y": 321,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Red castle Frissel",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Corpse Outside - Armor of Milton",
+                        "ref": "RCF/Corpse Outside/Armor of Milton"
+                    },
+                    {
+                        "name": "Corpse Outside - Helm of Milton",
+                        "ref": "RCF/Corpse Outside/Helm of Milton"
+                    },
+                    {
+                        "name": "Corpse Outside - Templar Shield",
+                        "ref": "RCF/Corpse Outside/Templar Shield"
+                    },
+                    {
+                        "name": "Fist Duelist Byron - Champions Ring",
+                        "ref": "RCF/Fist Duelist Byron/Champions Ring"
+                    },
+                    {
+                        "name": "Treasury Mimic - Cloak of the Frenzy King",
+                        "ref": "RCF/Treasury Mimic/Cloak of the Frenzy King"
+                    },
+                    {
+                        "name": "Execution Site Corpse - Degas Great Shield",
+                        "ref": "RCF/Execution Site Corpse/Degas Great Shield"
+                    },
+                    {
+                        "name": "Summon - Fairy Tale [The King with Donkey Ears]",
+                        "ref": "RCF/Summon/Fairy Tale [The King with Donkey Ears]"
+                    },
+                    {
+                        "name": "Execution Site 4Th Device - Lawyers Mask",
+                        "ref": "RCF/Execution Site 4Th Device/Lawyers Mask"
+                    },
+                    {
+                        "name": "Beast of Criminality - Morgenstern",
+                        "ref": "RCF/Beast of Criminality/Morgenstern"
+                    },
+                    {
+                        "name": "Franklin Bollvolt I - Red Shield",
+                        "ref": "RCF/Franklin Bollvolt I/Red Shield"
+                    },
+                    {
+                        "name": "Chest South East of the East Area - Sorcery [Critical Strike]",
+                        "ref": "RCF/Chest South East of the East Area/Sorcery [Critical Strike]"
+                    },
+                    {
+                        "name": "Execution Site Mimic - Sorcery [Dark Side Moon]",
+                        "ref": "RCF/Execution Site Mimic/Sorcery [Dark Side Moon]"
+                    },
+                    {
+                        "name": "Chest Near West Side Invader - Sorcery [Grit]",
+                        "ref": "RCF/Chest Near West Side Invader/Sorcery [Grit]"
+                    },
+                    {
+                        "name": "Knights - Soul of the Knight of Clubs",
+                        "ref": "RCF/Knights/Soul of the Knight of Clubs"
+                    },
+                    {
+                        "name": "Knights - Soul of the Knight of Hearts",
+                        "ref": "RCF/Knights/Soul of the Knight of Hearts"
+                    },
+                    {
+                        "name": "Knights - Soul of the Knight of Spades",
+                        "ref": "RCF/Knights/Soul of the Knight of Spades"
+                    },
+                    {
+                        "name": "Covenant - Queen of Hearts",
+                        "ref": "RCF/Covenant/Queen of Hearts"
+                    },
+                    {
+                        "name": "Mist - Mist Red Castle Frissel",
+                        "ref": "RCF/Mist/Mist Red Castle Frissel"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 85,
+                        "y": 93,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Ripon Cathedral",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Blackwells After Progress 10 - Blackwells Letter",
+                        "ref": "RGC/Blackwells After Progress 10/Blackwells Letter"
+                    },
+                    {
+                        "name": "North West Chest - Church Rifle",
+                        "ref": "RGC/North West Chest/Church Rifle"
+                    },
+                    {
+                        "name": "Priest Corpse - Clergy Circlet",
+                        "ref": "RGC/Priest Corpse/Clergy Circlet"
+                    },
+                    {
+                        "name": "Priest Corpse - Clergy Clothes",
+                        "ref": "RGC/Priest Corpse/Clergy Clothes"
+                    },
+                    {
+                        "name": "Priest Corpse - Mace",
+                        "ref": "RGC/Priest Corpse/Mace"
+                    },
+                    {
+                        "name": "Covenant - Bill",
+                        "ref": "RGC/Covenant/Bill"
+                    },
+                    {
+                        "name": "Talk To Bill - Gate Pass",
+                        "ref": "RGC/Talk To Bill/Gate Pass"
+                    },
+                    {
+                        "name": "Crypt Mimic - Kite Shield",
+                        "ref": "RGC/Crypt Mimic/Kite Shield"
+                    },
+                    {
+                        "name": "Bill - Poisonbite Ring",
+                        "ref": "RGC/Bill/Poisonbite Ring"
+                    },
+                    {
+                        "name": "Cotton the Witch - Sorcerers Staff",
+                        "ref": "RGC/Cotton the Witch/Sorcerers Staff"
+                    },
+                    {
+                        "name": "Red Skeleton - Sorcery Ring",
+                        "ref": "RGC/Red Skeleton/Sorcery Ring"
+                    },
+                    {
+                        "name": "Red Skeleton - Sorcery [Bloody Carthus]",
+                        "ref": "RGC/Red Skeleton/Sorcery [Bloody Carthus]"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 94,
+                        "y": 145,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Rabbit Hole",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Cabinet - Buckler",
+                        "ref": "RH/Cabinet/Buckler"
+                    },
+                    {
+                        "name": "Ketch the Executioner - Butcher Greataxe",
+                        "ref": "RH/Ketch the Executioner/Butcher Greataxe"
+                    },
+                    {
+                        "name": "Vernai - Fairy Tale [Black Rabbit of Inaba]",
+                        "ref": "RH/Vernai/Fairy Tale [Black Rabbit of Inaba]"
+                    },
+                    {
+                        "name": "Vernai - Moonlight Greatsword",
+                        "ref": "RH/Vernai/Moonlight Greatsword"
+                    },
+                    {
+                        "name": "Phalanx - Sorcery [Phalanx]",
+                        "ref": "RH/Phalanx/Sorcery [Phalanx]"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 179,
+                        "y": 137,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sick Clock Tower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest Behind The Troll - Armor of the Abyss",
+                        "ref": "SCT/Chest Behind The Troll/Armor of the Abyss"
+                    },
+                    {
+                        "name": "Summon Peter Pan - Fairy Tale [Peter Pan]",
+                        "ref": "SCT/Summon Peter Pan/Fairy Tale [Peter Pan]"
+                    },
+                    {
+                        "name": "Summon The Little Prince - Fairy Tale [The Little Prince]",
+                        "ref": "SCT/Summon The Little Prince/Fairy Tale [The Little Prince]"
+                    },
+                    {
+                        "name": "JubJub - Gear of Madness",
+                        "ref": "SCT/JubJub/Gear of Madness"
+                    },
+                    {
+                        "name": "JubJub - Soul of the Jubjub",
+                        "ref": "SCT/JubJub/Soul of the Jubjub"
+                    },
+                    {
+                        "name": "Bright Star - Soul of the Bright Star",
+                        "ref": "SCT/Bright Star/Soul of the Bright Star"
+                    },
+                    {
+                        "name": "Fairy Corpse - Tinkerbells Ring",
+                        "ref": "SCT/Fairy Corpse/Tinkerbells Ring"
+                    },
+                    {
+                        "name": "Push The Troll - Troll Ring",
+                        "ref": "SCT/Push The Troll/Troll Ring"
+                    },
+                    {
+                        "name": "Mist - Mist Sick Clock Tower",
+                        "ref": "SCT/Mist/Mist Sick Clock Tower"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 304,
+                        "y": 49,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Spore Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Covenant - Shisha",
+                        "ref": "SF/Covenant/Shisha"
+                    },
+                    {
+                        "name": "Summon - Fairy Tale [Knight in Armor]",
+                        "ref": "SF/Summon/Fairy Tale [Knight in Armor]"
+                    },
+                    {
+                        "name": "Old Knight - Great Sword",
+                        "ref": "SF/Old Knight/Great Sword"
+                    },
+                    {
+                        "name": "Old Knight - Soul of the Old Knight",
+                        "ref": "SF/Old Knight/Soul of the Old Knight"
+                    },
+                    {
+                        "name": "Blonde Corpse - Miracle [Providence]",
+                        "ref": "SF/Blonde Corpse/Miracle [Providence]"
+                    },
+                    {
+                        "name": "Mist - Mist Spore Forest",
+                        "ref": "SF/Mist/Mist Spore Forest"
+                    },
+                    {
+                        "name": "Corpse At the South - Mushroom Shield",
+                        "ref": "SF/Corpse At the South/Mushroom Shield"
+                    },
+                    {
+                        "name": "Chest in Area Above The Bonfire - Sorcery [Mana Drain]",
+                        "ref": "SF/Chest in Area Above The Bonfire/Sorcery [Mana Drain]"
+                    },
+                    {
+                        "name": "Small Lake In Area Above the Bonfire - Thunder Stoneplate Ring",
+                        "ref": "SF/Small Lake In Area Above the Bonfire/Thunder Stoneplate Ring"
+                    },
+                    {
+                        "name": "Area Above the Bonfire (Near Purple Mushroom) - Wind Gods Ring",
+                        "ref": "SF/Area Above the Bonfire (Near Purple Mushroom)/Wind Gods Ring"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 52,
+                        "y": 90,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Ship Graveyard",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Upper Left Chest - Armor of Onimusha",
+                        "ref": "SG/Upper Left Chest/Armor of Onimusha"
+                    },
+                    {
+                        "name": "Middle Chest - Helmet of Onimusha",
+                        "ref": "SG/Middle Chest/Helmet of Onimusha"
+                    },
+                    {
+                        "name": "Corpse - Uchigatana",
+                        "ref": "SG/Corpse/Uchigatana"
+                    },
+                    {
+                        "name": "Gods Odd Fish - Soul of the Gods Odd Fish",
+                        "ref": "SG/Gods Odd Fish/Soul of the Gods Odd Fish"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 403,
+                        "y": 170,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Slaughterhouse",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Near Bonfire - Apple Ring",
+                        "ref": "SH/Near Bonfire/Apple Ring"
+                    },
+                    {
+                        "name": "Near Kidnapper - Armor of Babel",
+                        "ref": "SH/Near Kidnapper/Armor of Babel"
+                    },
+                    {
+                        "name": "Near Kidnapper - Helmet of Babel",
+                        "ref": "SH/Near Kidnapper/Helmet of Babel"
+                    },
+                    {
+                        "name": "Beastclad Butcher - Butchers Ring",
+                        "ref": "SH/Beastclad Butcher/Butchers Ring"
+                    },
+                    {
+                        "name": "Beastclad Butcher - Soul of the Butcher",
+                        "ref": "SH/Beastclad Butcher/Soul of the Butcher"
+                    },
+                    {
+                        "name": "Summon - Fairy Tale [Musicians of Bremen]",
+                        "ref": "SH/Summon/Fairy Tale [Musicians of Bremen]"
+                    },
+                    {
+                        "name": "Bridge that Face North - Flame Stoneplate Ring",
+                        "ref": "SH/Bridge that Face North/Flame Stoneplate Ring"
+                    },
+                    {
+                        "name": "Fleeing Knight Jim - Knights Ring",
+                        "ref": "SH/Fleeing Knight Jim/Knights Ring"
+                    },
+                    {
+                        "name": "Chest at the North of the Bonfire - Partisan",
+                        "ref": "SH/Chest at the North of the Bonfire/Partisan"
+                    },
+                    {
+                        "name": "Thief and Carrier Invasion - Resurrectionists Ring",
+                        "ref": "SH/Thief and Carrier Invasion/Resurrectionists Ring"
+                    },
+                    {
+                        "name": "Revulsive Hindley - Ring of My Struggle",
+                        "ref": "SH/Revulsive Hindley/Ring of My Struggle"
+                    },
+                    {
+                        "name": "Corpse Behind The Door Near Bonfire - Ring of Reckless Hero",
+                        "ref": "SH/Corpse Behind The Door Near Bonfire/Ring of Reckless Hero"
+                    },
+                    {
+                        "name": "Acid Practitioner Haigh - Sloppy",
+                        "ref": "SH/Acid Practitioner Haigh/Sloppy"
+                    },
+                    {
+                        "name": "Acid Practitioner Haigh - Squishy",
+                        "ref": "SH/Acid Practitioner Haigh/Squishy"
+                    },
+                    {
+                        "name": "Mist - Mist Slaughterhouse",
+                        "ref": "SH/Mist/Mist Slaughterhouse"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 200,
+                        "y": 314,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Snow Field",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Near The Orc - Sorcery [Serpents Embrace]",
+                        "ref": "Snow Field/Near The Orc/Sorcery [Serpents Embrace]"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 422,
+                        "y": 295,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Upper Lutwidge Town",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Barber Todd - Barbers Ring",
+                        "ref": "ULT/Barber Todd/Barbers Ring"
+                    },
+                    {
+                        "name": "Bunny Girl Corpse - Bunny Headpiece",
+                        "ref": "ULT/Bunny Girl Corpse/Bunny Headpiece"
+                    },
+                    {
+                        "name": "Well - Exorcists Ring",
+                        "ref": "ULT/Well/Exorcists Ring"
+                    },
+                    {
+                        "name": "Flea - Fairy Tale Scrap One",
+                        "ref": "ULT/Flea/Fairy Tale Scrap One"
+                    },
+                    {
+                        "name": "Boy Who Cried Wolf - Fairy Tale [Boy Who Cried Wolf]",
+                        "ref": "ULT/Boy Who Cried Wolf/Fairy Tale [Boy Who Cried Wolf]"
+                    },
+                    {
+                        "name": "Corpse Before Jack - Harlots Ring",
+                        "ref": "ULT/Corpse Before Jack/Harlots Ring"
+                    },
+                    {
+                        "name": "Chest in Jack Area - Knights Sword+3",
+                        "ref": "ULT/Chest in Jack Area/Knights Sword+3"
+                    },
+                    {
+                        "name": "Mist - Mist Upper Lutwidge Town",
+                        "ref": "ULT/Mist/Mist Upper Lutwidge Town"
+                    },
+                    {
+                        "name": "Sky Knights Corpse - Sky Knights Cap",
+                        "ref": "ULT/Sky Knights Corpse/Sky Knights Cap"
+                    },
+                    {
+                        "name": "Corpse Near Red Hood - Sorcery [Treponema]",
+                        "ref": "ULT/Corpse Near Red Hood/Sorcery [Treponema]"
+                    },
+                    {
+                        "name": "Jack - Soul of Jack",
+                        "ref": "ULT/Jack/Soul of Jack"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 256,
+                        "y": 110,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "White Castletown",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ice Chest Near Bonfire - Cross Greatshield",
+                        "ref": "White Castletown/Ice Chest Near Bonfire/Cross Greatshield"
+                    },
+                    {
+                        "name": "Corpse In West Area - Ice Stoneplate Ring",
+                        "ref": "White Castletown/Corpse In West Area/Ice Stoneplate Ring"
+                    },
+                    {
+                        "name": "Mist - Mist White Castletown",
+                        "ref": "White Castletown/Mist/Mist White Castletown"
+                    },
+                    {
+                        "name": "West Area Mimic - Ring of The Indomitable",
+                        "ref": "White Castletown/West Area Mimic/Ring of The Indomitable"
+                    },
+                    {
+                        "name": "Ice Chest Near Final Gerda Area - Winter Warriors Helm",
+                        "ref": "White Castletown/Ice Chest Near Final Gerda Area/Winter Warriors Helm"
+                    },
+                    {
+                        "name": "Ice Chest Near Final Gerda Area - Winter Warriors Plate",
+                        "ref": "White Castletown/Ice Chest Near Final Gerda Area/Winter Warriors Plate"
+                    },
+                    {
+                        "name": "Bench - Winter Witchs Coat",
+                        "ref": "White Castletown/Bench/Winter Witchs Coat"
+                    },
+                    {
+                        "name": "Leiden - Soul of the White Lion",
+                        "ref": "White Castletown/Leiden/Soul of the White Lion"
+                    },
+                    {
+                        "name": "Unis - Soul of the White Unicorn",
+                        "ref": "White Castletown/Unis/Soul of the White Unicorn"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 444,
+                        "y": 240,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Windless Valley",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Winterbells Wind - Soul of the Winterbells Wind",
+                        "ref": "Windless Valley/Winterbells Wind/Soul of the Winterbells Wind"
+                    },
+                    {
+                        "name": "Mist - Mist Windless Valley",
+                        "ref": "Windless Valley/Mist/Mist Windless Valley"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 443,
+                        "y": 276,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Winterbell",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Near Teddy Bear On Chair - Old Kings Ring",
+                        "ref": "Winterbell/Near Teddy Bear On Chair/Old Kings Ring"
+                    },
+                    {
+                        "name": "Near Teddy Bear On Bed - Polar Bears Ring",
+                        "ref": "Winterbell/Near Teddy Bear On Bed/Polar Bears Ring"
+                    },
+                    {
+                        "name": "Left Side Chest - Sorcery [Soul Stream]",
+                        "ref": "Winterbell/Left Side Chest/Sorcery [Soul Stream]"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 442,
+                        "y": 225,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

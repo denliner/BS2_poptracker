@@ -1,0 +1,241 @@
+[
+    {
+        "name": "White Castletown",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "endinggachieved,mistcrimeannursinggraveyard,mistflorencearena,mistwindlessvalley"
+        ],
+        "children": [
+            {
+                "name": "Ice Chest Near Bonfire",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Cross Greatshield",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "White Castletown",
+                        "x": 2250,
+                        "y": 1397,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Corpse In West Area",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ice Stoneplate Ring",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "White Castletown",
+                        "x": 1692,
+                        "y": 1665,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Mist",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mist White Castletown",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "White Castletown",
+                        "x": 2382,
+                        "y": 1314,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "West Area Mimic",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ring of The Indomitable",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "White Castletown",
+                        "x": 40,
+                        "y": 2903,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Ice Chest Near Final Gerda Area",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Winter Warriors Helm",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Winter Warriors Plate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "White Castletown",
+                        "x": 361,
+                        "y": 683,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bench",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Winter Witchs Coat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "White Castletown",
+                        "x": 82,
+                        "y": 2675,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Leiden",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "[mistwhitecastletown]"
+                ],
+                "sections": [
+                    {
+                        "name": "Soul of the White Lion",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "White Castletown",
+                        "x": 2351,
+                        "y": 1121,
+                        "size": 80,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Deserted Road",
+                        "x": 5834,
+                        "y": 143,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Unis",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "[mistwhitecastletown]"
+                ],
+                "sections": [
+                    {
+                        "name": "Soul of the White Unicorn",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "White Castletown",
+                        "x": 2430,
+                        "y": 1121,
+                        "size": 80,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Deserted Road",
+                        "x": 6030,
+                        "y": 2747,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

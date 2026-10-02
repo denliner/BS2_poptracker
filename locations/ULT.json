@@ -1,0 +1,299 @@
+[
+    {
+        "name": "ULT",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Barber Todd",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Barbers Ring",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 1421,
+                        "y": 3058,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bunny Girl Corpse",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bunny Headpiece",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 912,
+                        "y": 2218,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Well",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Exorcists Ring",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 1090,
+                        "y": 3336,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Flea",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fairy Tale Scrap One",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 1493,
+                        "y": 3174,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Boy Who Cried Wolf",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fairy Tale [Boy Who Cried Wolf]",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 1267,
+                        "y": 581,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Corpse Before Jack",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Harlots Ring",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 716,
+                        "y": 466,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Chest in Jack Area",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Knights Sword+3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 759,
+                        "y": 1231,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Mist",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mist Upper Lutwidge Town",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 470,
+                        "y": 436,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sky Knights Corpse",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sky Knights Cap",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 1325,
+                        "y": 2582,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Corpse Near Red Hood",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sorcery [Treponema]",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 1483,
+                        "y": 617,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Jack",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "mistupperlutwidgetown"
+                ],
+                "sections": [
+                    {
+                        "name": "Soul of Jack",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ULT",
+                        "x": 471,
+                        "y": 209,
+                        "size": 60,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

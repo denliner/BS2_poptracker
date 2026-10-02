@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Snow Field",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "endinggachieved,mistcrimeannursinggraveyard,mistflorencearena"
+        ],
+        "children": [
+            {
+                "name": "Near The Orc",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sorcery [Serpents Embrace]",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Snow Field",
+                        "x": 2104,
+                        "y": 8206,
+                        "size": 120,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

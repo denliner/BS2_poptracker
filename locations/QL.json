@@ -1,0 +1,259 @@
+[
+    {
+        "name": "QL",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "mistpondofbloodytears,drinkme","mistpondofbloodytears,mistdodgsonbridge"
+        ],
+        "children": [
+            {
+                "name": "Covenant",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Best Girl Prickett",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "QL",
+                        "x": 1926,
+                        "y": 768,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Summon",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "mistqueensland"
+                ],
+                "sections": [
+                    {
+                        "name": "Fairy Tale [Daddy-Long-Legs]",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "QL",
+                        "x": 2658,
+                        "y": 829,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Pooh Bear",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fairy Tale [Pooh Bear]",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "QL",
+                        "x": 1686,
+                        "y": 2683,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Punching Bag",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Leafs Ring",
+                        "access_rules": ["mistqueensland,covenant:bestgirlprickett"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "QL",
+                        "x": 2779,
+                        "y": 1265,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Entrance Right Chest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mirror Greatshield",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shield of the Abyss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "QL",
+                        "x": 2488,
+                        "y": 3778,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Mist",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mist Queensland",
+                        "access_rules": ["covenant:bestgirlprickett"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "QL",
+                        "x": 2707,
+                        "y": 811,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Convenant",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pricketts Ring",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "QL",
+                        "x": 2495,
+                        "y": 559,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Clown Murderer",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ring of the Clown Murderer",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "QL",
+                        "x": 2024,
+                        "y": 4668,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Slave Bosses",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "mistqueensland,covenant:bestgirlprickett"
+                ],
+                "sections": [
+                    {
+                        "name": "Soul of the Slave Emperor",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Soul of the Slave Empress",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "QL",
+                        "x": 2698,
+                        "y": 623,
+                        "size": 80,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]
