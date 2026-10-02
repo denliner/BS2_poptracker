@@ -1,0 +1,16 @@
+{
+	"versions": [
+		{
+			"package_version": "0.3.0",
+			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V0.3.0/BS2_poptracker-0.3.0.zip",
+			"sha256": "f931729b63904a2db7df311194bb6ef69656af5fdfe1aefe1d1cbb7813ec2976",
+			"changelog": ["Add full randomized items tracking,Add auto updater"]
+		},
+		{
+			"package_version": "0.2.0",
+			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V0.2.0/BS2_poptracker-0.2.0.zip",
+			"sha256": "dd0def9826cc5e385b92cb399a0414ee99dd92eeacca1009e552ea9cd424c42e",
+			"changelog": ["Fix Vernai and Ending G logic, Add Cheshire Cat's/Edith's/Leaf's rings, the gate pass and train ticket to the item tab."]
+		}
+	]
+}
