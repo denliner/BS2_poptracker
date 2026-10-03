@@ -411,61 +411,62 @@
         "sections": [
             {
                 "name": "Progression 1",
-                "access_rules": [],
+                "access_rules": ["progression1"],
                 "visibility_rules": [],
                 "item_count": 1
             },
-            {
-                "name": "Progression 10",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
+
             {
                 "name": "Progression 2",
-                "access_rules": [],
+                "access_rules": ["progression2"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 3",
-                "access_rules": [],
+                "access_rules": ["progression3"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 4",
-                "access_rules": [],
+                "access_rules": ["progression4"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 5",
-                "access_rules": [],
+                "access_rules": ["progression5"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 6",
-                "access_rules": [],
+                "access_rules": ["progression6"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 7",
-                "access_rules": [],
+                "access_rules": ["progression7"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 8",
-                "access_rules": [],
+                "access_rules": ["progression8"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 9",
-                "access_rules": [],
+                "access_rules": ["progression9"],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Progression 10",
+                "access_rules": ["progression10"],
                 "visibility_rules": [],
                 "item_count": 1
             }

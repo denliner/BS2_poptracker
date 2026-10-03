@@ -71,20 +71,20 @@
 
                             ],
                             [
-                                "covenant:bill",
-                                "covenant:sho",
-                                "covenant:dodo",
-                                "covenant:maidvictoria",
-                                "covenant:node",
-                                "covenant:hatta",
-                                "covenant:bestgirlprickett",
-                                "covenant:shisha",
-                                "covenant:tweedledee&tweedledum",
-                                "covenant:walrus",
-                                "covenant:mockturtle",
-                                "covenant:kuti",
-                                "covenant:queenofhearts",
-                                "covenant:bandersnatch"
+                                "covenant_bill",
+                                "covenant_sho",
+                                "covenant_dodo",
+                                "covenant_maidvictoria",
+                                "covenant_node",
+                                "covenant_hatta",
+                                "covenant_bestgirlprickett",
+                                "covenant_shisha",
+                                "covenant_tweedledee&tweedledum",
+                                "covenant_walrus",
+                                "covenant_mockturtle",
+                                "covenant_kuti",
+                                "covenant_queenofhearts",
+                                "covenant_bandersnatch"
 
                             ]
                         ]

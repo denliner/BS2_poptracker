@@ -255,7 +255,7 @@
                 "sections": [
                     {
                         "name": "Beat Mabel - Mystery of Night Sky (Ashes Reignited)",
-                        "ref": "CD/Beat Mabel/Mystery of Night Sky (Ashes Reignited)"
+                        "ref": "CD/Beat Mabel (Unlock After Depth 1)/Mystery of Night Sky (Ashes Reignited)"
                     }
                 ],
                 "map_locations": [
@@ -1710,8 +1710,8 @@
                         "ref": "QL/Punching Bag/Leafs Ring"
                     },
                     {
-                        "name": "Entrance Right Chest - Mirror Greatshield",
-                        "ref": "QL/Entrance Right Chest/Mirror Greatshield"
+                        "name": "Entrance Left Chest - Mirror Greatshield",
+                        "ref": "QL/Entrance Left Chest/Mirror Greatshield"
                     },
                     {
                         "name": "Entrance Right Chest - Shield of the Abyss",

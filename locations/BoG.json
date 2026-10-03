@@ -53,7 +53,7 @@
                     {
                         "name": "Mock Turtles Ladle",
                         "access_rules": [
-                            "covenant:mockturtle"
+                            "covenant_mockturtle"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -61,7 +61,7 @@
                     {
                         "name": "Mock Turtles Shell",
                         "access_rules": [
-                            "covenant:mockturtle"
+                            "covenant_mockturtle"
                         ],
                         "visibility_rules": [],
                         "item_count": 1

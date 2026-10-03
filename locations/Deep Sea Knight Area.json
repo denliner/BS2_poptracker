@@ -21,7 +21,7 @@
                     {
                         "name": "Celestial Ring",
                         "access_rules": [
-                            "covenant:kuti"
+                            "covenant_kuti"
                         ],
                         "visibility_rules": [],
                         "item_count": 1

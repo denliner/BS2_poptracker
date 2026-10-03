@@ -177,7 +177,7 @@
                     {
                         "name": "Walrus Ring",
                         "access_rules": [
-                            "covenant:walrus"
+                            "covenant_walrus"
                         ],
                         "visibility_rules": [],
                         "item_count": 1

@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "White Castletown",
-                        "x": 749,
-                        "y": 465,
+                        "x": 659,
+                        "y": 1198,
                         "size": 20,
                         "shape": "rect"
                     }
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "White Castletown",
-                        "x": 563,
-                        "y": 554,
-                        "size": 6,
+                        "x": 284,
+                        "y": 936,
+                        "size": 20,
                         "shape": "rect"
                     }
                 ]

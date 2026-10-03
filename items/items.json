@@ -1016,12 +1016,12 @@
         "codes": "walrusring"
     },
     {
-        "name": "covenant:Mock Turtle",
+        "name": "Covenant Mock Turtle",
         "type": "toggle",
         "img": "images/items/covenant_mockturtle.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:mockturtle"
+        "codes": "covenant_mockturtle"
     },
     {
         "name": "fairytale[Black Rabbit Of Inaba]",
@@ -1048,12 +1048,12 @@
         "codes": "doortoelizabeth"
     },
     {
-        "name": "covenant:walrus",
+        "name": "Covenant Walrus",
         "type": "toggle",
         "img": "images/items/covenant_walrus.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:walrus"
+        "codes": "covenant_walrus"
     },
     {
         "name": "Soul Of The Gray Eagle",
@@ -1152,12 +1152,12 @@
         "codes": "souloftheknightofclubs"
     },
     {
-        "name": "covenant:kuti",
+        "name": "Covenant Kuti",
         "type": "toggle",
         "img": "images/items/covenant_kuti.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:kuti"
+        "codes": "covenant_kuti"
     },
     {
         "name": "Yellow Cloth",
@@ -1624,12 +1624,12 @@
         "codes": "windgodsring"
     },
     {
-        "name": "covenant:Queen Of Hearts",
+        "name": "Covenant Queen Of Hearts",
         "type": "toggle",
         "img": "images/items/covenant_queenofhearts.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:queenofhearts"
+        "codes": "covenant_queenofhearts"
     },
     {
         "name": "Resurrectionist's Ring",
@@ -1728,12 +1728,12 @@
         "codes": "oldkingsring"
     },
     {
-        "name": "covenant:bandersnatch",
+        "name": "Covenant Bandersnatch",
         "type": "toggle",
         "img": "images/items/covenant_bandersnatch.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:bandersnatch"
+        "codes": "covenant_bandersnatch"
     },
     {
         "name": "Moonlight Great Sword",
@@ -1944,20 +1944,20 @@
         "codes": "igorsmask"
     },
     {
-        "name": "covenant:bill",
+        "name": "Covenant Bill",
         "type": "toggle",
         "img": "images/items/covenant_bill.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:bill"
+        "codes": "covenant_bill"
     },
     {
-        "name": "covenant:sho",
+        "name": "Covenant Sho",
         "type": "toggle",
         "img": "images/items/covenant_sho.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:sho"
+        "codes": "covenant_sho"
     },
     {
         "name": "Pirate Handgun",
@@ -1984,12 +1984,12 @@
         "codes": "sorcery[bloodycarthus]"
     },
     {
-        "name": "covenant:dodo",
+        "name": "Covenant Dodo",
         "type": "toggle",
         "img": "images/items/covenant_dodo.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:dodo"
+        "codes": "covenant_dodo"
     },
     {
         "name": "Helm Of Milton",
@@ -2016,12 +2016,12 @@
         "codes": "thunderstoneplatering"
     },
     {
-        "name": "covenant:Maid Victoria",
+        "name": "Covenant Maid Victoria",
         "type": "toggle",
         "img": "images/items/covenant_maidvictoria.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:maidvictoria"
+        "codes": "covenant_maidvictoria"
     },
     {
         "name": "progression4",
@@ -2040,12 +2040,12 @@
         "codes": "blacksword"
     },
     {
-        "name": "covenant:node",
+        "name": "Covenant Node",
         "type": "toggle",
         "img": "images/items/covenant_node.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:node"
+        "codes": "covenant_node"
     },
     {
         "name": "Ring Of Rebellion",
@@ -2168,12 +2168,12 @@
         "codes": "harlotsring"
     },
     {
-        "name": "covenant:Best Girl Prickett",
+        "name": "Covenant Best Girl Prickett",
         "type": "toggle",
         "img": "images/items/covenant_bestgirlprickett.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:bestgirlprickett"
+        "codes": "covenant_bestgirlprickett"
     },
     {
         "name": "Kite Shield",
@@ -2312,12 +2312,12 @@
         "codes": "sorcery[heavysoularrow]"
     },
     {
-        "name": "covenant:Tweedledee & Tweedledum",
+        "name": "Covenant Tweedledee & Tweedledum",
         "type": "toggle",
         "img": "images/items/covenant_tweedledee&tweedledum.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:tweedledee&tweedledum"
+        "codes": "covenant_tweedledee&tweedledum"
     },
     {
         "name": "progression6",
@@ -2632,12 +2632,12 @@
         "codes": "souloftheslaveemperor"
     },
     {
-        "name": "covenant:hatta",
+        "name": "Covenant Hatta",
         "type": "toggle",
         "img": "images/items/covenant_hatta.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:hatta"
+        "codes": "covenant_hatta"
     },
     {
         "name": "Mist White Castletown",
@@ -2760,12 +2760,12 @@
         "codes": "guardianangel"
     },
     {
-        "name": "covenant:shisha",
+        "name": "Covenant Shisha",
         "type": "toggle",
         "img": "images/items/covenant_shisha.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "covenant:shisha"
+        "codes": "covenant_shisha"
     },
     {
         "name": "Ring Of The Enduring",
