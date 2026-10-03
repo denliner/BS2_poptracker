@@ -92,5 +92,99 @@
                 ]
             }
         ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "progression1",
+                                "progression2",
+                                "progression3",
+                                "progression4",
+                                "progression5",
+                                "progression6",
+                                "progression7",
+                                "progression8",
+                                "progression9",
+                                "progression10",
+                                "cheshirecatsring",
+                                "edithsring",
+                                "leafsring",
+                                "gatepass",
+                                "trainticket",
+                                "drinkme",
+                                "gearofmadness",
+                                "blackwellsletter"
+
+                                                                               
+                            ],
+                            [
+                                "mistmentalward",
+                                "mistsporeforest",
+                                "mistinfinitefood",
+                                "mistcrimeannursinggraveyard",
+                                "mistcrashchamber",
+                                "mistliddellcemetary",
+                                "mistblackknightarena",
+                                "mistlibrarydream",
+                                "mistslaughterhouse",
+                                "mistupperlutwidgetown",
+                                "mistdodgsonbridge",
+                                "mistmushroomvillage",
+                                "mistpondofbloodytears",
+                                "mistflorencearena",
+                                "mistduchessmansion",
+                                "mistdeepsea",
+                                "mistjubjubsnest",
+                                "mistfumingforest",
+                                "mistqueensland",
+                                "mistbillingsgatefishmarket",
+                                "mistoxwarduniversity",
+                                "mistwindlessvalley",
+                                "mistsickclocktower",
+                                "mistredcastlefrissel",
+                                "mistwhitecastletown",
+                                "mistriverside",
+                                "mistjabberwockslair"
+
+                            ],
+                            [
+                                "covenant_bill",
+                                "covenant_sho",
+                                "covenant_dodo",
+                                "covenant_maidvictoria",
+                                "covenant_node",
+                                "covenant_hatta",
+                                "covenant_bestgirlprickett",
+                                "covenant_shisha",
+                                "covenant_tweedledee&tweedledum",
+                                "covenant_walrus",
+                                "covenant_mockturtle",
+                                "covenant_kuti",
+                                "covenant_queenofhearts",
+                                "covenant_bandersnatch"
+
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 }

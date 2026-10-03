@@ -23,6 +23,13 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    
+                    {
+                        "name": "Pricketts Ring",
+                        "access_rules": ["covenant_bestgirlprickett"],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -41,7 +48,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "mistqueensland"
+                    "mistqueensland,covenant_bestgirlprickett"
                 ],
                 "sections": [
                     {
@@ -195,32 +202,7 @@
                     }
                 ]
             },
-            {
-                "name": "Convenant",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Pricketts Ring",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "QL",
-                        "x": 831,
-                        "y": 186,
-                        "size": 6,
-                        "shape": "rect"
-                    }
-                ]
-            },
+
             {
                 "name": "Clown Murderer",
                 "chest_unopened_img": "/images/items/close.png",
