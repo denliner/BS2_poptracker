@@ -1,8 +1,14 @@
 {
 	"versions": [
 		{ 
+			"package_version": "0.5.1",
+			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V0.5.1/BS2_poptracker-0.5.1.zip",
+			"sha256": "c4f0f4941eeed888e0b1f6ea2a038c96cf9dba37974e2c23227e303fbe53b5d0",
+			"changelog": ["Minor logic fix,Fixed .luarc"]
+		},
+		{ 
 			"package_version": "0.5.0",
-			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V0.4.0/BS2_poptracker-0.4.0.zip",
+			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V0.5.0/BS2_poptracker-0.5.0.zip",
 			"sha256": "eaa4a9453abc55602ecdbc49ef7e88d3363b29e654abc448aec107c11064a9ac",
 			"changelog": ["Fix covenant logic,Fix some early game logic (like the Bankers Ring),Fix some check location"]
 		},
