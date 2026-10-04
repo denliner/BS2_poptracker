@@ -482,6 +482,10 @@
                         "ref": "DS/Near Blackbeard/Ring of Sin"
                     },
                     {
+                        "name": "Right Of The Whale Beast - Deep Sea Shield",
+                        "ref": "Deep Sea Knight Area/Right Of The Whale Beast/Deep Sea Shield"
+                    },
+                    {
                         "name": "Inside North West Building - Sorcery [Power Within]",
                         "ref": "DS/Inside North West Building/Sorcery [Power Within]"
                     },
@@ -524,10 +528,6 @@
                     {
                         "name": "Deep Sea Knight - Deep Sea Knights Helm",
                         "ref": "Deep Sea Knight Area/Deep Sea Knight/Deep Sea Knights Helm"
-                    },
-                    {
-                        "name": "Deep Sea Knight - Deep Sea Shield",
-                        "ref": "Deep Sea Knight Area/Deep Sea Knight/Deep Sea Shield"
                     },
                     {
                         "name": "Deep Sea Knight - Soul of the Deep Sea Knight",
