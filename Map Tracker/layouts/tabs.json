@@ -12,29 +12,11 @@
                 }
             },
             {
-                "title": "Station Hanover",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "ASH"
-                    ]
-                }
-            },
-            {
                 "title": "Billingsgate Fish Market",
                 "content": {
                     "type": "map",
                     "maps": [
                         "BFM"
-                    ]
-                }
-            },
-            {
-                "title": "Black Knight Arena",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Black Knight Arena"
                     ]
                 }
             },
@@ -65,15 +47,7 @@
                     ]
                 }
             },
-            {
-                "title": "Crimean Nursing Graveyard",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Crimean Nursing Graveyard"
-                    ]
-                }
-            },
+
             {
                 "title": "Duchess Mansion",
                 "content": {
@@ -92,24 +66,7 @@
                     ]
                 }
             },
-            {
-                "title": "Deep Sea",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "DS"
-                    ]
-                }
-            },
-            {
-                "title": "Deep Sea Knight Area",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Deep Sea Knight Area"
-                    ]
-                }
-            },
+
             {
                 "title": "Endless Tea Party",
                 "content": {
@@ -128,15 +85,7 @@
                     ]
                 }
             },
-            {
-                "title": "Florence Arena",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Florence Arena"
-                    ]
-                }
-            },
+
             {
                 "title": "Garden of Heart",
                 "content": {
@@ -233,6 +182,15 @@
                     "type": "map",
                     "maps": [
                         "NF"
+                    ]
+                }
+            },
+            {
+                "title": "Station Hanover",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ASH"
                     ]
                 }
             },
@@ -336,6 +294,24 @@
                 }
             },
             {
+                "title": "Deep Sea",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "DS"
+                    ]
+                }
+            },
+            {
+                "title": "Deep Sea Knight Area",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Deep Sea Knight Area"
+                    ]
+                }
+            },
+            {
                 "title": "Slaughterhouse",
                 "content": {
                     "type": "map",
@@ -344,12 +320,31 @@
                     ]
                 }
             },
+
             {
                 "title": "Upper Lutwidge Town",
                 "content": {
                     "type": "map",
                     "maps": [
                         "ULT"
+                    ]
+                }
+            },
+            {
+                "title": "Crimean Nursing Graveyard",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crimean Nursing Graveyard"
+                    ]
+                }
+            },
+            {
+                "title": "Florence Arena",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Florence Arena"
                     ]
                 }
             },
@@ -395,6 +390,15 @@
                     "type": "map",
                     "maps": [
                         "White Castletown"
+                    ]
+                }
+            },
+            {
+                "title": "Black Knight Arena",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Black Knight Arena"
                     ]
                 }
             },
@@ -422,30 +426,13 @@
                     ]
                 }
             },
-            {
-                "title": "Station Hanover",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "ASH"
-                    ]
-                }
-            },
+
             {
                 "title": "Billingsgate Fish Market",
                 "content": {
                     "type": "map",
                     "maps": [
                         "BFM"
-                    ]
-                }
-            },
-            {
-                "title": "Black Knight Arena",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Black Knight Arena"
                     ]
                 }
             },
@@ -476,39 +463,13 @@
                     ]
                 }
             },
-            {
-                "title": "Crimean Nursing Graveyard",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Crimean Nursing Graveyard"
-                    ]
-                }
-            },
+
             {
                 "title": "Duchess Mansion",
                 "content": {
                     "type": "map",
                     "maps": [
                         "DM"
-                    ]
-                }
-            },
-            {
-                "title": "Deep Sea",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "DS"
-                    ]
-                }
-            },
-            {
-                "title": "Deep Sea Knight Area",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Deep Sea Knight Area"
                     ]
                 }
             },
@@ -530,15 +491,7 @@
                     ]
                 }
             },
-            {
-                "title": "Florence Arena",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Florence Arena"
-                    ]
-                }
-            },
+
             {
                 "title": "Garden of Heart",
                 "content": {
@@ -635,6 +588,15 @@
                     "type": "map",
                     "maps": [
                         "NF"
+                    ]
+                }
+            },
+            {
+                "title": "Station Hanover",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ASH"
                     ]
                 }
             },
@@ -738,6 +700,24 @@
                 }
             },
             {
+                "title": "Deep Sea",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "DS"
+                    ]
+                }
+            },
+            {
+                "title": "Deep Sea Knight Area",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Deep Sea Knight Area"
+                    ]
+                }
+            },
+            {
                 "title": "Slaughterhouse",
                 "content": {
                     "type": "map",
@@ -746,12 +726,31 @@
                     ]
                 }
             },
+
             {
                 "title": "Upper Lutwidge Town",
                 "content": {
                     "type": "map",
                     "maps": [
                         "ULT"
+                    ]
+                }
+            },
+            {
+                "title": "Crimean Nursing Graveyard",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crimean Nursing Graveyard"
+                    ]
+                }
+            },
+            {
+                "title": "Florence Arena",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Florence Arena"
                     ]
                 }
             },
@@ -797,6 +796,15 @@
                     "type": "map",
                     "maps": [
                         "White Castletown"
+                    ]
+                }
+            },
+            {
+                "title": "Black Knight Arena",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Black Knight Arena"
                     ]
                 }
             },

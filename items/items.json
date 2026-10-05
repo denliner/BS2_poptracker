@@ -1288,9 +1288,9 @@
         "codes": "knightssword"
     },
     {
-        "name": "defeatedhein",
+        "name": "Defeated Hein",
         "type": "toggle",
-        "img": "images/items/defeatedhein.png",
+        "img": "images/items/Hein.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "defeatedhein"
@@ -2136,9 +2136,9 @@
         "codes": "fairytale[daddy-long-legs]"
     },
     {
-        "name": "doortopof",
+        "name": "Door To Park Of Fog",
         "type": "toggle",
-        "img": "images/items/doortopof.png",
+        "img": "images/items/Key.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "doortopof"
@@ -2410,7 +2410,7 @@
     {
         "name": "Ending G Achieved",
         "type": "toggle",
-        "img": "images/items/endinggachieved.png",
+        "img": "images/items/Alice.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "endinggachieved"
@@ -2536,9 +2536,9 @@
         "codes": "knuckles"
     },
     {
-        "name": "throughoxwardgate",
+        "name": "Through Ox Ward Gate",
         "type": "toggle",
-        "img": "images/items/throughoxwardgate.png",
+        "img": "images/items/Key.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "throughoxwardgate"

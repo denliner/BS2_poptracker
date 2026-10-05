@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "endinggachieved,mistcrimeannursinggraveyard,mistflorencearena,mistwindlessvalley"
+            "endinggachieved,mistcrimeannursinggraveyard,mistflorencearena"
         ],
         "children": [
             {
@@ -14,7 +14,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistwindlessvalley"
                 ],
                 "sections": [
                     {
@@ -40,7 +40,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistwindlessvalley"
                 ],
                 "sections": [
                     {
@@ -66,7 +66,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistwindlessvalley"
                 ],
                 "sections": [
                     {
@@ -92,7 +92,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistwindlessvalley"
                 ],
                 "sections": [
                     {
@@ -118,7 +118,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistwindlessvalley"
                 ],
                 "sections": [
                     {
@@ -150,7 +150,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "mistwindlessvalley"
                 ],
                 "sections": [
                     {
@@ -176,12 +176,12 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "[mistwhitecastletown]"
+                    "[mistwindlessvalley],[mistwhitecastletown]"
                 ],
                 "sections": [
                     {
                         "name": "Soul of the White Lion",
-                        "access_rules": [],
+                        "access_rules": ["[mistwhitecastletown]"],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -209,7 +209,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "[mistwhitecastletown]"
+                    "[mistwindlessvalley],[mistwhitecastletown]"
                 ],
                 "sections": [
                     {
