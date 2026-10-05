@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{ 
+			"package_version": "0.5.2",
+			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V0.5.2/BS2_poptracker-0.5.2.zip",
+			"sha256": "41a7bd3ad49d2eaf62686fa411e3b9176788c37355d3fb0e0a9152611f829879",
+			"changelog": ["Fix logic/location after a real Ending G run,Add more progression items to the map tracke"]
+		},
+		{ 
 			"package_version": "0.5.1",
 			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V0.5.1/BS2_poptracker-0.5.1.zip",
 			"sha256": "c4f0f4941eeed888e0b1f6ea2a038c96cf9dba37974e2c23227e303fbe53b5d0",
