@@ -386,12 +386,21 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "progression10,leafsring,throughoxwardgate,mistsporeforest,mistliddellcemetary,doortopof,mistbillingsgatefishmarket"
-                ],
+                    ""
+                ],                       
                 "sections": [
                     {
+                        "name": "Ending G Obtainable",
+                        "access_rules": 
+                        [
+                            "progression:10,leafsring,redhoodmet:10,aliceflameql,aliceflamercf,aliceflamecr,aliceflamebog,aliceflameowu,aliceflameetp"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Ending G Achieved",
-                        "access_rules": [],
+                        "access_rules": ["endinggobtainable"],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -410,62 +419,62 @@
         "sections": [
             {
                 "name": "Progression 1",
-                "access_rules": ["progression1"],
+                "access_rules": ["progression:1"],
                 "visibility_rules": [],
                 "item_count": 1
             },
 
             {
                 "name": "Progression 2",
-                "access_rules": ["progression2"],
+                "access_rules": ["progression:2"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 3",
-                "access_rules": ["progression3"],
+                "access_rules": ["progression:3"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 4",
-                "access_rules": ["progression4"],
+                "access_rules": ["progression:4"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 5",
-                "access_rules": ["progression5"],
+                "access_rules": ["progression:5"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 6",
-                "access_rules": ["progression6"],
+                "access_rules": ["progression:6"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 7",
-                "access_rules": ["progression7"],
+                "access_rules": ["progression:7"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 8",
-                "access_rules": ["progression8"],
+                "access_rules": ["progression:8"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 9",
-                "access_rules": ["progression9"],
+                "access_rules": ["progression:9"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "Progression 10",
-                "access_rules": ["progression10"],
+                "access_rules": ["progression:10"],
                 "visibility_rules": [],
                 "item_count": 1
             }

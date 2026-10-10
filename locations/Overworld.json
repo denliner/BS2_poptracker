@@ -182,6 +182,10 @@
                         "ref": "BoG/Mirandas/Mirandas Axe"
                     },
                     {
+                        "name": "Memories - Beach of Grief's Memories",
+                        "ref": "BoG/Memories/Beach of Grief's Memories"
+                    },
+                    {
                         "name": "Behind The Tree - Ring of White Crow",
                         "ref": "BoG/Behind The Tree/Ring of White Crow"
                     }
@@ -312,6 +316,10 @@
                     {
                         "name": "Beast of Conceit - Soul of Conceit",
                         "ref": "CR/Beast of Conceit/Soul of Conceit"
+                    },
+                    {
+                        "name": "Memories - Carroll River's Memories",
+                        "ref": "CR/Memories/Carroll River's Memories"
                     },
                     {
                         "name": "JabberWock - Soul of the Jabberwock",
@@ -596,6 +604,10 @@
                     {
                         "name": "Covenant - Hatta",
                         "ref": "Endless Tea Party/Covenant/Hatta"
+                    },
+                    {
+                        "name": "Memories - Endless Tea Party's Memories",
+                        "ref": "Endless Tea Party/Memories/Endless Tea Party's Memories"
                     }
                 ],
                 "map_locations": [
@@ -1068,6 +1080,10 @@
                     {
                         "name": "Statue - Tyrant Ring",
                         "ref": "LD/Statue/Tyrant Ring"
+                    },
+                    {
+                        "name": "End - Ending G Obtainable",
+                        "ref": "LD/End/Ending G Obtainable"
                     },
                     {
                         "name": "End - Ending G Achieved",
@@ -1546,6 +1562,10 @@
                         "ref": "OWU/Door/Through Oxward Gate"
                     },
                     {
+                        "name": "Memories - Ox Ward University's Memories",
+                        "ref": "OWU/Memories/Ox Ward University's Memories"
+                    },
+                    {
                         "name": "Mist - Mist Ox Ward University",
                         "ref": "OWU/Mist/Mist Ox Ward University"
                     }
@@ -1730,6 +1750,10 @@
                         "ref": "QL/Clown Murderer/Ring of the Clown Murderer"
                     },
                     {
+                        "name": "Memories - Queensland's Memories",
+                        "ref": "QL/Memories/Queensland's Memories"
+                    },
+                    {
                         "name": "Slave Bosses - Soul of the Slave Emperor",
                         "ref": "QL/Slave Bosses/Soul of the Slave Emperor"
                     },
@@ -1824,6 +1848,10 @@
                     {
                         "name": "Covenant - Queen of Hearts",
                         "ref": "RCF/Covenant/Queen of Hearts"
+                    },
+                    {
+                        "name": "Memories - Red Castle Frissel's Memories",
+                        "ref": "RCF/Memories/Red Castle Frissel's Memories"
                     },
                     {
                         "name": "Mist - Mist Red Castle Frissel",

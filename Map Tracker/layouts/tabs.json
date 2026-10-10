@@ -3,29 +3,11 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Overworld",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Overworld"
-                    ]
-                }
-            },
-            {
                 "title": "Billingsgate Fish Market",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "BFM"
-                    ]
-                }
-            },
-            {
-                "title": "Beach of Grief",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "BoG"
+                        "BFM","Overworld"
                     ]
                 }
             },
@@ -34,382 +16,517 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "CC"
+                        "CC","Overworld"
                     ]
                 }
             },
             {
                 "title": "Carroll River",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "CR"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Main",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                     "CR","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Jabberwocks Lair",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Jabberwocks Lair","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-
             {
                 "title": "Duchess Mansion",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "DM"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Exterior",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Duchess Exterior","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Interior",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "DM","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Infinite Food",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "IF","Overworld"
+                                ]
+                            }
+                        }
                     ]
-                }
-            },
-            {
-                "title": "Duchess Mansion Exterior",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Duchess Exterior"
-                    ]
+
                 }
             },
 
-            {
-                "title": "Endless Tea Party",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Endless Tea Party"
-                    ]
-                }
-            },
+
+
+
             {
                 "title": "Fuming Forest",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "FF"
+                        "FF","Overworld"
                     ]
                 }
             },
 
-            {
-                "title": "Garden of Heart",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "GotH"
-                    ]
-                }
-            },
-            {
-                "title": "Infinite Food",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "IF"
-                    ]
-                }
-            },
-            {
-                "title": "Jabberwocks Lair",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Jabberwocks Lair"
-                    ]
-                }
-            },
-            {
-                "title": "Jubjubs Nest",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Jubjubs Nest"
-                    ]
-                }
-            },
+
             {
                 "title": "Liddell Cemetery",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "LC"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Liddell Cemetery",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "LC","Overworld"
+                                ]
+                            }
+                        },
+
+                        {
+                            "title": "Ripon Cathedral",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "RGC","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
+
+
             {
                 "title": "Library Dream",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "LD"
+                        "LD","Overworld"
                     ]
                 }
             },
             {
                 "title": "Lutwidge Town",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "LT"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Lutwidge Town",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "LT","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Lutwidge Town's sewer",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "LTU","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Park of Fog",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "PoF","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Upper Lutwidge Town",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "ULT","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-            {
-                "title": "Lutwidge Town's sewer",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "LTU"
-                    ]
-                }
-            },
-            {
-                "title": "Mushroom Village",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "MV"
-                    ]
-                }
-            },
+
+
             {
                 "title": "Mental Ward",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "MW"
+                        "MW","Overworld"
                     ]
                 }
             },
             {
                 "title": "Nameless Forest",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "NF"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Nameless Forest",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "NF","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Station Hanover",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "ASH","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-            {
-                "title": "Station Hanover",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "ASH"
-                    ]
-                }
-            },
-            {
-                "title": "Oysters' Rotted Sea",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "ORS"
-                    ]
-                }
-            },
+
             {
                 "title": "Ox Ward University",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "OWU"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Ox Ward University",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "OWU","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Endless Tea Party",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Endless Tea Party","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sick Clock Tower",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "SCT","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Jubjubs Nest",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Jubjubs Nest","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
+
             {
                 "title": "Pond of Bloody Tears",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "PoBT"
+                        "PoBT","Overworld"
                     ]
                 }
             },
-            {
-                "title": "Park of Fog",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "PoF"
-                    ]
-                }
-            },
+
             {
                 "title": "Queenlands",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "QL"
+                        "QL","Overworld"
                     ]
                 }
             },
             {
                 "title": "Red Castle Frissel",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "RCF"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Garden of Heart",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "GotH","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Red Castle Frissel",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "RCF","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-            {
-                "title": "Ripon Cathedral",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "RGC"
-                    ]
-                }
-            },
-            {
-                "title": "Sick Clock Tower",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "SCT"
-                    ]
-                }
-            },
+
             {
                 "title": "Spore Forest",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "SF"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Spore Forest",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                     "SF","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Mushroom Village",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "MV","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
+
             {
-                "title": "Ship Graveyard",
+                "title": "Sea",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "SG"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Beach of Grief",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "BoG","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Oysters' Rotted Sea",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "ORS","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Ship Graveyard",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "SG","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Erebus",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Erebus","Overworld"
+                                ]
+                            }
+                        },
+
+                        {
+                            "title": "Deep Sea",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "DS","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Deep Sea Knight Area",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Deep Sea Knight Area","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-            {
-                "title": "Erebus",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Erebus"
-                    ]
-                }
-            },
-            {
-                "title": "Deep Sea",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "DS"
-                    ]
-                }
-            },
-            {
-                "title": "Deep Sea Knight Area",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Deep Sea Knight Area"
-                    ]
-                }
-            },
+
             {
                 "title": "Slaughterhouse",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "SH"
+                        "SH","Overworld"
                     ]
                 }
             },
 
             {
-                "title": "Upper Lutwidge Town",
+                "title": "DLC3 Areas",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "ULT"
-                    ]
-                }
-            },
-            {
-                "title": "Crimean Nursing Graveyard",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Crimean Nursing Graveyard"
-                    ]
-                }
-            },
-            {
-                "title": "Florence Arena",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Florence Arena"
-                    ]
-                }
-            },
-            {
-                "title": "Deserted Road",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Deserted Road"
-                    ]
-                }
-            },
-            {
-                "title": "Snow Field",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Snow Field"
-                    ]
-                }
-            },
-            {
-                "title": "Madness Mountain",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Madness Mountain"
-                    ]
-                }
-            },
-            {
-                "title": "Windless Valley",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Windless Valley"
-                    ]
-                }
-            },
-            {
-                "title": "White Castletown",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "White Castletown"
-                    ]
-                }
-            },
-            {
-                "title": "Black Knight Arena",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Black Knight Arena"
-                    ]
-                }
-            },
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Crimean Nursing Graveyard",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Crimean Nursing Graveyard",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Crimean Nursing Graveyard","Overworld"
+                                            ]
+                                        }
+                                    },
 
-            {
-                "title": "Winterbell",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Winterbell"
+                                    {
+                                        "title": "Florence Arena",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Florence Arena","Overworld"
+                                            ]
+                                        }
+                                    }
+                                ]
+
+                            }
+                        },
+
+                        {
+                            "title": "Winterbell",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Deserted Road",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Deserted Road","Overworld"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Snow Field",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Snow Field","Overworld"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Madness Mountain",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Madness Mountain","Overworld"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Windless Valley",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Windless Valley","Overworld"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "White Castletown",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "White Castletown","Overworld"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Black Knight Arena",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Black Knight Arena","Overworld"
+                                            ]
+                                        }
+                                    },
+
+
+                                    {
+                                        "title": "Winterbell",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Winterbell","Overworld"
+                                            ]
+                                        }
+                                    }
+                                ]
+
+                            }
+                        }
                     ]
+
                 }
             }
         ]
@@ -418,30 +535,11 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Overworld",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Overworld"
-                    ]
-                }
-            },
-
-            {
                 "title": "Billingsgate Fish Market",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "BFM"
-                    ]
-                }
-            },
-            {
-                "title": "Beach of Grief",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "BoG"
+                        "BFM","Overworld"
                     ]
                 }
             },
@@ -450,372 +548,517 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "CC"
+                        "CC","Overworld"
                     ]
                 }
             },
             {
                 "title": "Carroll River",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "CR"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Main",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                     "CR","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Jabberwocks Lair",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Jabberwocks Lair","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-
             {
                 "title": "Duchess Mansion",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "DM"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Exterior",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Duchess Exterior","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Interior",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "DM","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Infinite Food",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "IF","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-            {
-                "title": "Endless Tea Party",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Endless Tea Party"
-                    ]
-                }
-            },
+
+
+
+
             {
                 "title": "Fuming Forest",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "FF"
+                        "FF","Overworld"
                     ]
                 }
             },
 
-            {
-                "title": "Garden of Heart",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "GotH"
-                    ]
-                }
-            },
-            {
-                "title": "Infinite Food",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "IF"
-                    ]
-                }
-            },
-            {
-                "title": "Jabberwocks Lair",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Jabberwocks Lair"
-                    ]
-                }
-            },
-            {
-                "title": "Jubjubs Nest",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Jubjubs Nest"
-                    ]
-                }
-            },
+
             {
                 "title": "Liddell Cemetery",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "LC"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Liddell Cemetery",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "LC","Overworld"
+                                ]
+                            }
+                        },
+
+                        {
+                            "title": "Ripon Cathedral",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "RGC","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
+
+
             {
                 "title": "Library Dream",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "LD"
+                        "LD","Overworld"
                     ]
                 }
             },
             {
                 "title": "Lutwidge Town",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "LT"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Lutwidge Town",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "LT","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Lutwidge Town's sewer",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "LTU","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Park of Fog",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "PoF","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Upper Lutwidge Town",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "ULT","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-            {
-                "title": "Lutwidge Town's sewer",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "LTU"
-                    ]
-                }
-            },
-            {
-                "title": "Mushroom Village",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "MV"
-                    ]
-                }
-            },
+
+
             {
                 "title": "Mental Ward",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "MW"
+                        "MW","Overworld"
                     ]
                 }
             },
             {
                 "title": "Nameless Forest",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "NF"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Nameless Forest",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "NF","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Station Hanover",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "ASH","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-            {
-                "title": "Station Hanover",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "ASH"
-                    ]
-                }
-            },
-            {
-                "title": "Oysters' Rotted Sea",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "ORS"
-                    ]
-                }
-            },
+
             {
                 "title": "Ox Ward University",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "OWU"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Ox Ward University",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "OWU","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Endless Tea Party",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Endless Tea Party","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sick Clock Tower",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "SCT","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Jubjubs Nest",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Jubjubs Nest","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
+
             {
                 "title": "Pond of Bloody Tears",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "PoBT"
+                        "PoBT","Overworld"
                     ]
                 }
             },
-            {
-                "title": "Park of Fog",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "PoF"
-                    ]
-                }
-            },
+
             {
                 "title": "Queenlands",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "QL"
+                        "QL","Overworld"
                     ]
                 }
             },
             {
                 "title": "Red Castle Frissel",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "RCF"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Garden of Heart",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "GotH","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Red Castle Frissel",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "RCF","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-            {
-                "title": "Ripon Cathedral",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "RGC"
-                    ]
-                }
-            },
-            {
-                "title": "Sick Clock Tower",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "SCT"
-                    ]
-                }
-            },
+
             {
                 "title": "Spore Forest",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "SF"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Spore Forest",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                     "SF","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Mushroom Village",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "MV","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
+
             {
-                "title": "Ship Graveyard",
+                "title": "Sea",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "SG"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Beach of Grief",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "BoG","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Oysters' Rotted Sea",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "ORS","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Ship Graveyard",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "SG","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Erebus",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Erebus","Overworld"
+                                ]
+                            }
+                        },
+
+                        {
+                            "title": "Deep Sea",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "DS","Overworld"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Deep Sea Knight Area",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Deep Sea Knight Area","Overworld"
+                                ]
+                            }
+                        }
                     ]
+
                 }
             },
-            {
-                "title": "Erebus",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Erebus"
-                    ]
-                }
-            },
-            {
-                "title": "Deep Sea",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "DS"
-                    ]
-                }
-            },
-            {
-                "title": "Deep Sea Knight Area",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Deep Sea Knight Area"
-                    ]
-                }
-            },
+
             {
                 "title": "Slaughterhouse",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "SH"
+                        "SH","Overworld"
                     ]
                 }
             },
 
             {
-                "title": "Upper Lutwidge Town",
+                "title": "DLC3 Areas",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "ULT"
-                    ]
-                }
-            },
-            {
-                "title": "Crimean Nursing Graveyard",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Crimean Nursing Graveyard"
-                    ]
-                }
-            },
-            {
-                "title": "Florence Arena",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Florence Arena"
-                    ]
-                }
-            },
-            {
-                "title": "Deserted Road",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Deserted Road"
-                    ]
-                }
-            },
-            {
-                "title": "Snow Field",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Snow Field"
-                    ]
-                }
-            },
-            {
-                "title": "Madness Mountain",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Madness Mountain"
-                    ]
-                }
-            },
-            {
-                "title": "Windless Valley",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Windless Valley"
-                    ]
-                }
-            },
-            {
-                "title": "White Castletown",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "White Castletown"
-                    ]
-                }
-            },
-            {
-                "title": "Black Knight Arena",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Black Knight Arena"
-                    ]
-                }
-            },
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Crimean Nursing Graveyard",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Crimean Nursing Graveyard",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Crimean Nursing Graveyard","Overworld"
+                                            ]
+                                        }
+                                    },
 
-            {
-                "title": "Winterbell",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Winterbell"
+                                    {
+                                        "title": "Florence Arena",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Florence Arena","Overworld"
+                                            ]
+                                        }
+                                    }
+                                ]
+
+                            }
+                        },
+
+                        {
+                            "title": "Winterbell",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Deserted Road",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Deserted Road","Overworld"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Snow Field",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Snow Field","Overworld"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Madness Mountain",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Madness Mountain","Overworld"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Windless Valley",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Windless Valley","Overworld"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "White Castletown",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "White Castletown","Overworld"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Black Knight Arena",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Black Knight Arena","Overworld"
+                                            ]
+                                        }
+                                    },
+
+
+                                    {
+                                        "title": "Winterbell",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Winterbell","Overworld"
+                                            ]
+                                        }
+                                    }
+                                ]
+
+                            }
+                        }
                     ]
+
                 }
             }
         ]

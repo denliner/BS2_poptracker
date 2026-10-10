@@ -431,14 +431,30 @@
         "overlay_align": "right",
         "codes": "butcherschainsaw"
     },
+
+
     {
-        "name": "progression9",
+        "name": "Ending G Obtainable",
         "type": "toggle",
-        "img": "images/items/progress.png",
+        "img": "images/items/crystal.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progression9"
+        "codes": "endinggobtainable"
     },
+    {
+        "name": "Progression",
+        "type": "consumable",
+        "allow_disabled": false,
+        "loop": false,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_font_size": 16,
+        "img": "images/items/progress.png",
+        "codes": "progression"
+    },
+
     {
         "name": "Mosquito Ring",
         "type": "toggle",
@@ -863,14 +879,7 @@
         "overlay_align": "right",
         "codes": "blacksouls2"
     },
-    {
-        "name": "progression2",
-        "type": "toggle",
-        "img": "images/items/progress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progression2"
-    },
+
     {
         "name": "Soul Of The Butcher",
         "type": "toggle",
@@ -1135,14 +1144,7 @@
         "overlay_align": "right",
         "codes": "winterwitchscoat"
     },
-    {
-        "name": "progression5",
-        "type": "toggle",
-        "img": "images/items/progress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progression5"
-    },
+
     {
         "name": "Soul Of The Knight Of Clubs",
         "type": "toggle",
@@ -1463,14 +1465,7 @@
         "overlay_align": "right",
         "codes": "trollring"
     },
-    {
-        "name": "progression3",
-        "type": "toggle",
-        "img": "images/items/progress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progression3"
-    },
+
     {
         "name": "Unbreakable Ring",
         "type": "toggle",
@@ -1535,14 +1530,7 @@
         "overlay_align": "right",
         "codes": "huntersattire"
     },
-    {
-        "name": "progression7",
-        "type": "toggle",
-        "img": "images/items/progress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progression7"
-    },
+
     {
         "name": "Toto's Ring",
         "type": "toggle",
@@ -1903,14 +1891,7 @@
         "overlay_align": "right",
         "codes": "pumpkinknightsring"
     },
-    {
-        "name": "progression10",
-        "type": "toggle",
-        "img": "images/items/progress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progression10"
-    },
+
     {
         "name": "fairytale[bluebeard]",
         "type": "toggle",
@@ -2023,14 +2004,7 @@
         "overlay_align": "right",
         "codes": "covenant_maidvictoria"
     },
-    {
-        "name": "progression4",
-        "type": "toggle",
-        "img": "images/items/progress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progression4"
-    },
+
     {
         "name": "Black Sword",
         "type": "toggle",
@@ -2319,14 +2293,7 @@
         "overlay_align": "right",
         "codes": "covenant_tweedledee&tweedledum"
     },
-    {
-        "name": "progression6",
-        "type": "toggle",
-        "img": "images/items/progress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progression6"
-    },
+
     {
         "name": "Templar Shield",
         "type": "toggle",
@@ -2823,14 +2790,7 @@
         "overlay_align": "right",
         "codes": "ringofrecklesshero"
     },
-    {
-        "name": "progression8",
-        "type": "toggle",
-        "img": "images/items/progress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progression8"
-    },
+
     {
         "name": "Leiden's Twin Axes",
         "type": "toggle",
@@ -2903,14 +2863,7 @@
         "overlay_align": "right",
         "codes": "hornetring"
     },
-    {
-        "name": "progression1",
-        "type": "toggle",
-        "img": "images/items/progress.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progression1"
-    },
+
     {
         "name": "Eat Me",
         "type": "toggle",
@@ -2934,6 +2887,69 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "holyknightsshield"
+    },
+
+    {
+        "name": "Red Hood Met",
+        "type": "consumable",
+        "allow_disabled": false,
+        "loop": false,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_font_size": 16,
+        "img": "images/items/redhood.png",
+        "codes": "redhoodmet"
+    },
+
+    {
+        "name": "Queensland's Memories",
+        "type": "toggle",
+        "img": "images/items/flame.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aliceflameql"
+    },
+    {
+        "name": "Red Castle Frissel's Memories",
+        "type": "toggle",
+        "img": "images/items/flame.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aliceflamercf"
+    },
+    {
+        "name": "Carroll River's Memories",
+        "type": "toggle",
+        "img": "images/items/flame.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aliceflamecr"
+    },    
+    {
+        "name": "Beach of Grief's Memories",
+        "type": "toggle",
+        "img": "images/items/flame.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aliceflamebog"
+    },
+    {
+        "name": "Ox Ward University's Memories",
+        "type": "toggle",
+        "img": "images/items/flame.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aliceflameowu"
+    },
+    {
+        "name": "Endless Tea Party's Memories",
+        "type": "toggle",
+        "img": "images/items/flame.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aliceflameetp"
     },
     {
         "name": "update",

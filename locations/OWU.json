@@ -236,6 +236,32 @@
                 ]
             },
             {
+                "name": "Memories",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "edithsring"
+                ],
+                "sections": [
+                    {
+                        "name": "Ox Ward University's Memories",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OWU",
+                        "x": 1009,
+                        "y": 502,
+                        "size": 20,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Mist",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",

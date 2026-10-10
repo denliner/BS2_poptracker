@@ -26,10 +26,11 @@
                         "visibility_rules": [],
                         "item_count": 1
                     },
-                    
                     {
                         "name": "Pricketts Ring",
-                        "access_rules": ["covenant_bestgirlprickett"],
+                        "access_rules": [
+                            "covenant_bestgirlprickett"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -204,7 +205,6 @@
                     }
                 ]
             },
-
             {
                 "name": "Clown Murderer",
                 "chest_unopened_img": "/images/items/close.png",
@@ -226,6 +226,32 @@
                         "map": "QL",
                         "x": 674,
                         "y": 1556,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Memories",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Queensland's Memories",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "QL",
+                        "x": 818,
+                        "y": 893,
                         "size": 40,
                         "shape": "rect"
                     }

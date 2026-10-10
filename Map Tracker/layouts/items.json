@@ -19,16 +19,8 @@
                         "item_width": 36,
                         "rows": [
                             [
-                                "progression1",
-                                "progression2",
-                                "progression3",
-                                "progression4",
-                                "progression5",
-                                "progression6",
-                                "progression7",
-                                "progression8",
-                                "progression9",
-                                "progression10",
+                                "progression",
+                                "redhoodmet",
                                 "cheshirecatsring",
                                 "edithsring",
                                 "leafsring",
@@ -40,6 +32,13 @@
                                 "blackwellsletter",
                                 "doortopof",
                                 "throughoxwardgate",
+                                "aliceflameql", 
+                                "aliceflamercf",
+                                "aliceflamecr",
+                                "aliceflamebog",
+                                "aliceflameowu",
+                                "aliceflameetp",
+                                "endinggobtainable",
                                 "endinggachieved"
 
                                                                                
@@ -117,16 +116,8 @@
                         "item_width": 36,
                         "rows": [
                             [
-                                "progression1",
-                                "progression2",
-                                "progression3",
-                                "progression4",
-                                "progression5",
-                                "progression6",
-                                "progression7",
-                                "progression8",
-                                "progression9",
-                                "progression10",
+                                "progression",
+                                "redhoodmet",
                                 "cheshirecatsring",
                                 "edithsring",
                                 "leafsring",
@@ -138,6 +129,13 @@
                                 "blackwellsletter",
                                 "doortopof",
                                 "throughoxwardgate",
+                                "aliceflameql", 
+                                "aliceflamercf",
+                                "aliceflamecr",
+                                "aliceflamebog",
+                                "aliceflameowu",
+                                "aliceflameetp",
+                                "endinggobtainable",
                                 "endinggachieved"
 
                                                                                
