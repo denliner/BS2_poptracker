@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{ 
+			"package_version": "1.0.0",
+			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V1.0.0/BS2_poptracker-1.0.0.zip",
+			"sha256": "c9938b83836c48ba586f246a72655754b5d7f5eae827ecc5b3e38c3a2d1a9875",
+			"changelog": ["Update the tracker to support the latest BSII Appworld updates,Track how many time Red Hood has been met,Track Lewis Carroll's memories,Cleaned up the UI:Maps/submaps have been grouped together (there is now only 18 tabs displayed by default instead of 45),The global map is always displayed"]
+		},
+		{ 
 			"package_version": "0.5.2",
 			"download_url": "https://github.com/denliner/BS2_poptracker/releases/download/V0.5.2/BS2_poptracker-0.5.2.zip",
 			"sha256": "41a7bd3ad49d2eaf62686fa411e3b9176788c37355d3fb0e0a9152611f829879",
